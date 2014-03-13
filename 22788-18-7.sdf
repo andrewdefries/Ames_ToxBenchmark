@@ -1,0 +1,73 @@
+22788-18-7
+ChemmineR-0127140935XD
+
+ 16 15  0  0  0  0            999 V2000
+    6.5000    1.9500    0.0000 N    0  0
+    6.5000    0.7500    0.0000 P    0  0
+    5.4608    1.3502    0.0000 O    0  0
+    5.2000    0.0000    0.0000 O    0  0
+    3.9000    0.7500    0.0000 C    0  0
+    2.6000    0.0000    0.0000 C    0  0
+    1.3000    0.7500    0.0000 C    0  0
+    0.2606    0.1503    0.0000 O    0  0
+    1.3000    1.9500    0.0000 O    0  0
+    7.7999    0.0000    0.0000 N    0  0
+    9.0999    0.7500    0.0000 C    0  0
+   10.3999    0.0000    0.0000 C    0  0
+   11.4393    0.5997    0.0000 Cl   0  0
+    7.8030   -1.5008    0.0000 C    0  0
+    9.1038   -2.2494    0.0000 C    0  0
+    9.1063   -3.4494    0.0000 Cl   0  0
+  1  2  1  0
+  2  3  2  0
+  2  4  1  0
+  4  5  1  0
+  5  6  1  0
+  6  7  1  0
+  7  8  2  0
+  7  9  1  0
+  2 10  1  0
+ 10 11  1  0
+ 11 12  1  0
+ 12 13  1  0
+ 10 14  1  0
+ 14 15  1  0
+ 15 16  1  0
+M  END
+> <canonical_smiles>
+NP(=O)(OCCC(=O)O)N(CCCl)CCCl
+
+> <CAS_NO>
+22788-18-7
+
+> <Source>
+CCRIS
+
+> <Activity>
+1
+
+> <WDI_Name>
+CARBOXYPH
+
+> <REFERENCE>
+WINCKLER,K, OBE,G, MADLE,S AND NAU,H, MUTAGENIC ACTIVITIES OFCYCLOPHOSPHAMIDE (NSC-26271) AND ITS MAIN METABOLITES IN SALMONELLA TYPHIMURIUM,HUMAN PERIPHERAL LYMPHOCYTES AND CHINESE HAMSTER OVARY CELL __ S, MUTAT. RES.129(1):47-55, 1984
+
+> <MC_Example>
+0
+
+> <MC_Pred>
+0
+
+> <DEREK_Example>
+0
+
+> <DEREK_Pred>
+1
+
+> <Molecular_Weight>
+293.08476
+
+> <Set>
+CV3 __  __ 
+
+$$$$

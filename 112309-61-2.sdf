@@ -1,0 +1,60 @@
+112309-61-2
+ChemmineR-0127140935XD
+
+  9  9  0  0  0  0            999 V2000
+    1.4553   -2.0031    0.0000 C    0  0
+    0.7500   -1.0323    0.0000 C    0  0
+    1.2135    0.3943    0.0000 C    0  0
+    2.3548    0.7651    0.0000 Cl   0  0
+    0.0000    1.2760    0.0000 C    0  0
+    0.0000    2.4760    0.0000 O    0  0
+   -1.2135    0.3943    0.0000 O    0  0
+   -0.7500   -1.0323    0.0000 C    0  0
+   -1.4553   -2.0031    0.0000 O    0  0
+  1  2  1  0
+  2  3  2  3
+  3  4  1  0
+  3  5  1  0
+  5  6  2  0
+  5  7  1  0
+  7  8  1  0
+  8  2  1  0
+  8  9  1  0
+M  END
+> <canonical_smiles>
+CC1=C(Cl)C(=O)OC1O
+
+> <CAS_NO>
+112309-61-2
+
+> <Source>
+CCRIS
+
+> <Activity>
+1
+
+> <WDI_Name>
+.
+
+> <REFERENCE>
+LALONDE,RT, COOK,GP, PERAKYLA,H AND BU,L, STRUCTURE-ACTIVITYRELATIONSHIPS OF BACTERIAL MUTAGENS RELATED TO3-CHLORO-4-(DICHLOROMETHYL)-5-HYDROXY-2(5H)- FURANONE: AN EMPHASIS ON THE EFFECTOF STEPWISE RE __ MOVAL OF CHLORINE FROM THE DICHLOROMETHYL GROUP, CHEM. RES.TOXICOL. 4(5):540-545, 1991
+
+> <MC_Example>
+0
+
+> <MC_Pred>
+1
+
+> <DEREK_Example>
+0
+
+> <DEREK_Pred>
+1
+
+> <Molecular_Weight>
+148.54439
+
+> <Set>
+CV5 __  __ 
+
+$$$$

@@ -1,0 +1,67 @@
+92-52-4
+ChemmineR-0127140935XD
+
+ 12 13  0  0  0  0            999 V2000
+    1.2990   -0.7500    0.0000 C   0  0
+    1.2990    0.7500    0.0000 C   0  0
+    0.0000    1.5000    0.0000 C   0  0
+   -1.2990    0.7500    0.0000 C   0  0
+   -1.2990   -0.7500    0.0000 C   0  0
+    0.0000   -1.5000    0.0000 C   0  0
+   -2.5987    1.5004    0.0000 C   0  0
+   -2.6012    3.0004    0.0000 C   0  0
+   -3.9015    3.7484    0.0000 C   0  0
+   -5.1993    2.9963    0.0000 C   0  0
+   -5.1969    1.4963    0.0000 C   0  0
+   -3.8967    0.7484    0.0000 C   0  0
+  1  2  2  0
+  2  3  1  0
+  3  4  2  0
+  4  5  1  0
+  5  6  2  0
+  6  1  1  0
+  4  7  1  0
+  7  8  2  0
+  8  9  1  0
+  9 10  2  0
+ 10 11  1  0
+ 11 12  2  0
+ 12  7  1  0
+M  END
+> <canonical_smiles>
+c1ccc(cc1)c2ccccc2
+
+> <CAS_NO>
+92-52-4
+
+> <Source>
+VITIC
+
+> <Activity>
+0
+
+> <WDI_Name>
+BIPHENYL;DR0038586
+
+> <REFERENCE>
+JUDSON, PN, COOKE, PA, DOERRER, NG, GREENE, N, HANZLIK, RP, HARDY, C, HARTMANN, A, HINCHLIFFE, D, HOLDER, J, MUELLER, L, STEGER-HARTMANN, T, ROTHFUSS, A, SMITH, M, THOMAS, K, VESSEY, JD AND ZEIGER E.  __ TOWARDS THE CREATION OF AN INTERNATIONAL TOXICOLOGY INFORMATION CENTRE. TOXICOLOGY 213(1-2):117-28, 2005
+
+> <MC_Example>
+1
+
+> <MC_Pred>
+0
+
+> <DEREK_Example>
+0
+
+> <DEREK_Pred>
+0
+
+> <Set>
+TRAIN
+
+> <Molecular_Weight>
+154.2078 __  __ 
+
+$$$$

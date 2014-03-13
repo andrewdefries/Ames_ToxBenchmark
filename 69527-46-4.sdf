@@ -1,0 +1,70 @@
+69527-46-4
+ChemmineR-0127140935XD
+
+ 14 14  0  0  0  0            999 V2000
+    2.8218   -2.1229    0.0000 O   0  0
+    1.6281   -2.2462    0.0000 N   0  0
+    1.1385   -3.3418    0.0000 O   0  0
+    0.7500   -1.0323    0.0000 C   0  0
+    1.2135    0.3943    0.0000 O   0  0
+    0.0000    1.2760    0.0000 C   0  0
+   -0.0031    2.7742    0.0000 C   0  0
+   -1.3040    3.5228    0.0000 C   0  0
+   -1.3071    5.0236    0.0000 C   0  0
+   -1.3096    6.2236    0.0000 N   0  0
+   -2.6024    2.7701    0.0000 C   0  0
+   -3.6406    2.1682    0.0000 N   0  0
+   -1.2135    0.3943    0.0000 C   0  0
+   -0.7500   -1.0323    0.0000 C   0  0
+  1  2  1  0
+  2  3  2  0
+  2  4  1  0
+  4  5  1  0
+  5  6  1  0
+  6  7  1  0
+  7  8  2  3
+  8  9  1  0
+  9 10  3  0
+  8 11  1  0
+ 11 12  3  0
+  6 13  2  0
+ 13 14  1  0
+ 14  4  2  0
+M  END
+> <canonical_smiles>
+ON(=O)c1oc(C=C(C#N)C#N)cc1
+
+> <CAS_NO>
+69527-46-4
+
+> <Source>
+CCRIS
+
+> <Activity>
+1
+
+> <WDI_Name>
+.
+
+> <REFERENCE>
+STURDIK,E, ROSENBERG,M, STIBRANYI,L, BALAZ,S, CHRENO,O, EBRINGER,L,ILAVSKY, D AND VEGH,D, STRUCTURE-MUTAGENICITY RELATIONSHIPS OF5-NITRO-2-FURYLETHYLENES IN SALMONELLA TYPHIMURIUM TA98, CHEM.-BIOL. IN __ TERACT.53(1-2):145-153, 1985
+
+> <MC_Example>
+0
+
+> <MC_Pred>
+0
+
+> <DEREK_Example>
+0
+
+> <DEREK_Pred>
+0
+
+> <Molecular_Weight>
+191.1436
+
+> <Set>
+CV5 __  __ 
+
+$$$$

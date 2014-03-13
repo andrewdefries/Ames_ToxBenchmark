@@ -1,0 +1,59 @@
+431-63-0
+ChemmineR-0127140935XD
+
+  9  8  0  0  0  0            999 V2000
+    0.2606    0.1503    0.0000 F   0  0
+    1.3000    0.7500    0.0000 C   0  0
+    1.3000    1.9500    0.0000 F   0  0
+    2.6000    0.0000    0.0000 C   0  0
+    2.6000   -1.2000    0.0000 F   0  0
+    3.9000    0.7500    0.0000 C   0  0
+    4.9394    0.1503    0.0000 F   0  0
+    3.9000    1.9500    0.0000 F   0  0
+    4.9391    1.3502    0.0000 F   0  0
+  1  2  1  0
+  2  3  1  0
+  2  4  1  0
+  4  5  1  0
+  4  6  1  0
+  6  7  1  0
+  6  8  1  0
+  6  9  1  0
+M  END
+> <canonical_smiles>
+FC(F)C(F)C(F)(F)F
+
+> <CAS_NO>
+431-63-0
+
+> <Source>
+CCRIS
+
+> <Activity>
+0
+
+> <WDI_Name>
+.
+
+> <REFERENCE>
+BROCK,WJ KELLY,DP MUNLEY,SM BENTLEY,KS MCGOWN,KM AND VALENTIN,R,INHALATION TOXICITY AND GENOTOXICTY OF HYDROFLUOROCARBON (HFC)-236FA ANDHFC-236EA, INT. J. TOXICOL. 19(2):69-83, 2000
+
+> <MC_Example>
+0
+
+> <MC_Pred>
+0
+
+> <DEREK_Example>
+0
+
+> <DEREK_Pred>
+0
+
+> <Molecular_Weight>
+152.03839
+
+> <Set>
+CV5 __  __ 
+
+$$$$

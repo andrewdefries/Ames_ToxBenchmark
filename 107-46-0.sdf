@@ -1,0 +1,59 @@
+107-46-0
+ChemmineR-0127140935XD
+
+  9  8  0  0  0  0            999 V2000
+    0.2606    0.1503    0.0000 C    0  0
+    1.3000    0.7500    0.0000 Si   0  0
+    1.3000    1.9500    0.0000 C    0  0
+    0.2609    1.3502    0.0000 C    0  0
+    2.6000    0.0000    0.0000 O    0  0
+    3.9000    0.7500    0.0000 Si   0  0
+    4.9394    0.1503    0.0000 C    0  0
+    3.9000    1.9500    0.0000 C    0  0
+    4.9391    1.3502    0.0000 C    0  0
+  1  2  1  0
+  2  3  1  0
+  2  4  1  0
+  2  5  1  0
+  5  6  1  0
+  6  7  1  0
+  6  8  1  0
+  6  9  1  0
+M  END
+> <canonical_smiles>
+C[Si](C)(C)O[Si](C)(C)C
+
+> <CAS_NO>
+107-46-0
+
+> <Source>
+CCRIS
+
+> <Activity>
+0
+
+> <WDI_Name>
+SIMETHICO
+
+> <REFERENCE>
+ISQUITH,A, MATHESON,D AND SLESINSKI,R, GENOTOXICITY STUDIES ONSELECTED ORGANOSILICON COMPOUNDS. IN VITRO ASSAYS, FOOD CHEM. TOXICOL.26(3):255-261, 1988
+
+> <MC_Example>
+0
+
+> <MC_Pred>
+-1
+
+> <DEREK_Example>
+0
+
+> <DEREK_Pred>
+0
+
+> <Molecular_Weight>
+162.37751
+
+> <Set>
+CV1 __  __ 
+
+$$$$

@@ -1,0 +1,69 @@
+101821-44-7
+ChemmineR-0127140935XD
+
+ 13 14  0  0  0  0            999 V2000
+    4.6772    1.0770    0.0000 N    0  0
+    4.0872    0.0320    0.0000 C    0  0
+    4.6976   -1.0012    0.0000 N    0  0
+    2.5889    0.0182    0.0000 C    0  0
+    1.7138    1.2033    0.0000 C    0  0
+    0.2917    0.7475    0.0000 C    0  0
+   -1.0028    1.5132    0.0000 C    0  0
+   -2.3155    0.7475    0.0000 C    0  0
+   -2.3155   -0.7475    0.0000 C    0  0
+   -3.3560   -1.3452    0.0000 Br   0  0
+   -1.0028   -1.5132    0.0000 C    0  0
+    0.2917   -0.7475    0.0000 C    0  0
+    1.7138   -1.2033    0.0000 N    0  0
+  1  2  1  0
+  2  3  2  0
+  2  4  1  0
+  4  5  2  0
+  5  6  1  0
+  6  7  2  0
+  7  8  1  0
+  8  9  2  0
+  9 10  1  0
+  9 11  1  0
+ 11 12  2  0
+ 12  6  1  0
+ 12 13  1  0
+ 13  4  1  0
+M  END
+> <canonical_smiles>
+NC(=N)c1cc2ccc(Br)cc2[nH]1
+
+> <CAS_NO>
+101821-44-7
+
+> <Source>
+CCRIS
+
+> <Activity>
+0
+
+> <WDI_Name>
+314-44
+
+> <REFERENCE>
+STAUFFERT,I, PAULINI,H, STEINMANN,U, SIPPEL,H AND ESTLER,CJ,INVESTIGATIONS ON MUTAGENICITY AND GENOTOXICITY OF PENTAMIDINE AND SOME RELATEDTRYPANOCIDAL DIAMIDINES, MUTAT. RES. 245(2):93-98, 1990
+
+> <MC_Example>
+0
+
+> <MC_Pred>
+0
+
+> <DEREK_Example>
+0
+
+> <DEREK_Pred>
+0
+
+> <Molecular_Weight>
+238.08391
+
+> <Set>
+CV2 __  __ 
+
+$$$$

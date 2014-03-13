@@ -1,0 +1,54 @@
+15980-15-1
+ChemmineR-0127140935XD
+
+  6  6  0  0  0  0            999 V2000
+     1.299    -0.750     0.000 C   0  0
+     1.299     0.750     0.000 C   0  0
+     0.000     1.500     0.000 S   0  0
+    -1.299     0.750     0.000 C   0  0
+    -1.299    -0.750     0.000 C   0  0
+     0.000    -1.500     0.000 O   0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+  4  5  1  0
+  5  6  1  0
+  6  1  1  0
+M  END
+> <canonical_smiles>
+C1CSCCO1
+
+> <CAS_NO>
+15980-15-1
+
+> <Source>
+EPA1
+
+> <Activity>
+0
+
+> <WDI_Name>
+.
+
+> <REFERENCE>
+KAZIUS, J, MCGUIRE, R AND BURSI, R. DERIVATION AND VALIDATION OF TOXICOPHORES FOR MUTAGENICITY PREDICTION. J. MED. CHEM. 48: 312-320, 2005
+
+> <MC_Example>
+0
+
+> <MC_Pred>
+0
+
+> <DEREK_Example>
+0
+
+> <DEREK_Pred>
+0
+
+> <Molecular_Weight>
+104.17071
+
+> <Set>
+CV5 __  __ 
+
+$$$$

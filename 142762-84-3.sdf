@@ -1,0 +1,73 @@
+142762-84-3
+ChemmineR-0127140935XD
+
+ 15 16  0  0  0  0            999 V2000
+    2.3280    5.0256    0.0000 C    0  0
+    2.3137    3.8257    0.0000 O    0  0
+    1.0055    3.0900    0.0000 C    0  0
+   -0.0267    3.7021    0.0000 O    0  0
+    0.9876    1.5922    0.0000 C    0  0
+    2.1968    0.6852    0.0000 C    0  0
+    1.7333   -0.7256    0.0000 S    0  0
+    0.2217   -0.7054    0.0000 C    0  0
+   -0.2419    0.7054    0.0000 N    0  0
+   -1.7333    0.7457    0.0000 C    0  0
+   -2.4279    1.7243    0.0000 O    0  0
+   -2.1968   -0.7054    0.0000 C    0  0
+   -0.9876   -1.5720    0.0000 C    0  0
+   -0.9876   -2.7720    0.0000 Cl   0  0
+   -3.3360   -1.0828    0.0000 Cl   0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  2  0
+  3  5  1  0
+  5  6  1  0
+  6  7  1  0
+  7  8  1  0
+  8  9  1  0
+  9  5  1  0
+  9 10  1  0
+ 10 11  2  0
+ 10 12  1  0
+ 12 13  2  3
+ 13  8  1  0
+ 13 14  1  0
+ 12 15  1  0
+M  END
+> <canonical_smiles>
+COC(=O)C1CSC2N1C(=O)C(=C2Cl)Cl
+
+> <CAS_NO>
+142762-84-3
+
+> <Source>
+CCRIS
+
+> <Activity>
+1
+
+> <WDI_Name>
+.
+
+> <REFERENCE>
+LALONDE,RT, XIE,S AND BU,L, TEST OF CHIRAL RECOGNITION IN THESALMONELLA TYPHIMURIUM (TA100) MUTAGENICITY OF MUCOCHLORIC ACID-CYSTEINEADDUCTS, ENVIRON. MOL. MUTAGEN. 22(3):181-187, 1993
+
+> <MC_Example>
+0
+
+> <MC_Pred>
+0
+
+> <DEREK_Example>
+0
+
+> <DEREK_Pred>
+1
+
+> <Molecular_Weight>
+268.11708
+
+> <Set>
+CV3 __  __ 
+
+$$$$

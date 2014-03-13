@@ -1,0 +1,73 @@
+98640-41-6
+ChemmineR-0127140935XD
+
+ 16 15  0  0  0  0            999 V2000
+    7.7999   -1.2000    0.0000 N   0  0
+    7.7999    0.0000    0.0000 C   0  0
+    6.5000    0.7500    0.0000 C   0  0
+    5.2000    0.0000    0.0000 S   0  0
+    3.9000    0.7500    0.0000 C   0  0
+    4.9391    1.3502    0.0000 F   0  0
+    3.9000    1.9500    0.0000 F   0  0
+    2.6000    0.0000    0.0000 C   0  0
+    1.5608   -0.6002    0.0000 F   0  0
+    2.6000   -1.2000    0.0000 F   0  0
+    1.3000    0.7500    0.0000 C   0  0
+    0.2606    0.1503    0.0000 F   0  0
+    1.3000    1.9500    0.0000 F   0  0
+    9.0999    0.7500    0.0000 C   0  0
+   10.1394    0.1503    0.0000 O   0  0
+    9.0999    1.9500    0.0000 O   0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+  4  5  1  0
+  5  6  1  0
+  5  7  1  0
+  5  8  1  0
+  8  9  1  0
+  8 10  1  0
+  8 11  1  0
+ 11 12  1  0
+ 11 13  1  0
+  2 14  1  0
+ 14 15  2  0
+ 14 16  1  0
+M  END
+> <canonical_smiles>
+NC(CSC(F)(F)C(F)(F)C(F)F)C(=O)O
+
+> <CAS_NO>
+98640-41-6
+
+> <Source>
+CCRIS
+
+> <Activity>
+0
+
+> <WDI_Name>
+.
+
+> <REFERENCE>
+GREEN,T AND ODUM,J, STRUCTURE/ACTIVITY STUDIES OF THE NEPHROTOXIC ANDMUTAGENIC ACTION OF CYSTEINE CONJUGATES OF CHLORO AND FLUOROALKENES, CHEM. BIOL.INTERACT. 54(1):15-31, 1985
+
+> <MC_Example>
+0
+
+> <MC_Pred>
+0
+
+> <DEREK_Example>
+0
+
+> <DEREK_Pred>
+0
+
+> <Molecular_Weight>
+271.18069
+
+> <Set>
+CV2 __  __ 
+
+$$$$

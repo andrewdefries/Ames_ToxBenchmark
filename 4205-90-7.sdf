@@ -1,0 +1,71 @@
+4205-90-7
+ChemmineR-0127140935XD
+
+ 14 15  0  0  0  0            999 V2000
+    2.3383   -1.3500    0.0000 Cl   0  0
+    1.2990   -0.7500    0.0000 C    0  0
+    1.2990    0.7500    0.0000 C    0  0
+    0.0000    1.5000    0.0000 C    0  0
+   -1.2990    0.7500    0.0000 C    0  0
+   -1.2990   -0.7500    0.0000 C    0  0
+   -2.3383   -1.3500    0.0000 Cl   0  0
+    0.0000   -1.5000    0.0000 C    0  0
+    0.0031   -3.0008    0.0000 N    0  0
+    1.3039   -3.7494    0.0000 C    0  0
+    1.4469   -5.2297    0.0000 N    0  0
+    2.9152   -5.5365    0.0000 C    0  0
+    3.6607   -4.2349    0.0000 C    0  0
+    2.6532   -3.1236    0.0000 N    0  0
+  1  2  1  0
+  2  3  2  0
+  3  4  1  0
+  4  5  2  0
+  5  6  1  0
+  6  7  1  0
+  6  8  2  0
+  8  2  1  0
+  8  9  1  0
+  9 10  1  0
+ 10 11  2  3
+ 11 12  1  0
+ 12 13  1  0
+ 13 14  1  0
+ 14 10  1  0
+M  END
+> <canonical_smiles>
+Clc1cccc(Cl)c1NC2=NCCN2
+
+> <CAS_NO>
+4205-90-7
+
+> <Source>
+CCRIS
+
+> <Activity>
+0
+
+> <WDI_Name>
+CLONIDINE;CLONIDHBR;CLONIDHCL;CLONIDTOS
+
+> <REFERENCE>
+NAKAJIMA,M, KITAZAWA,M, FUJIWARA,M, INOUE,H, ASANO,N AND YAMAKAWA,Y,MUTAGENICITY STUDIES OF CLONIDINE, IYAKUHIN KENKYU 27(9):587-605,1996
+
+> <MC_Example>
+0
+
+> <MC_Pred>
+0
+
+> <DEREK_Example>
+0
+
+> <DEREK_Pred>
+0
+
+> <Molecular_Weight>
+230.09386
+
+> <Set>
+CV4 __  __ 
+
+$$$$

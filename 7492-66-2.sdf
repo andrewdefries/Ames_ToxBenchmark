@@ -1,0 +1,73 @@
+7492-66-2
+ChemmineR-0127140935XD
+
+ 16 15  0  0  0  0            999 V2000
+    0.2606    0.1503    0.0000 C   0  0
+    1.3000    0.7500    0.0000 C   0  0
+    2.6000    0.0000    0.0000 O   0  0
+    3.9000    0.7500    0.0000 C   0  0
+    3.9031    2.2508    0.0000 O   0  0
+    5.2039    2.9994    0.0000 C   0  0
+    5.2063    4.1994    0.0000 C   0  0
+    5.2000    0.0000    0.0000 C   0  0
+    6.5000    0.7500    0.0000 C   0  0
+    6.5000    1.9500    0.0000 C   0  0
+    7.7999    0.0000    0.0000 C   0  0
+    9.0999    0.7500    0.0000 C   0  0
+   10.3999    0.0000    0.0000 C   0  0
+   11.6999    0.7500    0.0000 C   0  0
+   12.7393    0.1503    0.0000 C   0  0
+   11.6999    1.9500    0.0000 C   0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+  4  5  1  0
+  5  6  1  0
+  6  7  1  0
+  4  8  1  0
+  8  9  2  3
+  9 10  1  0
+  9 11  1  0
+ 11 12  1  0
+ 12 13  1  0
+ 13 14  2  3
+ 14 15  1  0
+ 14 16  1  0
+M  END
+> <canonical_smiles>
+CCOC(OCC)C=C(C)CCC=C(C)C
+
+> <CAS_NO>
+7492-66-2
+
+> <Source>
+EPA3
+
+> <Activity>
+0
+
+> <WDI_Name>
+.
+
+> <REFERENCE>
+FENG, J, LURATI, L, OUYANG, H, ROBINSON, T, WANG, Y, YUAN, S AND YOUNG, S. PREDICTIVE TOXICOLOGY: BENCHMARKING MOLECULAR DESCRIPTORS AND STATISTICAL METHODS. J. CHEM. INF. COMPUT. SCI. 43: 1463-1470,  __ 2003
+
+> <MC_Example>
+0
+
+> <MC_Pred>
+0
+
+> <DEREK_Example>
+0
+
+> <DEREK_Pred>
+0
+
+> <Molecular_Weight>
+226.35503
+
+> <Set>
+CV1 __  __ 
+
+$$$$

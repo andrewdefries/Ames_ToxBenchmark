@@ -1,0 +1,60 @@
+766-40-5
+ChemmineR-0127140935XD
+
+  9  9  0  0  0  0            999 V2000
+    1.4553   -2.0031    0.0000 O    0  0
+    0.7500   -1.0323    0.0000 C    0  0
+    1.2135    0.3943    0.0000 O    0  0
+    0.0000    1.2760    0.0000 C    0  0
+    0.0000    2.4760    0.0000 O    0  0
+   -1.2135    0.3943    0.0000 C    0  0
+   -0.7500   -1.0323    0.0000 C    0  0
+   -1.4553   -2.0031    0.0000 Cl   0  0
+   -2.3548    0.7651    0.0000 Cl   0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+  4  5  2  0
+  4  6  1  0
+  6  7  2  3
+  7  2  1  0
+  7  8  1  0
+  6  9  1  0
+M  END
+> <canonical_smiles>
+OC1OC(=O)C(=C1Cl)Cl
+
+> <CAS_NO>
+766-40-5
+
+> <Source>
+CCRIS
+
+> <Activity>
+1
+
+> <WDI_Name>
+.
+
+> <REFERENCE>
+HYTTINEN,JMT, NIITTUYKOSKI,M AND JANSSON,K,LACK OF UNIFORMITY IN THEMUTATIONAL SPECTRA OF CHLOROHYDROXYFURANONES IN SALMONELLA TYPHIMURIUM STRAINTA100, MUTAGENESIS 10(4):321-323, 1995
+
+> <MC_Example>
+0
+
+> <MC_Pred>
+1
+
+> <DEREK_Example>
+0
+
+> <DEREK_Pred>
+1
+
+> <Molecular_Weight>
+168.96288
+
+> <Set>
+CV4 __  __ 
+
+$$$$

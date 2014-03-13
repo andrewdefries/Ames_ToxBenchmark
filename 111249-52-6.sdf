@@ -1,0 +1,76 @@
+111249-52-6
+ChemmineR-0127140935XD
+
+ 16 18  0  0  0  0            999 V2000
+   -2.5030   -2.5190    0.0000 C   0  0
+   -2.4915   -1.3190    0.0000 C   0  0
+   -3.7006   -0.6045    0.0000 C   0  0
+   -3.7006    0.8244    0.0000 C   0  0
+   -4.7428    1.4191    0.0000 N   0  0
+   -2.4915    1.5389    0.0000 C   0  0
+   -2.5030    2.7388    0.0000 C   0  0
+   -1.2274    0.8244    0.0000 C   0  0
+    1.2274    0.8244    0.0000 C   0  0
+    2.4732    1.5389    0.0000 C   0  0
+    3.7372    0.8244    0.0000 C   0  0
+    3.7372   -0.6045    0.0000 C   0  0
+    2.4732   -1.3190    0.0000 C   0  0
+    1.2274   -0.6045    0.0000 C   0  0
+    0.0000   -1.3190    0.0000 N   0  0
+   -1.2274   -0.6045    0.0000 C   0  0
+  1  2  1  0
+  2  3  2  0
+  3  4  1  0
+  4  5  1  0
+  4  6  2  0
+  6  7  1  0
+  6  8  1  0
+  8  9  1  0
+  9 10  2  0
+ 10 11  1  0
+ 11 12  2  0
+ 12 13  1  0
+ 13 14  2  0
+ 14  9  1  0
+ 14 15  1  0
+ 15 16  1  0
+ 16  2  1  0
+ 16  8  2  0
+M  END
+> <canonical_smiles>
+Cc1cc(N)c(C)c2c3ccccc3[nH]c12
+
+> <CAS_NO>
+111249-52-6
+
+> <Source>
+CCRIS
+
+> <Activity>
+1
+
+> <WDI_Name>
+.
+
+> <REFERENCE>
+ANDRE,V, BIOSSART,C, SICHEL,F, GAUDUCHON,P, LE TALAER,JY, LANCELOT,JC,MERCIER,C, CHEMTOB,S, RAOULT,E AND TALLEC,A, MUTAGENICITY OF NITRO- ANDAMINO-SUBSTITUTED CARBAZOLES IN SALMONELLA TYPHIMURIUM. III __ . METHYLATEDDERIVATIVES OF 9H-CARBAZOLE, MUTAT. RES. 389(2-3):247-260, 1997
+
+> <MC_Example>
+0
+
+> <MC_Pred>
+1
+
+> <DEREK_Example>
+0
+
+> <DEREK_Pred>
+1
+
+> <Molecular_Weight>
+210.27436
+
+> <Set>
+CV3 __  __ 
+
+$$$$

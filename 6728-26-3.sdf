@@ -1,0 +1,55 @@
+6728-26-3
+ChemmineR-0127140935XD
+
+  7  6  0  0  0  0            999 V2000
+    0.2606    0.1503    0.0000 C   0  0
+    1.3000    0.7500    0.0000 C   0  0
+    2.6000    0.0000    0.0000 C   0  0
+    3.9000    0.7500    0.0000 C   0  0
+    5.2000    0.0000    0.0000 C   0  0
+    6.5000    0.7500    0.0000 C   0  0
+    7.5394    0.1503    0.0000 O   0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+  4  5  2  3
+  5  6  1  0
+  6  7  2  0
+M  END
+> <canonical_smiles>
+CCCC=CC=O
+
+> <CAS_NO>
+6728-26-3
+
+> <Source>
+CCRIS
+
+> <Activity>
+1
+
+> <WDI_Name>
+DR9604934
+
+> <REFERENCE>
+EDER,E, DEININGER,C, NEUDECKER,T AND DEININGER,D, MUTAGENICITY OFBETA-ALKYL SUBSTITUTED ACROLEIN CONGENERS IN THE SALMONELLA TYPHIMURIUM STRAINTA100 AND GENOTOXICTY TESTING IN THE SOS CHROMOTEST, ENVI __ RON. MOL. MUTAGEN.19(4):338-345, 1992
+
+> <MC_Example>
+0
+
+> <MC_Pred>
+0
+
+> <DEREK_Example>
+0
+
+> <DEREK_Pred>
+1
+
+> <Molecular_Weight>
+98.143
+
+> <Set>
+CV1 __  __ 
+
+$$$$

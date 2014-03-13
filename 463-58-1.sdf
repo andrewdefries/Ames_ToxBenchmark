@@ -1,0 +1,47 @@
+463-58-1
+ChemmineR-0127140935XD
+
+  3  2  0  0  0  0            999 V2000
+    0.2606    0.1503    0.0000 O   0  0
+    1.3000    0.7500    0.0000 C   0  0
+    2.3394    1.3497    0.0000 S   0  0
+  1  2  2  0
+  2  3  2  0
+M  END
+> <canonical_smiles>
+O=C=S
+
+> <CAS_NO>
+463-58-1
+
+> <Source>
+EPA3
+
+> <Activity>
+1
+
+> <WDI_Name>
+COS
+
+> <REFERENCE>
+FENG, J, LURATI, L, OUYANG, H, ROBINSON, T, WANG, Y, YUAN, S AND YOUNG, S. PREDICTIVE TOXICOLOGY: BENCHMARKING MOLECULAR DESCRIPTORS AND STATISTICAL METHODS. J. CHEM. INF. COMPUT. SCI. 43: 1463-1470,  __ 2003
+
+> <MC_Example>
+0
+
+> <MC_Pred>
+-1
+
+> <DEREK_Example>
+0
+
+> <DEREK_Pred>
+0
+
+> <Molecular_Weight>
+60.0751
+
+> <Set>
+CV5 __  __ 
+
+$$$$

@@ -1,0 +1,82 @@
+108893-58-9
+ChemmineR-0127140935XD
+
+ 19 21  0  0  0  0            999 V2000
+    5.2067    0.1931    0.0000 C   0  0
+    4.2000   -0.4600    0.0000 C   0  0
+    4.2004   -1.6600    0.0000 C   0  0
+    3.0600   -1.2000    0.0000 C   0  0
+    1.9100   -0.4600    0.0000 C   0  0
+    0.7800   -1.2000    0.0000 C   0  0
+    0.7883   -2.7010    0.0000 C   0  0
+    1.8305   -3.2959    0.0000 O   0  0
+   -0.3600   -0.4600    0.0000 C   0  0
+   -1.3200    0.2600    0.0000 C   0  0
+   -0.3600    1.0000    0.0000 C   0  0
+    0.3336    0.0207    0.0000 C   0  0
+    0.7800    1.7400    0.0000 C   0  0
+    0.7824    2.9400    0.0000 O   0  0
+    1.9100    1.0000    0.0000 C   0  0
+    2.2530    2.1499    0.0000 O   0  0
+    4.2000    1.0000    0.0000 C   0  0
+   -0.8641   -1.8590    0.0000 C   0  0
+   -0.0884   -2.7747    0.0000 O   0  0
+  1  2  1  0
+  2  3  1  0
+  2  4  1  0
+  4  5  1  0
+  5  6  2  3
+  6  7  1  0
+  7  8  2  0
+  6  9  1  0
+  9 10  1  0
+ 10 11  1  0
+ 11  9  1  0
+ 11 12  1  0
+ 11 13  1  0
+ 13 14  1  0
+ 13 15  1  0
+ 15  5  1  0
+ 15 16  1  0
+ 15 17  1  0
+ 17  2  1  0
+  9 18  1  0
+ 18 19  2  0
+M  END
+> <canonical_smiles>
+CC1(C)CC2=C(C=O)C3(CC3(C)C(O)C2(O)C1)C=O
+
+> <CAS_NO>
+108893-58-9
+
+> <Source>
+CCRIS
+
+> <Activity>
+1
+
+> <WDI_Name>
+.
+
+> <REFERENCE>
+ANKE,H, STERNER,O AND STEGLICH,W, STRUCTURE-ACTIVITY RELATIONSHIPS FORUNSATURATED DIALDEHYDES. 3. MUTAGENIC, ANTIMICROBIAL, CYTOTOXIC, AND PHYTOTOXICACTIVITIES OF MERULIDIAL DERIVATIVES, J. ANTIBIOT.  __ 42(5):738-744,1989
+
+> <MC_Example>
+0
+
+> <MC_Pred>
+0
+
+> <DEREK_Example>
+0
+
+> <DEREK_Pred>
+1
+
+> <Molecular_Weight>
+264.31689
+
+> <Set>
+CV3 __  __ 
+
+$$$$

@@ -1,0 +1,75 @@
+585-08-0
+ChemmineR-0127140935XD
+
+ 15 18  0  0  0  0            999 V2000
+      1.98     -3.58      0.00 O   0  0
+      2.54     -2.13      0.00 C   0  0
+      1.01     -2.37      0.00 C   0  0
+      0.09     -1.15      0.00 C   0  0
+     -1.45     -1.40      0.00 C   0  0
+     -2.43     -0.21      0.00 C   0  0
+     -1.87      1.20      0.00 C   0  0
+     -0.32      1.44      0.00 C   0  0
+      0.57      0.27      0.00 C   0  0
+      2.12      0.51      0.00 C   0  0
+      2.68      1.92      0.00 C   0  0
+      4.21      2.16      0.00 C   0  0
+      5.18      0.95      0.00 C   0  0
+      4.63     -0.43      0.00 C   0  0
+      3.10     -0.67      0.00 C   0  0
+  1  2  1  0
+  2  3  1  0
+  3  1  1  0
+  3  4  1  0
+  4  5  2  0
+  5  6  1  0
+  6  7  2  0
+  7  8  1  0
+  8  9  2  0
+  9  4  1  0
+  9 10  1  0
+ 10 11  2  0
+ 11 12  1  0
+ 12 13  2  0
+ 13 14  1  0
+ 14 15  2  0
+ 15  2  1  0
+ 15 10  1  0
+M  END
+> <canonical_smiles>
+O1C2C1c3ccccc3c4ccccc24
+
+> <CAS_NO>
+585-08-0
+
+> <Source>
+CCRIS
+
+> <Activity>
+1
+
+> <WDI_Name>
+.
+
+> <REFERENCE>
+GLATT,H, LUDEWIG,G, PLATT,KL, WAECHTER,F, YONA,I, BEN-SHOSHAN,S,JERUSHALMY, P, BLUM,J AND OESCH,F, ARENE IMINES, A NEW CLASS OF EXCEPTIONALLYPOTENT MUTAGENS IN BACTERIAL AND MAMMALIAN CELLS, CANCER RE __ S. 45(6):2600-2607,1985
+
+> <MC_Example>
+0
+
+> <MC_Pred>
+1
+
+> <DEREK_Example>
+0
+
+> <DEREK_Pred>
+1
+
+> <Molecular_Weight>
+194.2286
+
+> <Set>
+CV3 __  __ 
+
+$$$$

@@ -1,0 +1,66 @@
+1686-14-2
+ChemmineR-0127140935XD
+
+ 11 13  0  0  0  0            999 V2000
+   -1.9621    1.6209    0.0000 C   0  0
+   -0.8500    1.1700    0.0000 C   0  0
+    0.0087    2.0083    0.0000 C   0  0
+   -0.9100   -1.3400    0.0000 C   0  0
+    0.2700   -1.8300    0.0000 C   0  0
+    1.3800   -1.4900    0.0000 C   0  0
+    2.0400   -0.5300    0.0000 O   0  0
+    0.8900   -0.4200    0.0000 C   0  0
+    1.7033    0.4624    0.0000 C   0  0
+   -0.3500    0.0000    0.0000 C   0  0
+   -2.2000   -1.2500    0.0000 C   0  0
+  1  2  1  0
+  2  3  1  0
+  2  4  1  0
+  4  5  1  0
+  5  6  1  0
+  6  7  1  0
+  7  8  1  0
+  8  6  1  0
+  8  9  1  0
+  8 10  1  0
+ 10  2  1  0
+ 10 11  1  0
+ 11  4  1  0
+M  END
+> <canonical_smiles>
+CC1(C)C2CC3OC3(C)C1C2
+
+> <CAS_NO>
+1686-14-2
+
+> <Source>
+CCRIS
+
+> <Activity>
+0
+
+> <WDI_Name>
+PINENEOXA
+
+> <REFERENCE>
+VON DER HUDE,W, SEELBACH,A, BASLER,A, EPOXIDES: COMPARISON OF THEINDUCTION OF SOS REPAIR IN ESCHERICHIA COLI PQ37 AND THE BACTERIAL MUTAGENICITYIN THE AMES TEST, MUTAT. RES. 231(2):205-18, 1990
+
+> <MC_Example>
+0
+
+> <MC_Pred>
+0
+
+> <DEREK_Example>
+0
+
+> <DEREK_Pred>
+0
+
+> <Molecular_Weight>
+152.23344
+
+> <Set>
+CV3 __  __ 
+
+$$$$

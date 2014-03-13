@@ -1,0 +1,75 @@
+836-30-6
+ChemmineR-0127140935XD
+
+ 16 17  0  0  0  0            999 V2000
+    3.6375   -0.9049    0.0000 O   0  0
+    2.5973   -1.5031    0.0000 N   0  0
+    2.5956   -2.7031    0.0000 O   0  0
+    1.2990   -0.7500    0.0000 C   0  0
+    1.2990    0.7500    0.0000 C   0  0
+    0.0000    1.5000    0.0000 C   0  0
+   -1.2990    0.7500    0.0000 C   0  0
+   -2.6003    1.4977    0.0000 N   0  0
+   -3.8990    0.7455    0.0000 C   0  0
+   -5.2007    1.4909    0.0000 C   0  0
+   -6.4972    0.7364    0.0000 C   0  0
+   -6.4920   -0.7636    0.0000 C   0  0
+   -5.1903   -1.5091    0.0000 C   0  0
+   -3.8939   -0.7546    0.0000 C   0  0
+   -1.2990   -0.7500    0.0000 C   0  0
+    0.0000   -1.5000    0.0000 C   0  0
+  1  2  1  0
+  2  3  2  0
+  2  4  1  0
+  4  5  2  0
+  5  6  1  0
+  6  7  2  0
+  7  8  1  0
+  8  9  1  0
+  9 10  2  0
+ 10 11  1  0
+ 11 12  2  0
+ 12 13  1  0
+ 13 14  2  0
+ 14  9  1  0
+  7 15  1  0
+ 15 16  2  0
+ 16  4  1  0
+M  END
+> <canonical_smiles>
+ON(=O)c1ccc(Nc2ccccc2)cc1
+
+> <CAS_NO>
+836-30-6
+
+> <Source>
+CCRIS
+
+> <Activity>
+0
+
+> <WDI_Name>
+.
+
+> <REFERENCE>
+GUPTA,RL, KAUR,IP AND JUNEJA,TR, MUTAGENICITY OF THE ANTISCHISTOSOMALAGENT AMOSCANATE AND ITS HYDROLYTIC AND RELATED PARA SUBSTITUTED4-NITRODIPHENYLAMINE PRODUCTS, MED. SCI. RES. 20(10):365-368, 1992
+
+> <MC_Example>
+0
+
+> <MC_Pred>
+1
+
+> <DEREK_Example>
+0
+
+> <DEREK_Pred>
+0
+
+> <Molecular_Weight>
+216.23588
+
+> <Set>
+CV3 __  __ 
+
+$$$$

@@ -1,0 +1,66 @@
+6607-30-3
+ChemmineR-0127140935XD
+
+ 12 12  0  0  0  0            999 V2000
+    2.3238   -0.1256    0.0000 C   0  0
+    1.2990   -0.7500    0.0000 P   0  0
+    1.2709   -1.9497    0.0000 C   0  0
+    1.2990    0.7500    0.0000 N   0  0
+    0.0000    1.5000    0.0000 P   0  0
+    1.0531    2.0753    0.0000 C   0  0
+   -1.0530    2.0754    0.0000 C   0  0
+   -1.2990    0.7500    0.0000 N   0  0
+   -1.2990   -0.7500    0.0000 P   0  0
+   -2.3238   -0.1256    0.0000 C   0  0
+   -1.2708   -1.9497    0.0000 C   0  0
+    0.0000   -1.5000    0.0000 N   0  0
+  1  2  1  0
+  2  3  1  0
+  2  4  1  0
+  4  5  1  0
+  5  6  1  0
+  5  7  1  0
+  5  8  1  0
+  8  9  1  0
+  9 10  1  0
+  9 11  1  0
+  9 12  1  0
+ 12  2  1  0
+M  END
+> <canonical_smiles>
+CP1(C)NP(C)(C)NP(C)(C)N1
+
+> <CAS_NO>
+6607-30-3
+
+> <Source>
+CCRIS
+
+> <Activity>
+0
+
+> <WDI_Name>
+.
+
+> <REFERENCE>
+ALLCOCK,HR, PUCHER,SR, FITZPATRICK,RJ AND RASHID,K, ANTIBACTERIALACTIVITY AND MUTAGENICITY STUDIES OF WATER-SOLUBLE PHOSPHAZENE HIGH POLYMERS,BIOMATERIALS 13(12):857-862, 1992
+
+> <MC_Example>
+0
+
+> <MC_Pred>
+0
+
+> <DEREK_Example>
+0
+
+> <DEREK_Pred>
+0
+
+> <Molecular_Weight>
+231.19614
+
+> <Set>
+CV2 __  __ 
+
+$$$$

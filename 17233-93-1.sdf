@@ -1,0 +1,63 @@
+17233-93-1
+ChemmineR-0127140935XD
+
+ 11 10  0  0  0  0            999 V2000
+    3.6388   -2.1014    0.0000 C   0  0
+    2.6000   -1.5007    0.0000 C   0  0
+    1.5606   -2.1004    0.0000 C   0  0
+    2.6000    0.0000    0.0000 C   0  0
+    2.6000    1.2000    0.0000 O   0  0
+    1.3000    0.7500    0.0000 C   0  0
+    1.3000    1.9500    0.0000 C   0  0
+    0.2606    0.1503    0.0000 O   0  0
+    3.9000    0.7500    0.0000 C   0  0
+    4.9394    0.1503    0.0000 O   0  0
+    3.9000    1.9500    0.0000 O   0  0
+  1  2  1  0
+  2  3  1  0
+  2  4  1  0
+  4  5  1  0
+  4  6  1  0
+  6  7  1  0
+  6  8  1  0
+  4  9  1  0
+  9 10  2  0
+  9 11  1  0
+M  END
+> <canonical_smiles>
+CC(C)C(O)(C(C)O)C(=O)O
+
+> <CAS_NO>
+17233-93-1
+
+> <Source>
+CCRIS
+
+> <Activity>
+0
+
+> <WDI_Name>
+.
+
+> <REFERENCE>
+YAMANAKA,H NAGAO,M AND SUGIMURA,T, MUTAGENICITY OF PYRROLIZIDINEALKALOIDS IN THE SALMONELLA/MAMMALIAN-MICROSOME TEST, MUTAT. RES. 68(3):211-216,1979
+
+> <MC_Example>
+0
+
+> <MC_Pred>
+0
+
+> <DEREK_Example>
+0
+
+> <DEREK_Pred>
+0
+
+> <Molecular_Weight>
+162.18366
+
+> <Set>
+CV2 __  __ 
+
+$$$$

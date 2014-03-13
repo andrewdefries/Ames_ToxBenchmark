@@ -1,0 +1,45 @@
+7782-50-5
+ChemmineR-0127140935XD
+
+  2  1  0  0  0  0            999 V2000
+    0.2606    0.1503    0.0000 Cl   0  0
+    1.3000    0.7500    0.0000 Cl   0  0
+  1  2  1  0
+M  END
+> <canonical_smiles>
+ClCl
+
+> <CAS_NO>
+7782-50-5
+
+> <Source>
+EPA2
+
+> <Activity>
+0
+
+> <WDI_Name>
+CHLORINE
+
+> <REFERENCE>
+HELMA, C, CRAMER, T, KRAMER, S, AND DE RAEDT, L, DATA MINING AND MACHINE LEARNING TECHNIQUES FOR THE IDENTIFICATION OF MUTAGENICITY INDUCING SUBSTRUCTURES AND STRUCTURE ACTIVITY RELATIONSHIPS OF NONCO __ NGENERIC COMPOUNDS. J. CHEM. INF. COMPUT. SCI. 44: 1402-1411, 2004
+
+> <MC_Example>
+0
+
+> <MC_Pred>
+-1
+
+> <DEREK_Example>
+0
+
+> <DEREK_Pred>
+0
+
+> <Molecular_Weight>
+70.906
+
+> <Set>
+CV1 __  __ 
+
+$$$$

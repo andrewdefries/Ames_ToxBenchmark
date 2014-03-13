@@ -1,0 +1,67 @@
+92-54-6
+ChemmineR-0127140935XD
+
+ 12 13  0  0  0  0            999 V2000
+    1.2990   -0.7500    0.0000 C   0  0
+    1.2990    0.7500    0.0000 C   0  0
+    0.0000    1.5000    0.0000 N   0  0
+   -1.2990    0.7500    0.0000 C   0  0
+   -1.2990   -0.7500    0.0000 C   0  0
+    0.0000   -1.5000    0.0000 N   0  0
+    0.0000    3.0008    0.0000 C   0  0
+    1.2978    3.7529    0.0000 C   0  0
+    1.2954    5.2529    0.0000 C   0  0
+   -0.0048    6.0009    0.0000 C   0  0
+   -1.3026    5.2488    0.0000 C   0  0
+   -1.3002    3.7488    0.0000 C   0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+  4  5  1  0
+  5  6  1  0
+  6  1  1  0
+  3  7  1  0
+  7  8  2  0
+  8  9  1  0
+  9 10  2  0
+ 10 11  1  0
+ 11 12  2  0
+ 12  7  1  0
+M  END
+> <canonical_smiles>
+C1CN(CCN1)c2ccccc2
+
+> <CAS_NO>
+92-54-6
+
+> <Source>
+EPA1
+
+> <Activity>
+0
+
+> <WDI_Name>
+PHPIPERAZ
+
+> <REFERENCE>
+KAZIUS, J, MCGUIRE, R AND BURSI, R. DERIVATION AND VALIDATION OF TOXICOPHORES FOR MUTAGENICITY PREDICTION. J. MED. CHEM. 48: 312-320, 2005
+
+> <MC_Example>
+0
+
+> <MC_Pred>
+0
+
+> <DEREK_Example>
+0
+
+> <DEREK_Pred>
+0
+
+> <Molecular_Weight>
+162.23155
+
+> <Set>
+CV3 __  __ 
+
+$$$$

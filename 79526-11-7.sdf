@@ -1,0 +1,63 @@
+79526-11-7
+ChemmineR-0127140935XD
+
+ 10 11  0  0  0  0            999 V2000
+    1.8408   -4.2089    0.0000 C   0  0
+    3.3408   -4.2142    0.0000 O   0  0
+    2.5951   -3.0039    0.0000 C   0  0
+    2.5973   -1.5031    0.0000 O   0  0
+    1.2990   -0.7500    0.0000 C   0  0
+    1.2990    0.7500    0.0000 C   0  0
+    0.0000    1.5000    0.0000 C   0  0
+   -1.2990    0.7500    0.0000 C   0  0
+   -1.2990   -0.7500    0.0000 C   0  0
+    0.0000   -1.5000    0.0000 C   0  0
+  1  2  1  0
+  2  3  1  0
+  3  1  1  0
+  3  4  1  0
+  4  5  1  0
+  5  6  2  0
+  6  7  1  0
+  7  8  2  0
+  8  9  1  0
+  9 10  2  0
+ 10  5  1  0
+M  END
+> <canonical_smiles>
+C1OC1Oc2ccccc2
+
+> <CAS_NO>
+79526-11-7
+
+> <Source>
+CCRIS
+
+> <Activity>
+1
+
+> <WDI_Name>
+.
+
+> <REFERENCE>
+PARK,KK, KIM,HW, PARK,MK AND AHN,YH, CARCINOGENICITY OF PHENYL VINYLETHER AND ITS EPOXIDE, ENVIRON. MUTAGENS CARCINOG. 17(2):109-119,1997
+
+> <MC_Example>
+0
+
+> <MC_Pred>
+1
+
+> <DEREK_Example>
+0
+
+> <DEREK_Pred>
+1
+
+> <Molecular_Weight>
+136.14792
+
+> <Set>
+CV5 __  __ 
+
+$$$$

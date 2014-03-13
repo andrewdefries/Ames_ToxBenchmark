@@ -1,0 +1,61 @@
+817-99-2
+ChemmineR-0127140935XD
+
+ 10  9  0  0  0  0            999 V2000
+    1.3000    1.9500    0.0000 N   0  0
+    1.3000    0.7500    0.0000 C   0  0
+    0.2606    0.1503    0.0000 O   0  0
+    2.6000    0.0000    0.0000 C   0  0
+    3.9000    0.7500    0.0000 N   0  0
+    5.2000    0.0000    0.0000 C   0  0
+    5.2000   -1.2000    0.0000 O   0  0
+    6.5000    0.7500    0.0000 C   0  0
+    7.7999    0.0000    0.0000 N   0  0
+    8.8394   -0.5997    0.0000 N   0  0
+  1  2  1  0
+  2  3  2  0
+  2  4  1  0
+  4  5  1  0
+  5  6  1  0
+  6  7  2  0
+  6  8  1  0
+  8  9  2  3
+  9 10  3  0
+M  END
+> <canonical_smiles>
+NC(=O)CNC(=O)C=N#N
+
+> <CAS_NO>
+817-99-2
+
+> <Source>
+CCRIS
+
+> <Activity>
+1
+
+> <WDI_Name>
+.
+
+> <REFERENCE>
+MCCANN,J, CHOI,E, YAMASAKI,E AND AMES,BN, DETECTION OF CARCINOGENS ASMUTAGENS IN THE SALMONELLA/MICROSOME TEST: ASSAY OF 300 CHEMICALS, PROC. NATL.ACAD. SCI. USA 72(12):5135-5139, 1975
+
+> <MC_Example>
+0
+
+> <MC_Pred>
+0
+
+> <DEREK_Example>
+0
+
+> <DEREK_Pred>
+0
+
+> <Molecular_Weight>
+142.11604
+
+> <Set>
+CV2 __  __ 
+
+$$$$

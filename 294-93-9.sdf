@@ -1,0 +1,66 @@
+294-93-9
+ChemmineR-0127140935XD
+
+ 12 12  0  0  0  0            999 V2000
+    2.5095    1.4489    0.0000 C   0  0
+    1.4489    2.5096    0.0000 C   0  0
+    0.0000    2.8978    0.0000 O   0  0
+   -1.4489    2.5095    0.0000 C   0  0
+   -2.5096    1.4489    0.0000 C   0  0
+   -2.8978    0.0000    0.0000 O   0  0
+   -2.5095   -1.4489    0.0000 C   0  0
+   -1.4489   -2.5096    0.0000 C   0  0
+    0.0000   -2.8978    0.0000 O   0  0
+    1.4489   -2.5095    0.0000 C   0  0
+    2.5096   -1.4489    0.0000 C   0  0
+    2.8978    0.0000    0.0000 O   0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+  4  5  1  0
+  5  6  1  0
+  6  7  1  0
+  7  8  1  0
+  8  9  1  0
+  9 10  1  0
+ 10 11  1  0
+ 11 12  1  0
+ 12  1  1  0
+M  END
+> <canonical_smiles>
+C1COCCOCCOCCO1
+
+> <CAS_NO>
+294-93-9
+
+> <Source>
+EPA1
+
+> <Activity>
+0
+
+> <WDI_Name>
+12CROWN4
+
+> <REFERENCE>
+KAZIUS, J, MCGUIRE, R AND BURSI, R. DERIVATION AND VALIDATION OF TOXICOPHORES FOR MUTAGENICITY PREDICTION. J. MED. CHEM. 48: 312-320, 2005
+
+> <MC_Example>
+0
+
+> <MC_Pred>
+0
+
+> <DEREK_Example>
+0
+
+> <DEREK_Pred>
+0
+
+> <Molecular_Weight>
+176.21024
+
+> <Set>
+CV4 __  __ 
+
+$$$$

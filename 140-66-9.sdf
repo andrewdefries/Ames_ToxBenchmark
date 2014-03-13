@@ -1,0 +1,72 @@
+140-66-9
+ChemmineR-0127140935XD
+
+ 15 15  0  0  0  0            999 V2000
+    6.2384   -0.9019    0.0000 C   0  0
+    5.1988   -1.5012    0.0000 C   0  0
+    5.1984   -2.7012    0.0000 C   0  0
+    6.2377   -2.1017    0.0000 C   0  0
+    3.8990   -0.7508    0.0000 C   0  0
+    2.5988   -1.5004    0.0000 C   0  0
+    2.5984   -2.7004    0.0000 C   0  0
+    3.6377   -2.1009    0.0000 C   0  0
+    1.2990   -0.7500    0.0000 C   0  0
+    1.2990    0.7500    0.0000 C   0  0
+    0.0000    1.5000    0.0000 C   0  0
+   -1.2990    0.7500    0.0000 C   0  0
+   -2.3383    1.3500    0.0000 O   0  0
+   -1.2990   -0.7500    0.0000 C   0  0
+    0.0000   -1.5000    0.0000 C   0  0
+  1  2  1  0
+  2  3  1  0
+  2  4  1  0
+  2  5  1  0
+  5  6  1  0
+  6  7  1  0
+  6  8  1  0
+  6  9  1  0
+  9 10  2  0
+ 10 11  1  0
+ 11 12  2  0
+ 12 13  1  0
+ 12 14  1  0
+ 14 15  2  0
+ 15  9  1  0
+M  END
+> <canonical_smiles>
+CC(C)(C)CC(C)(C)c1ccc(O)cc1
+
+> <CAS_NO>
+140-66-9
+
+> <Source>
+CCRIS
+
+> <Activity>
+0
+
+> <WDI_Name>
+.
+
+> <REFERENCE>
+JAPAN CHEMICAL INDUSTRY ECOLOGY- TOXICOLOGY AND INFORMATION   CENTER,JAPAN, MUTAGENICITY TEST DATA OF EXISTING   CHEMICAL SUBSTANCES BASED ON THETOXICITY INVESTIGATION OF   THE INDUSTRIAL SAFETY AND H __ EALTH LAW, (SUPPL. 2),2000
+
+> <MC_Example>
+0
+
+> <MC_Pred>
+0
+
+> <DEREK_Example>
+1
+
+> <DEREK_Pred>
+0
+
+> <Molecular_Weight>
+206.32388
+
+> <Set>
+TRAIN __  __ 
+
+$$$$

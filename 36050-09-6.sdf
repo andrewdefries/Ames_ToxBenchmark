@@ -1,0 +1,64 @@
+36050-09-6
+ChemmineR-0127140935XD
+
+ 11 11  0  0  0  0            999 V2000
+    2.8218   -2.1229    0.0000 N   0  0
+    1.6281   -2.2462    0.0000 C   0  0
+    1.1385   -3.3418    0.0000 O   0  0
+    0.7500   -1.0323    0.0000 C   0  0
+    1.2135    0.3943    0.0000 C   0  0
+    0.0000    1.2760    0.0000 S   0  0
+   -1.2135    0.3943    0.0000 C   0  0
+   -0.7500   -1.0323    0.0000 C   0  0
+   -2.6394    0.8543    0.0000 N   0  0
+   -3.5300    0.0501    0.0000 O   0  0
+   -2.8910    2.0276    0.0000 O   0  0
+  1  2  1  0
+  2  3  2  0
+  2  4  1  0
+  4  5  2  0
+  5  6  1  0
+  6  7  1  0
+  7  8  2  0
+  8  4  1  0
+  7  9  1  0
+  9 10  2  0
+  9 11  1  0
+M  END
+> <canonical_smiles>
+NC(=O)c1csc(c1)N(=O)O
+
+> <CAS_NO>
+36050-09-6
+
+> <Source>
+CCRIS
+
+> <Activity>
+1
+
+> <WDI_Name>
+.
+
+> <REFERENCE>
+HRELIA,P, VIGAGNI,F, MOROTTI,M, FORTI,GC, BARBIERI,CL, SPINELLI,D ANDLAMARTINA,L, MECHANISM OF GENOTOXICITY AND ELECTRON DENSITY DISTRIBUTION BY NMROF 5-NITRO-3-THIOPHENECARBOXAMIDES, A NOVEL GROUP OF __  DIRECT-ACTING MUTAGENS INSALMONELLA TYPHIMURIUM, CHEM.-BIOL. INTERACT. 86(3):229-254, 1993
+
+> <MC_Example>
+0
+
+> <MC_Pred>
+1
+
+> <DEREK_Example>
+0
+
+> <DEREK_Pred>
+0
+
+> <Molecular_Weight>
+174.17774
+
+> <Set>
+CV4 __  __ 
+
+$$$$

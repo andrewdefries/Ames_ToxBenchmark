@@ -1,0 +1,85 @@
+76113-31-0
+ChemmineR-0127140935XD
+
+ 20 23  0  0  0  0            999 V2000
+    4.2658    2.6118    0.0000 O   0  0
+    3.0909    2.8560    0.0000 N   0  0
+    2.7153    3.9957    0.0000 O   0  0
+    2.0921    1.7360    0.0000 C   0  0
+    0.6232    2.0476    0.0000 C   0  0
+   -0.3338    0.9348    0.0000 C   0  0
+   -1.8473    0.9348    0.0000 C   0  0
+   -2.8710    2.0476    0.0000 C   0  0
+   -4.3400    1.7360    0.0000 C   0  0
+   -4.8073    0.2671    0.0000 C   0  0
+   -3.7613   -0.8235    0.0000 C   0  0
+   -2.2924   -0.4674    0.0000 C   0  0
+   -1.0683   -1.3576    0.0000 S   0  0
+    0.0890   -0.4674    0.0000 C   0  0
+    1.5802   -0.7790    0.0000 C   0  0
+    2.0921   -2.2256    0.0000 C   0  0
+    3.5610   -2.5149    0.0000 C   0  0
+    4.5403   -1.4244    0.0000 C   0  0
+    4.0729    0.0000    0.0000 C   0  0
+    2.5595    0.2893    0.0000 C   0  0
+  1  2  1  0
+  2  3  2  0
+  2  4  1  0
+  4  5  2  0
+  5  6  1  0
+  6  7  1  0
+  7  8  2  0
+  8  9  1  0
+  9 10  2  0
+ 10 11  1  0
+ 11 12  2  0
+ 12  7  1  0
+ 12 13  1  0
+ 13 14  1  0
+ 14  6  2  0
+ 14 15  1  0
+ 15 16  2  0
+ 16 17  1  0
+ 17 18  2  0
+ 18 19  1  0
+ 19 20  2  0
+ 20  4  1  0
+ 20 15  1  0
+M  END
+> <canonical_smiles>
+ON(=O)c1cc2c3ccccc3sc2c4ccccc14
+
+> <CAS_NO>
+76113-31-0
+
+> <Source>
+CCRIS
+
+> <Activity>
+1
+
+> <WDI_Name>
+.
+
+> <REFERENCE>
+KING,LC KOHAN,MJ BROOKS,L NELSON,GB ROSS,JA ALLISON,J ADAMS,L DESAI,DAMIN,S PADGETT,W LAMBERT,GR RICHARD,AM AND NESNOW,S, AN EVALUATION OF THEMUTAGENICITY, METABOLISM, AND DNA ADDUCT FORMATION OF5-NIT __ ROBENZO[B]NAPHTHO[2,1-D]THIOPHENE, CHEM. RES. TOXICOL. 14(6):661-671,2001
+
+> <MC_Example>
+0
+
+> <MC_Pred>
+1
+
+> <DEREK_Example>
+0
+
+> <DEREK_Pred>
+0
+
+> <Molecular_Weight>
+281.32903
+
+> <Set>
+CV4 __  __ 
+
+$$$$

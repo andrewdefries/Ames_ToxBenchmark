@@ -1,0 +1,69 @@
+423-39-2
+ChemmineR-0127140935XD
+
+ 14 13  0  0  0  0            999 V2000
+    0.2606    0.1503    0.0000 F   0  0
+    1.3000    0.7500    0.0000 C   0  0
+    1.3000    1.9500    0.0000 F   0  0
+    0.2609    1.3502    0.0000 F   0  0
+    2.6000    0.0000    0.0000 C   0  0
+    2.6000   -1.2000    0.0000 F   0  0
+    1.5608   -0.6002    0.0000 F   0  0
+    3.9000    0.7500    0.0000 C   0  0
+    3.9000    1.9500    0.0000 F   0  0
+    2.8608    1.3502    0.0000 F   0  0
+    5.2000    0.0000    0.0000 C   0  0
+    5.2000   -1.2000    0.0000 F   0  0
+    6.2391   -0.6002    0.0000 F   0  0
+    6.2394    0.5997    0.0000 I   0  0
+  1  2  1  0
+  2  3  1  0
+  2  4  1  0
+  2  5  1  0
+  5  6  1  0
+  5  7  1  0
+  5  8  1  0
+  8  9  1  0
+  8 10  1  0
+  8 11  1  0
+ 11 12  1  0
+ 11 13  1  0
+ 11 14  1  0
+M  END
+> <canonical_smiles>
+FC(F)(F)C(F)(F)C(F)(F)C(F)(F)I
+
+> <CAS_NO>
+423-39-2
+
+> <Source>
+CCRIS
+
+> <Activity>
+0
+
+> <WDI_Name>
+.
+
+> <REFERENCE>
+DODD,DE HOFFMAN,GM AND HARDY,CJ, PERFLUORO-N-BUTYL IODIDE: ACUTETOXICITY, SUBCHRONIC TOXICITY AND GENOTOXICITY EVALUATIONS, INT. J. TOXICOL.23(4):249-258, 2004
+
+> <MC_Example>
+0
+
+> <MC_Pred>
+0
+
+> <DEREK_Example>
+0
+
+> <DEREK_Pred>
+0
+
+> <Molecular_Weight>
+345.93289
+
+> <Set>
+CV2 __  __ 
+
+$$$$

@@ -1,0 +1,54 @@
+505-22-6
+ChemmineR-0127140935XD
+
+  6  6  0  0  0  0            999 V2000
+     1.299    -0.750     0.000 C   0  0
+     1.299     0.750     0.000 C   0  0
+     0.000     1.500     0.000 O   0  0
+    -1.299     0.750     0.000 C   0  0
+    -1.299    -0.750     0.000 O   0  0
+     0.000    -1.500     0.000 C   0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+  4  5  1  0
+  5  6  1  0
+  6  1  1  0
+M  END
+> <canonical_smiles>
+C1COCOC1
+
+> <CAS_NO>
+505-22-6
+
+> <Source>
+EPA3
+
+> <Activity>
+1
+
+> <WDI_Name>
+.
+
+> <REFERENCE>
+FENG, J, LURATI, L, OUYANG, H, ROBINSON, T, WANG, Y, YUAN, S AND YOUNG, S. PREDICTIVE TOXICOLOGY: BENCHMARKING MOLECULAR DESCRIPTORS AND STATISTICAL METHODS. J. CHEM. INF. COMPUT. SCI. 43: 1463-1470,  __ 2003
+
+> <MC_Example>
+0
+
+> <MC_Pred>
+0
+
+> <DEREK_Example>
+0
+
+> <DEREK_Pred>
+0
+
+> <Molecular_Weight>
+88.10512
+
+> <Set>
+CV5 __  __ 
+
+$$$$

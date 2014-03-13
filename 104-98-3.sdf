@@ -1,0 +1,62 @@
+104-98-3
+ChemmineR-0127140935XD
+
+ 10 10  0  0  0  0            999 V2000
+    3.0890   -4.7091    0.0000 O   0  0
+    1.8954   -4.8324    0.0000 C   0  0
+    1.4057   -5.9280    0.0000 O   0  0
+    1.0157   -3.6164    0.0000 C   0  0
+    1.6281   -2.2462    0.0000 C   0  0
+    0.7500   -1.0323    0.0000 C   0  0
+    1.2135    0.3943    0.0000 C   0  0
+    0.0000    1.2760    0.0000 N   0  0
+   -1.2135    0.3943    0.0000 C   0  0
+   -0.7500   -1.0323    0.0000 N   0  0
+  1  2  1  0
+  2  3  2  0
+  2  4  1  0
+  4  5  2  3
+  5  6  1  0
+  6  7  2  0
+  7  8  1  0
+  8  9  1  0
+  9 10  2  0
+ 10  6  1  0
+M  END
+> <canonical_smiles>
+OC(=O)C=Cc1c[nH]cn1
+
+> <CAS_NO>
+104-98-3
+
+> <Source>
+CCRIS
+
+> <Activity>
+0
+
+> <WDI_Name>
+UROCANATE
+
+> <REFERENCE>
+SHORT-TERM TEST PROGRAM SPONSORED BY THE DIVISION OF CANCER BIOLOGY,NATIONAL CANCER INSTITUTE, MS. ELLEN ZAIKA, ASSISTANT PROJECT   OFFICER , p.Y91
+
+> <MC_Example>
+0
+
+> <MC_Pred>
+0
+
+> <DEREK_Example>
+0
+
+> <DEREK_Pred>
+0
+
+> <Molecular_Weight>
+138.12404
+
+> <Set>
+CV4 __  __ 
+
+$$$$

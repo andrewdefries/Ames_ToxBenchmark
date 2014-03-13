@@ -1,0 +1,53 @@
+6792-33-2
+ChemmineR-0127140935XD
+
+  6  5  0  0  0  0            999 V2000
+    0.2606    0.1503    0.0000 F    0  0
+    1.3000    0.7500    0.0000 C    0  0
+    2.6000    0.0000    0.0000 C    0  0
+    2.6000   -1.2000    0.0000 F    0  0
+    3.6394    0.5997    0.0000 Cl   0  0
+    1.3000    1.9500    0.0000 F    0  0
+  1  2  1  0
+  2  3  2  3
+  3  4  1  0
+  3  5  1  0
+  2  6  1  0
+M  END
+> <canonical_smiles>
+FC(=C(F)Cl)F
+
+> <CAS_NO>
+6792-33-2
+
+> <Source>
+CCRIS
+
+> <Activity>
+0
+
+> <WDI_Name>
+ACLAR
+
+> <REFERENCE>
+GODIN,CS, MYHR,C, LAWLOR,TE, YOUNG,RR AND MURLI,H, GENOTOXICITYASSESSMENT OF CHLOROTRIFLUOROETHYLENE TETRAMER ACID USING A BATTERY OF IN VITROAND IN VIVO/IN VITRO ASSAYS, ARMSTRONG AEROSPACE MEDICAL R __ ESEARCH LABORATORY,WRIGHT- PATTERSON AIR FORCE BASE, REPORT NO. AAMRL-TR-90-069, NTIS AD-A240492,1990
+
+> <MC_Example>
+0
+
+> <MC_Pred>
+0
+
+> <DEREK_Example>
+0
+
+> <DEREK_Pred>
+1
+
+> <Molecular_Weight>
+116.4696
+
+> <Set>
+CV4 __  __ 
+
+$$$$

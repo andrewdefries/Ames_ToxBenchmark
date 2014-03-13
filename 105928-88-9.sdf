@@ -1,0 +1,59 @@
+105928-88-9
+ChemmineR-0127140935XD
+
+  9  8  0  0  0  0            999 V2000
+    5.2000    2.7000    0.0000 N   0  0
+    5.2000    1.5000    0.0000 C   0  0
+    3.9000    0.7500    0.0000 C   0  0
+    2.6000    1.5000    0.0000 N   0  0
+    1.3000    0.7500    0.0000 N   0  0
+    0.2606    0.1503    0.0000 N   0  0
+    6.5000    0.7500    0.0000 C   0  0
+    7.5394    1.3497    0.0000 O   0  0
+    6.5000   -0.4500    0.0000 O   0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+  4  5  2  3
+  5  6  3  0
+  2  7  1  0
+  7  8  2  0
+  7  9  1  0
+M  END
+> <canonical_smiles>
+NC(CN=N#N)C(=O)O
+
+> <CAS_NO>
+105928-88-9
+
+> <Source>
+CCRIS
+
+> <Activity>
+1
+
+> <WDI_Name>
+.
+
+> <REFERENCE>
+OWAIS,WM, RONALD,RC, KLEINHOFS,A AND NILAN,RA, SYNTHESIS ANDMUTAGENICITY OF THE TWO STEREOISOMERS OF AN AZIDE METABOLITE (AZIDOALANINE),MUTAT. RES. 175(3):121-126, 1986
+
+> <MC_Example>
+0
+
+> <MC_Pred>
+0
+
+> <DEREK_Example>
+0
+
+> <DEREK_Pred>
+0
+
+> <Molecular_Weight>
+130.10533
+
+> <Set>
+CV4 __  __ 
+
+$$$$

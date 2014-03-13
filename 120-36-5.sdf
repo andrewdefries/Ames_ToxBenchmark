@@ -1,0 +1,70 @@
+120-36-5
+ChemmineR-0127140935XD
+
+ 14 14  0  0  0  0            999 V2000
+    3.8969    0.4545    0.0000 C    0  0
+    3.8990   -0.7455    0.0000 C    0  0
+    2.6003   -1.4977    0.0000 O    0  0
+    1.2990   -0.7500    0.0000 C    0  0
+    1.2990    0.7500    0.0000 C    0  0
+    0.0000    1.5000    0.0000 C    0  0
+   -1.2990    0.7500    0.0000 C    0  0
+   -2.3383    1.3500    0.0000 Cl   0  0
+   -1.2990   -0.7500    0.0000 C    0  0
+    0.0000   -1.5000    0.0000 C    0  0
+    0.0000   -2.7000    0.0000 Cl   0  0
+    5.2003   -1.4932    0.0000 C    0  0
+    6.2387   -0.8917    0.0000 O    0  0
+    5.2024   -2.6932    0.0000 O    0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+  4  5  2  0
+  5  6  1  0
+  6  7  2  0
+  7  8  1  0
+  7  9  1  0
+  9 10  2  0
+ 10  4  1  0
+ 10 11  1  0
+  2 12  1  0
+ 12 13  2  0
+ 12 14  1  0
+M  END
+> <canonical_smiles>
+CC(Oc1ccc(Cl)cc1Cl)C(=O)O
+
+> <CAS_NO>
+120-36-5
+
+> <Source>
+CCRIS
+
+> <Activity>
+0
+
+> <WDI_Name>
+.
+
+> <REFERENCE>
+MERSCH-SUNDERMANN,V, DICKGIESSER,N, HABLIZEL,U AND GRUBER,B,EXAMINATION OF MUTAGENICITY OF ORGANIC MICROCONTAMINATIONS ON THE ENVIRONMENT.PART 1. THE MUTAGENICITY OF SELECTED HERBICIDES AND INSECTICID __ ES WITH THESALMONELLA-MICROSOME TEST (AMES TEST) IN CONSIDERATION OF THE PATHOGENICITY OFCONTAMINATED GROUND- AND DRINKING-WATER, ZENTRALBL. BAKTERIOL., MIKROBIOL. HYG.,SER. B 186(3):247-260, 1988
+
+> <MC_Example>
+0
+
+> <MC_Pred>
+0
+
+> <DEREK_Example>
+0
+
+> <DEREK_Pred>
+0
+
+> <Molecular_Weight>
+235.06402
+
+> <Set>
+CV4 __  __ 
+
+$$$$

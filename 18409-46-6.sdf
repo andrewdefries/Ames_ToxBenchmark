@@ -1,0 +1,57 @@
+18409-46-6
+ChemmineR-0127140935XD
+
+  8  7  0  0  0  0            999 V2000
+    0.2606    0.1503    0.0000 O   0  0
+    1.3000    0.7500    0.0000 C   0  0
+    2.6000    0.0000    0.0000 C   0  0
+    3.9000    0.7500    0.0000 C   0  0
+    5.2000    0.0000    0.0000 C   0  0
+    6.5000    0.7500    0.0000 C   0  0
+    7.7999    0.0000    0.0000 C   0  0
+    8.8394    0.5997    0.0000 O   0  0
+  1  2  2  0
+  2  3  1  0
+  3  4  2  3
+  4  5  1  0
+  5  6  2  3
+  6  7  1  0
+  7  8  2  0
+M  END
+> <canonical_smiles>
+O=CC=CC=CC=O
+
+> <CAS_NO>
+18409-46-6
+
+> <Source>
+CCRIS
+
+> <Activity>
+1
+
+> <WDI_Name>
+.
+
+> <REFERENCE>
+WITZ,G, GAD,SC, TICE,RR, OSHIRO,Y, PIPER,CE AND GOLDSTEIN,BD, GENETICTOXICITY OF THE BENZENE METABOLITE TRANS,TRANS-MUCONALDEHYDE IN MAMMALIAN ANDBACTERIAL CELLS, MUTAT. RES. 240(4):295-306, 1990
+
+> <MC_Example>
+0
+
+> <MC_Pred>
+0
+
+> <DEREK_Example>
+0
+
+> <DEREK_Pred>
+1
+
+> <Molecular_Weight>
+110.11064
+
+> <Set>
+CV4 __  __ 
+
+$$$$

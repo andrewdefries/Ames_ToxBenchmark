@@ -1,0 +1,65 @@
+151751-83-6
+ChemmineR-0127140935XD
+
+ 12 11  0  0  0  0            999 V2000
+    0.2606    0.1503    0.0000 C   0  0
+    1.3000    0.7500    0.0000 C   0  0
+    2.6000    0.0000    0.0000 O   0  0
+    3.9000    0.7500    0.0000 C   0  0
+    3.9000    1.9500    0.0000 O   0  0
+    5.2000    0.0000    0.0000 N   0  0
+    6.5000    0.7500    0.0000 C   0  0
+    7.7999    0.0000    0.0000 C   0  0
+    9.0999    0.7500    0.0000 C   0  0
+   10.1394    0.1503    0.0000 O   0  0
+    5.2030   -1.5008    0.0000 N   0  0
+    6.2431   -2.0994    0.0000 O   0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+  4  5  2  0
+  4  6  1  0
+  6  7  1  0
+  7  8  1  0
+  8  9  1  0
+  9 10  2  0
+  6 11  1  0
+ 11 12  2  0
+M  END
+> <canonical_smiles>
+CCOC(=O)N(CCC=O)N=O
+
+> <CAS_NO>
+151751-83-6
+
+> <Source>
+CCRIS
+
+> <Activity>
+1
+
+> <WDI_Name>
+.
+
+> <REFERENCE>
+CHUNG,FL, KRZEMINSKI,J, WANG,M, CHEN,HJC AND PROKOPCZYK,B, FORMATIONOF THE ACROLEIN-DERIVED 1,N2-PROPANODEOXYGUANOSINE ADDUCTS IN DNA UPON REACTIONWITH 3-(N-CARBETHOXY-N-NITROSAMINO)PROPIONALDEHYDE, C __ HEM. RES. TOXICOL.7(1):62-67, 1994
+
+> <MC_Example>
+0
+
+> <MC_Pred>
+1
+
+> <DEREK_Example>
+0
+
+> <DEREK_Pred>
+1
+
+> <Molecular_Weight>
+174.1546
+
+> <Set>
+CV3 __  __ 
+
+$$$$

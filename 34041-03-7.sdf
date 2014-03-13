@@ -1,0 +1,73 @@
+34041-03-7
+ChemmineR-0127140935XD
+
+ 16 15  0  0  0  0            999 V2000
+    0.2606    0.1503    0.0000 C   0  0
+    1.3000    0.7500    0.0000 N   0  0
+    1.3000    1.9500    0.0000 C   0  0
+    2.6000    0.0000    0.0000 C   0  0
+    2.6000   -1.2000    0.0000 S   0  0
+    3.9000    0.7500    0.0000 S   0  0
+    5.2000    0.0000    0.0000 N   0  0
+    6.5000    0.7500    0.0000 C   0  0
+    7.7999    0.0000    0.0000 C   0  0
+    9.0999    0.7500    0.0000 N   0  0
+   10.3999    0.0000    0.0000 S   0  0
+   11.6999    0.7500    0.0000 C   0  0
+   11.6999    1.9500    0.0000 S   0  0
+   12.9999    0.0000    0.0000 N   0  0
+   14.0393    0.5997    0.0000 C   0  0
+   12.9999   -1.2000    0.0000 C   0  0
+  1  2  1  0
+  2  3  1  0
+  2  4  1  0
+  4  5  2  0
+  4  6  1  0
+  6  7  1  0
+  7  8  1  0
+  8  9  1  0
+  9 10  1  0
+ 10 11  1  0
+ 11 12  1  0
+ 12 13  2  0
+ 12 14  1  0
+ 14 15  1  0
+ 14 16  1  0
+M  END
+> <canonical_smiles>
+CN(C)C(=S)SNCCNSC(=S)N(C)C
+
+> <CAS_NO>
+34041-03-7
+
+> <Source>
+CCRIS
+
+> <Activity>
+1
+
+> <WDI_Name>
+.
+
+> <REFERENCE>
+MORIYA,M OHTA,T WATANABE,K MIYAZAWA,T KATO,K AND SHIRASU,Y, FURTHERMUTAGENICITY STUDIES ON PESTICIDES IN BACTERIAL REVERSION ASSAY SYSTEMS, MUTAT.RES. 116(3-4):185-216,1982
+
+> <MC_Example>
+0
+
+> <MC_Pred>
+1
+
+> <DEREK_Example>
+0
+
+> <DEREK_Pred>
+0
+
+> <Molecular_Weight>
+298.51532
+
+> <Set>
+CV3 __  __ 
+
+$$$$

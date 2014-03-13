@@ -1,0 +1,57 @@
+628-02-4
+ChemmineR-0127140935XD
+
+  8  7  0  0  0  0            999 V2000
+    0.2606    0.1503    0.0000 C   0  0
+    1.3000    0.7500    0.0000 C   0  0
+    2.6000    0.0000    0.0000 C   0  0
+    3.9000    0.7500    0.0000 C   0  0
+    5.2000    0.0000    0.0000 C   0  0
+    6.5000    0.7500    0.0000 C   0  0
+    7.5394    0.1503    0.0000 O   0  0
+    6.5000    1.9500    0.0000 N   0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+  4  5  1  0
+  5  6  1  0
+  6  7  2  0
+  6  8  1  0
+M  END
+> <canonical_smiles>
+CCCCCC(=O)N
+
+> <CAS_NO>
+628-02-4
+
+> <Source>
+VITIC
+
+> <Activity>
+0
+
+> <WDI_Name>
+POLICAPRA
+
+> <REFERENCE>
+JUDSON, PN, COOKE, PA, DOERRER, NG, GREENE, N, HANZLIK, RP, HARDY, C, HARTMANN, A, HINCHLIFFE, D, HOLDER, J, MUELLER, L, STEGER-HARTMANN, T, ROTHFUSS, A, SMITH, M, THOMAS, K, VESSEY, JD AND ZEIGER E.  __ TOWARDS THE CREATION OF AN INTERNATIONAL TOXICOLOGY INFORMATION CENTRE. TOXICOLOGY 213(1-2):117-28, 2005
+
+> <MC_Example>
+0
+
+> <MC_Pred>
+0
+
+> <DEREK_Example>
+0
+
+> <DEREK_Pred>
+0
+
+> <Molecular_Weight>
+115.17351
+
+> <Set>
+CV5 __  __ 
+
+$$$$

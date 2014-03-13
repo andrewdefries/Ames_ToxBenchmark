@@ -1,0 +1,61 @@
+74006-72-7
+ChemmineR-0127140935XD
+
+  9 10  0  0  0  0            999 V2000
+   -1.1302    2.6794    0.0000 O   0  0
+   -0.2817    1.8309    0.0000 C   0  0
+   -0.2817    0.3219    0.0000 C   0  0
+    1.2474    0.3219    0.0000 C   0  0
+    2.5149   -0.4426    0.0000 S   0  0
+    3.8026    0.3219    0.0000 C   0  0
+    3.8026    1.8309    0.0000 C   0  0
+    2.5149    2.5552    0.0000 C   0  0
+    1.2474    1.8309    0.0000 N   0  0
+  1  2  2  0
+  2  3  1  0
+  3  4  1  0
+  4  5  1  0
+  5  6  1  0
+  6  7  1  0
+  7  8  2  3
+  8  9  1  0
+  9  2  1  0
+  9  4  1  0
+M  END
+> <canonical_smiles>
+O=C1CC2SCC=CN12
+
+> <CAS_NO>
+74006-72-7
+
+> <Source>
+CCRIS
+
+> <Activity>
+0
+
+> <WDI_Name>
+.
+
+> <REFERENCE>
+WAKISAKA,Y, IZUMI,A AND NISHIMOTO,Y, MUTAGENICITY TEST OF 7432-S, ANORAL CEPHAM ANTIBIOTICS(I)-REVERSION TEST ON BACTERIA, CHEMOTHERAPY 37(SUPPL.1): 1073-1078, 1989
+
+> <MC_Example>
+0
+
+> <MC_Pred>
+0
+
+> <DEREK_Example>
+0
+
+> <DEREK_Pred>
+0
+
+> <Molecular_Weight>
+141.19088
+
+> <Set>
+CV2 __  __ 
+
+$$$$

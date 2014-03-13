@@ -1,0 +1,57 @@
+6341-85-1
+ChemmineR-0127140935XD
+
+  7  8  0  0  0  0            999 V2000
+   -0.7641   -1.6329    0.0000 C   0  0
+   -0.7500   -0.4330    0.0000 C   0  0
+    0.7500   -0.4330    0.0000 C   0  0
+    0.0000    0.8660    0.0000 O   0  0
+   -2.0674    0.3066    0.0000 C   0  0
+   -3.4875    0.2438    0.0000 C   0  0
+   -2.7532    1.5517    0.0000 O   0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+  4  2  1  0
+  2  5  1  0
+  5  6  1  0
+  6  7  1  0
+  7  5  1  0
+M  END
+> <canonical_smiles>
+CC1(CO1)C2CO2
+
+> <CAS_NO>
+6341-85-1
+
+> <Source>
+CCRIS
+
+> <Activity>
+1
+
+> <WDI_Name>
+.
+
+> <REFERENCE>
+GERVASI,PG, CITTI,L, DEL MONTE,M, LONGO,V AND BENETTI,D, MUTAGENICITYAND CHEMICAL REACTIVITY OF EPOXIDIC INTERMEDIATES OF THE ISOPRENE METABOLISM ANDOTHER STRUCTURALLY RELATED COMPOUNDS, MUTAT. RES. 1 __ 56(1-2):77-82,1985
+
+> <MC_Example>
+0
+
+> <MC_Pred>
+1
+
+> <DEREK_Example>
+0
+
+> <DEREK_Pred>
+1
+
+> <Molecular_Weight>
+100.11582
+
+> <Set>
+CV3 __  __ 
+
+$$$$

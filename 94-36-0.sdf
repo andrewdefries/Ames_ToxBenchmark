@@ -1,0 +1,79 @@
+94-36-0
+ChemmineR-0127140935XD
+
+ 18 19  0  0  0  0            999 V2000
+    2.8509   -5.8560    0.0000 O   0  0
+    3.8912   -5.2578    0.0000 C   0  0
+    3.8933   -3.7570    0.0000 O   0  0
+    2.5951   -3.0039    0.0000 O   0  0
+    2.5973   -1.5031    0.0000 C   0  0
+    3.6375   -0.9049    0.0000 O   0  0
+    1.2990   -0.7500    0.0000 C   0  0
+    1.2990    0.7500    0.0000 C   0  0
+    0.0000    1.5000    0.0000 C   0  0
+   -1.2990    0.7500    0.0000 C   0  0
+   -1.2990   -0.7500    0.0000 C   0  0
+    0.0000   -1.5000    0.0000 C   0  0
+    5.1894   -6.0109    0.0000 C   0  0
+    5.1895   -7.5109    0.0000 C   0  0
+    6.4885   -8.2610    0.0000 C   0  0
+    7.7875   -7.5110    0.0000 C   0  0
+    7.7876   -6.0110    0.0000 C   0  0
+    6.4885   -5.2610    0.0000 C   0  0
+  1  2  2  0
+  2  3  1  0
+  3  4  1  0
+  4  5  1  0
+  5  6  2  0
+  5  7  1  0
+  7  8  2  0
+  8  9  1  0
+  9 10  2  0
+ 10 11  1  0
+ 11 12  2  0
+ 12  7  1  0
+  2 13  1  0
+ 13 14  2  0
+ 14 15  1  0
+ 15 16  2  0
+ 16 17  1  0
+ 17 18  2  0
+ 18 13  1  0
+M  END
+> <canonical_smiles>
+O=C(OOC(=O)c1ccccc1)c2ccccc2
+
+> <CAS_NO>
+94-36-0
+
+> <Source>
+VITIC
+
+> <Activity>
+0
+
+> <WDI_Name>
+BENZOYLPE
+
+> <REFERENCE>
+JUDSON, PN, COOKE, PA, DOERRER, NG, GREENE, N, HANZLIK, RP, HARDY, C, HARTMANN, A, HINCHLIFFE, D, HOLDER, J, MUELLER, L, STEGER-HARTMANN, T, ROTHFUSS, A, SMITH, M, THOMAS, K, VESSEY, JD AND ZEIGER E.  __ TOWARDS THE CREATION OF AN INTERNATIONAL TOXICOLOGY INFORMATION CENTRE. TOXICOLOGY 213(1-2):117-28, 2005
+
+> <MC_Example>
+1
+
+> <MC_Pred>
+0
+
+> <DEREK_Example>
+0
+
+> <DEREK_Pred>
+1
+
+> <Set>
+TRAIN
+
+> <Molecular_Weight>
+242.2268 __  __ 
+
+$$$$

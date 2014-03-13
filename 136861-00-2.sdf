@@ -1,0 +1,81 @@
+136861-00-2
+ChemmineR-0127140935XD
+
+ 19 20  0  0  0  0            999 V2000
+    2.3383   -1.3500    0.0000 N   0  0
+    1.2990   -0.7500    0.0000 C   0  0
+    1.2990    0.7500    0.0000 C   0  0
+    0.0000    1.5000    0.0000 C   0  0
+   -1.2990    0.7500    0.0000 C   0  0
+   -2.5987    1.5004    0.0000 C   0  0
+   -2.6012    3.0004    0.0000 C   0  0
+   -3.9015    3.7484    0.0000 C   0  0
+   -5.1993    2.9963    0.0000 C   0  0
+   -5.1969    1.4963    0.0000 C   0  0
+   -3.8967    0.7484    0.0000 C   0  0
+   -1.2990   -0.7500    0.0000 C   0  0
+    0.0000   -1.5000    0.0000 C   0  0
+   -2.5972   -1.5031    0.0000 N   0  0
+   -2.5955   -2.7031    0.0000 O   0  0
+   -3.6375   -0.9049    0.0000 O   0  0
+    0.0031    3.0008    0.0000 N   0  0
+    1.0432    3.5994    0.0000 O   0  0
+   -1.0351    3.6026    0.0000 O   0  0
+  1  2  1  0
+  2  3  2  0
+  3  4  1  0
+  4  5  2  0
+  5  6  1  0
+  6  7  2  0
+  7  8  1  0
+  8  9  2  0
+  9 10  1  0
+ 10 11  2  0
+ 11  6  1  0
+  5 12  1  0
+ 12 13  2  0
+ 13  2  1  0
+ 12 14  1  0
+ 14 15  2  0
+ 14 16  1  0
+  4 17  1  0
+ 17 18  2  0
+ 17 19  1  0
+M  END
+> <canonical_smiles>
+Nc1cc(c(c2ccccc2)c(c1)N(=O)O)N(=O)O
+
+> <CAS_NO>
+136861-00-2
+
+> <Source>
+CCRIS
+
+> <Activity>
+1
+
+> <WDI_Name>
+.
+
+> <REFERENCE>
+HIRAYAMA,T, IGUCHI,K, YAMANAKA,Y, ISHIHARA,M, SHINYA,M, TAKAHASHI,KAND WATANABE,T, STUDIES ON THE STRUCTURE ELUCIDATION OF MUTAGENIC METABOLITES OF2,4-DINITROBIPHENYL DERIVATIVES AGAINST SALMONELLA TY __ PHIMURIUM TA98, EISEIKAGAKU 37(3):229-238, 1991
+
+> <MC_Example>
+0
+
+> <MC_Pred>
+0
+
+> <DEREK_Example>
+0
+
+> <DEREK_Pred>
+0
+
+> <Molecular_Weight>
+263.24932
+
+> <Set>
+CV4 __  __ 
+
+$$$$

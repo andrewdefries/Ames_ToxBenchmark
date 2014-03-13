@@ -1,0 +1,70 @@
+139-94-6
+ChemmineR-0127140935XD
+
+ 14 14  0  0  0  0            999 V2000
+    1.9863   -7.1749    0.0000 C   0  0
+    1.2830   -6.2026    0.0000 C   0  0
+    1.8954   -4.8324    0.0000 N   0  0
+    1.0157   -3.6164    0.0000 C   0  0
+   -0.1779   -3.7398    0.0000 O   0  0
+    1.6281   -2.2462    0.0000 N   0  0
+    0.7500   -1.0323    0.0000 C   0  0
+    1.2135    0.3943    0.0000 N   0  0
+    0.0000    1.2760    0.0000 C   0  0
+   -1.2135    0.3943    0.0000 C   0  0
+   -0.7500   -1.0323    0.0000 S   0  0
+   -2.6394    0.8543    0.0000 N   0  0
+   -3.5300    0.0501    0.0000 O   0  0
+   -2.8910    2.0276    0.0000 O   0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+  4  5  2  0
+  4  6  1  0
+  6  7  1  0
+  7  8  2  0
+  8  9  1  0
+  9 10  2  0
+ 10 11  1  0
+ 11  7  1  0
+ 10 12  1  0
+ 12 13  2  0
+ 12 14  1  0
+M  END
+> <canonical_smiles>
+CCNC(=O)Nc1ncc(s1)N(=O)O
+
+> <CAS_NO>
+139-94-6
+
+> <Source>
+EPA2
+
+> <Activity>
+1
+
+> <WDI_Name>
+NITHIAZID
+
+> <REFERENCE>
+HELMA, C, CRAMER, T, KRAMER, S, AND DE RAEDT, L, DATA MINING AND MACHINE LEARNING TECHNIQUES FOR THE IDENTIFICATION OF MUTAGENICITY INDUCING SUBSTRUCTURES AND STRUCTURE ACTIVITY RELATIONSHIPS OF NONCO __ NGENERIC COMPOUNDS. J. CHEM. INF. COMPUT. SCI. 44: 1402-1411, 2004
+
+> <MC_Example>
+0
+
+> <MC_Pred>
+0
+
+> <DEREK_Example>
+0
+
+> <DEREK_Pred>
+0
+
+> <Molecular_Weight>
+218.2336
+
+> <Set>
+CV1 __  __ 
+
+$$$$

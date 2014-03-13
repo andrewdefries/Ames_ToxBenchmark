@@ -1,0 +1,54 @@
+674-82-8
+ChemmineR-0127140935XD
+
+  6  6  0  0  0  0            999 V2000
+    0.0000   -2.2607    0.0000 C   0  0
+    0.0000   -1.0607    0.0000 C   0  0
+    1.0607    0.0000    0.0000 C   0  0
+    0.0000    1.0607    0.0000 C   0  0
+    0.0000    2.2607    0.0000 O   0  0
+   -1.0607    0.0000    0.0000 O   0  0
+  1  2  2  0
+  2  3  1  0
+  3  4  1  0
+  4  5  2  0
+  4  6  1  0
+  6  2  1  0
+M  END
+> <canonical_smiles>
+C=C1CC(=O)O1
+
+> <CAS_NO>
+674-82-8
+
+> <Source>
+CCRIS
+
+> <Activity>
+0
+
+> <WDI_Name>
+.
+
+> <REFERENCE>
+JAPAN CHEMICAL INDUSTRY ECOLOGY- TOXICOLOGY AND INFORMATION    CENTER,JAPAN, MUTAGENICITY TEST DATA OF EXISTING    CHEMICAL SUBSTANCES BASED ON THETOXICITY INVESTIGATION OF    THE INDUSTRIAL SAFETY AN __ D HEALTH LAW,1996
+
+> <MC_Example>
+0
+
+> <MC_Pred>
+0
+
+> <DEREK_Example>
+0
+
+> <DEREK_Pred>
+1
+
+> <Molecular_Weight>
+84.07336
+
+> <Set>
+CV2 __  __ 
+
+$$$$

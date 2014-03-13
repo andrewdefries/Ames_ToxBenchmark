@@ -1,0 +1,67 @@
+2371-42-8
+ChemmineR-0127140935XD
+
+ 12 13  0  0  0  0            999 V2000
+   -1.1836    1.4174    0.0000 C   0  0
+    0.0000    1.2200    0.0000 C   0  0
+    0.6928    2.1998    0.0000 C   0  0
+    0.5000   -1.4000    0.0000 C   0  0
+    1.7100   -2.0400    0.0000 C   0  0
+    1.7100   -0.6600    0.0000 C   0  0
+    0.5100    0.0200    0.0000 C   0  0
+    1.3816    0.8449    0.0000 C   0  0
+   -0.6800   -0.6600    0.0000 C   0  0
+   -1.7495   -1.2042    0.0000 C   0  0
+   -0.7480    0.5381    0.0000 O   0  0
+   -0.6800   -2.0400    0.0000 C   0  0
+  1  2  1  0
+  2  3  1  0
+  2  4  1  0
+  4  5  1  0
+  5  6  1  0
+  6  7  1  0
+  7  2  1  0
+  7  8  1  0
+  7  9  1  0
+  9 10  1  0
+  9 11  1  0
+  9 12  1  0
+ 12  4  1  0
+M  END
+> <canonical_smiles>
+CC1(C)C2CCC1(C)C(C)(O)C2
+
+> <CAS_NO>
+2371-42-8
+
+> <Source>
+CCRIS
+
+> <Activity>
+0
+
+> <WDI_Name>
+MEISOBNOR
+
+> <REFERENCE>
+DIONIGI,CP, LAWLOR,TE, MCFARLAND,JE AND JOHNSEN,PB, EVALUATION OFGEOSMIN AND 2-METHYLISOBORNEOL ON THE HISTIDINE DEPENDENCE OF TA98 AND TA100SALMONELLA TYPHIMURIUM TESTER STRAINS, WATER RES. 27(11):16 __ 15-1618,1993
+
+> <MC_Example>
+0
+
+> <MC_Pred>
+0
+
+> <DEREK_Example>
+0
+
+> <DEREK_Pred>
+0
+
+> <Molecular_Weight>
+168.2759
+
+> <Set>
+CV3 __  __ 
+
+$$$$

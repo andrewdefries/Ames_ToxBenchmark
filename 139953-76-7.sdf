@@ -1,0 +1,91 @@
+139953-76-7
+ChemmineR-0127140935XD
+
+ 23 26  0  0  0  0            999 V2000
+  -11.2408   -3.4465    0.0000 O   0  0
+  -10.2014   -2.8467    0.0000 C   0  0
+  -10.2010   -1.3467    0.0000 C   0  0
+   -8.9018   -0.5970    0.0000 C   0  0
+   -7.6029   -1.3473    0.0000 C   0  0
+   -6.3014   -0.5998    0.0000 C   0  0
+   -5.0029   -1.3524    0.0000 N   0  0
+   -3.7006   -0.6045    0.0000 N   0  0
+   -3.7006    0.8244    0.0000 N   0  0
+   -2.4915    1.5389    0.0000 N   0  0
+   -1.2274    0.8244    0.0000 C   0  0
+    1.2274    0.8244    0.0000 C   0  0
+    2.4732    1.5389    0.0000 C   0  0
+    3.7372    0.8244    0.0000 C   0  0
+    3.7372   -0.6045    0.0000 C   0  0
+    2.4732   -1.3190    0.0000 C   0  0
+    1.2274   -0.6045    0.0000 C   0  0
+    0.0000   -1.3190    0.0000 N   0  0
+   -1.2274   -0.6045    0.0000 C   0  0
+   -2.4915   -1.3190    0.0000 C   0  0
+   -2.5030   -2.5190    0.0000 O   0  0
+   -7.6033   -2.8473    0.0000 C   0  0
+   -8.9025   -3.5970    0.0000 C   0  0
+  1  2  1  0
+  2  3  2  0
+  3  4  1  0
+  4  5  2  0
+  5  6  1  0
+  6  7  2  3
+  7  8  1  0
+  8  9  1  0
+  9 10  2  0
+ 10 11  1  0
+ 11 12  2  0
+ 12 13  1  0
+ 13 14  2  0
+ 14 15  1  0
+ 15 16  2  0
+ 16 17  1  0
+ 17 12  1  0
+ 17 18  2  0
+ 18 19  1  0
+ 19 11  1  0
+ 19 20  2  0
+ 20  8  1  0
+ 20 21  1  0
+  5 22  1  0
+ 22 23  2  0
+ 23  2  1  0
+M  END
+> <canonical_smiles>
+Oc1ccc(C=Nn2nnc3c4ccccc4nc3c2O)cc1
+
+> <CAS_NO>
+139953-76-7
+
+> <Source>
+CCRIS
+
+> <Activity>
+1
+
+> <WDI_Name>
+.
+
+> <REFERENCE>
+GARCIA,E, LOPEZ-DE-CERAIN,A, MARTINEZ-MERINO,V AND MONGE,A,QUANTITATIVE STRUCTURE-MUTAGENIC ACTIVITY RELATIONSHIPS OF TRIAZINOINDOLEDERIVATIVES, MUTAT. RES. 268(1):1-9, 1992 & GARCIA,E, LOPEZ-DE-CERAI __ N,A,GULLON,A, ARRARAS,JA AND MONGE,A, BACTERIAL MUTAGENIC EVALUATION OF A SERIES OF4'-SUBSTITUTED DERIVATIVES OF3-BENZYLIDENAMINO-5H-1,2,3-TRIAZIN[5,4-B]INDOL-4-ONE, MUTAGENESIS 7(1):31-35,1992
+
+> <MC_Example>
+0
+
+> <MC_Pred>
+0
+
+> <DEREK_Example>
+0
+
+> <DEREK_Pred>
+0
+
+> <Molecular_Weight>
+305.29084
+
+> <Set>
+CV2 __  __ 
+
+$$$$

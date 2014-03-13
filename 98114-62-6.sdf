@@ -1,0 +1,49 @@
+98114-62-6
+ChemmineR-0127140935XD
+
+  4  3  0  0  0  0            999 V2000
+    0.2606    0.1503    0.0000 O   0  0
+    1.3000    0.7500    0.0000 C   0  0
+    2.6000    0.0000    0.0000 N   0  0
+    3.6394    0.5997    0.0000 N   0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  2  0
+M  END
+> <canonical_smiles>
+OCN=N
+
+> <CAS_NO>
+98114-62-6
+
+> <Source>
+CCRIS
+
+> <Activity>
+1
+
+> <WDI_Name>
+.
+
+> <REFERENCE>
+UKAWA-ISHIKAWA,S, SAWADA,A, KASUYA,A AND MOCHIZUKI,M, MUTAGENICITY OFISOMERIC ALKANEDIAZOTATES, PRECURSORS FOR ULTIMATE ALKYLATING SPECIES OFCARCINOGENIC N-NITROSO COMPOUNDS, MUTAT. RES. 412(1):99-107 __ , 1998
+
+> <MC_Example>
+0
+
+> <MC_Pred>
+0
+
+> <DEREK_Example>
+0
+
+> <DEREK_Pred>
+0
+
+> <Molecular_Weight>
+60.05526
+
+> <Set>
+CV1 __  __ 
+
+$$$$

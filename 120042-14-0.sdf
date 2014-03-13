@@ -1,0 +1,61 @@
+120042-14-0
+ChemmineR-0127140935XD
+
+ 10  9  0  0  0  0            999 V2000
+    6.5000   -0.4500    0.0000 N   0  0
+    6.5000    0.7500    0.0000 C   0  0
+    5.2000    1.5000    0.0000 C   0  0
+    3.9000    0.7500    0.0000 C   0  0
+    2.6000    1.5000    0.0000 N   0  0
+    1.3000    0.7500    0.0000 N   0  0
+    0.2606    0.1503    0.0000 N   0  0
+    7.7999    1.5000    0.0000 C   0  0
+    8.8394    0.9003    0.0000 O   0  0
+    7.7999    2.7000    0.0000 O   0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+  4  5  1  0
+  5  6  2  3
+  6  7  3  0
+  2  8  1  0
+  8  9  2  0
+  8 10  1  0
+M  END
+> <canonical_smiles>
+NC(CCN=N#N)C(=O)O
+
+> <CAS_NO>
+120042-14-0
+
+> <Source>
+CCRIS
+
+> <Activity>
+1
+
+> <WDI_Name>
+.
+
+> <REFERENCE>
+MANGOLD,JB, MISCHKE,MR AND LAVELLE,JM, AZIDOALANINE MUTAGENICITY INSALMONELLA: EFFECT OF HOMOLOGATION AND ALPHA-METHYL SUBSTITUTION, MUTAT. RES.216(1):27-33, 1989
+
+> <MC_Example>
+0
+
+> <MC_Pred>
+0
+
+> <DEREK_Example>
+0
+
+> <DEREK_Pred>
+0
+
+> <Molecular_Weight>
+144.13191
+
+> <Set>
+CV5 __  __ 
+
+$$$$

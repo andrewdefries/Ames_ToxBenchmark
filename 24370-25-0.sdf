@@ -1,0 +1,69 @@
+24370-25-0
+ChemmineR-0127140935XD
+
+ 13 14  0  0  0  0            999 V2000
+    4.2606   -2.3052    0.0000 N   0  0
+    4.8506   -1.2602    0.0000 C   0  0
+    6.0505   -1.2490    0.0000 O   0  0
+    4.0872    0.0320    0.0000 N   0  0
+    2.5889    0.0182    0.0000 C   0  0
+    1.7138    1.2033    0.0000 N   0  0
+    0.2917    0.7475    0.0000 C   0  0
+   -1.0028    1.5132    0.0000 C   0  0
+   -2.3155    0.7475    0.0000 C   0  0
+   -2.3155   -0.7475    0.0000 C   0  0
+   -1.0028   -1.5132    0.0000 C   0  0
+    0.2917   -0.7475    0.0000 C   0  0
+    1.7138   -1.2033    0.0000 N   0  0
+  1  2  1  0
+  2  3  2  0
+  2  4  1  0
+  4  5  1  0
+  5  6  2  0
+  6  7  1  0
+  7  8  2  0
+  8  9  1  0
+  9 10  2  0
+ 10 11  1  0
+ 11 12  2  0
+ 12  7  1  0
+ 12 13  1  0
+ 13  5  1  0
+M  END
+> <canonical_smiles>
+NC(=O)Nc1nc2ccccc2[nH]1
+
+> <CAS_NO>
+24370-25-0
+
+> <Source>
+VITIC
+
+> <Activity>
+1
+
+> <WDI_Name>
+BENZIMUR2
+
+> <REFERENCE>
+JUDSON, PN, COOKE, PA, DOERRER, NG, GREENE, N, HANZLIK, RP, HARDY, C, HARTMANN, A, HINCHLIFFE, D, HOLDER, J, MUELLER, L, STEGER-HARTMANN, T, ROTHFUSS, A, SMITH, M, THOMAS, K, VESSEY, JD AND ZEIGER E.  __ TOWARDS THE CREATION OF AN INTERNATIONAL TOXICOLOGY INFORMATION CENTRE. TOXICOLOGY 213(1-2):117-28, 2005
+
+> <MC_Example>
+0
+
+> <MC_Pred>
+1
+
+> <DEREK_Example>
+0
+
+> <DEREK_Pred>
+0
+
+> <Molecular_Weight>
+176.17532
+
+> <Set>
+CV2 __  __ 
+
+$$$$

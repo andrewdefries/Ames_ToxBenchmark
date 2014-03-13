@@ -1,0 +1,51 @@
+64-69-7
+ChemmineR-0127140935XD
+
+  5  4  0  0  0  0            999 V2000
+    1.3000    1.9500    0.0000 O   0  0
+    1.3000    0.7500    0.0000 C   0  0
+    0.2606    0.1503    0.0000 O   0  0
+    2.6000    0.0000    0.0000 C   0  0
+    3.6394    0.5997    0.0000 I   0  0
+  1  2  1  0
+  2  3  2  0
+  2  4  1  0
+  4  5  1  0
+M  END
+> <canonical_smiles>
+OC(=O)CI
+
+> <CAS_NO>
+64-69-7
+
+> <Source>
+EPA3
+
+> <Activity>
+1
+
+> <WDI_Name>
+IODOACETA
+
+> <REFERENCE>
+FENG, J, LURATI, L, OUYANG, H, ROBINSON, T, WANG, Y, YUAN, S AND YOUNG, S. PREDICTIVE TOXICOLOGY: BENCHMARKING MOLECULAR DESCRIPTORS AND STATISTICAL METHODS. J. CHEM. INF. COMPUT. SCI. 43: 1463-1470,  __ 2003
+
+> <MC_Example>
+0
+
+> <MC_Pred>
+1
+
+> <DEREK_Example>
+0
+
+> <DEREK_Pred>
+1
+
+> <Molecular_Weight>
+185.94849
+
+> <Set>
+CV1 __  __ 
+
+$$$$

@@ -1,0 +1,67 @@
+509-14-8
+ChemmineR-0127140935XD
+
+ 13 12  0  0  0  0            999 V2000
+    1.3000    1.7500    0.0000 O   0  0
+    1.3000    0.7500    0.0000 N   0  0
+    0.2606    0.1503    0.0000 O   0  0
+    2.6000    0.0000    0.0000 C   0  0
+    3.9000    0.7500    0.0000 N   0  0
+    4.9394    0.1503    0.0000 O   0  0
+    3.9000    1.7500    0.0000 O   0  0
+    2.6000   -1.5007    0.0000 N   0  0
+    1.5611   -2.1014    0.0000 O   0  0
+    3.6394   -2.1004    0.0000 O   0  0
+    2.6028    1.5300    0.0000 N   0  0
+    3.4695    2.0289    0.0000 O   0  0
+    1.7376    2.0313    0.0000 O   0  0
+  1  2  1  0
+  2  3  2  0
+  2  4  1  0
+  4  5  1  0
+  5  6  2  0
+  5  7  1  0
+  4  8  1  0
+  8  9  2  0
+  8 10  1  0
+  4 11  1  0
+ 11 12  2  0
+ 11 13  1  0
+M  END
+> <canonical_smiles>
+ON(=O)C(N(=O)O)(N(=O)O)N(=O)O
+
+> <CAS_NO>
+509-14-8
+
+> <Source>
+EPA2
+
+> <Activity>
+1
+
+> <WDI_Name>
+DR9804702
+
+> <REFERENCE>
+HELMA, C, CRAMER, T, KRAMER, S, AND DE RAEDT, L, DATA MINING AND MACHINE LEARNING TECHNIQUES FOR THE IDENTIFICATION OF MUTAGENICITY INDUCING SUBSTRUCTURES AND STRUCTURE ACTIVITY RELATIONSHIPS OF NONCO __ NGENERIC COMPOUNDS. J. CHEM. INF. COMPUT. SCI. 44: 1402-1411, 2004
+
+> <MC_Example>
+0
+
+> <MC_Pred>
+0
+
+> <DEREK_Example>
+0
+
+> <DEREK_Pred>
+0
+
+> <Molecular_Weight>
+204.09622
+
+> <Set>
+CV4 __  __ 
+
+$$$$

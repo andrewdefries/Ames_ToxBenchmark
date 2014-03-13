@@ -1,0 +1,72 @@
+29086-39-3
+ChemmineR-0127140935XD
+
+ 15 15  0  0  0  0            999 V2000
+    3.6331   -3.6060    0.0000 Cl   0  0
+    2.5951   -3.0039    0.0000 C    0  0
+    2.5973   -1.5031    0.0000 C    0  0
+    3.6375   -0.9049    0.0000 Cl   0  0
+    1.2990   -0.7500    0.0000 C    0  0
+    1.2990    0.7500    0.0000 C    0  0
+    2.3383    1.3500    0.0000 Cl   0  0
+    0.0000    1.5000    0.0000 C    0  0
+    0.0000    2.7000    0.0000 Cl   0  0
+   -1.2990    0.7500    0.0000 C    0  0
+   -2.3383    1.3500    0.0000 Cl   0  0
+   -1.2990   -0.7500    0.0000 C    0  0
+   -2.3383   -1.3500    0.0000 Cl   0  0
+    0.0000   -1.5000    0.0000 C    0  0
+    0.0000   -2.7000    0.0000 Cl   0  0
+  1  2  1  0
+  2  3  2  3
+  3  4  1  0
+  3  5  1  0
+  5  6  2  0
+  6  7  1  0
+  6  8  1  0
+  8  9  1  0
+  8 10  2  0
+ 10 11  1  0
+ 10 12  1  0
+ 12 13  1  0
+ 12 14  2  0
+ 14  5  1  0
+ 14 15  1  0
+M  END
+> <canonical_smiles>
+ClC=C(Cl)c1c(Cl)c(Cl)c(Cl)c(Cl)c1Cl
+
+> <CAS_NO>
+29086-39-3
+
+> <Source>
+CCRIS
+
+> <Activity>
+0
+
+> <WDI_Name>
+.
+
+> <REFERENCE>
+TARKPEA,M, HAGEN,I, CARLBERG,GE, KOLSAKER,P AND STORFLOR,H,MUTAGENICITY, ACUTE TOXICITY, AND BIOACCUMULATION POTENTIAL OF SIX CHLORINATEDSTYRENES, BULL. ENVIRON. CONTAM. TOXICOL. 35(4):525-530, 1985
+
+> <MC_Example>
+0
+
+> <MC_Pred>
+0
+
+> <DEREK_Example>
+0
+
+> <DEREK_Pred>
+1
+
+> <Molecular_Weight>
+345.26454
+
+> <Set>
+CV2 __  __ 
+
+$$$$

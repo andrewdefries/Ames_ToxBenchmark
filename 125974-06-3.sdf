@@ -1,0 +1,60 @@
+125974-06-3
+ChemmineR-0127140935XD
+
+  9  9  0  0  0  0            999 V2000
+    1.4553   -2.0031    0.0000 O    0  0
+    0.7500   -1.0323    0.0000 C    0  0
+    1.2135    0.3943    0.0000 O    0  0
+    0.0000    1.2760    0.0000 C    0  0
+    0.0000    2.4760    0.0000 O    0  0
+   -1.2135    0.3943    0.0000 C    0  0
+   -0.7500   -1.0323    0.0000 C    0  0
+   -1.6332   -2.2426    0.0000 C    0  0
+   -2.8264   -2.1154    0.0000 Cl   0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+  4  5  2  0
+  4  6  1  0
+  6  7  2  3
+  7  2  1  0
+  7  8  1  0
+  8  9  1  0
+M  END
+> <canonical_smiles>
+OC1OC(=O)C=C1CCl
+
+> <CAS_NO>
+125974-06-3
+
+> <Source>
+CCRIS
+
+> <Activity>
+1
+
+> <WDI_Name>
+.
+
+> <REFERENCE>
+LALONDE,RT, COOK,GP, PERAKYLA,H AND DENCE,CW, EFFECT ON MUTAGENICITYOF THE STEPWISE REMOVAL OF HYDROXYL GROUP AND CHLORINE ATOMS FROM 3-CHLORO-4-(DICHLOROMETHYL)-5-HYDROXY-2(5H)-FURANONE: CARBON-13 NM __ R CHEMICAL SHIFTS ASDETERMINANTS OF MUTAGENICITY, CHEM. RES. TOXICOL. 4(1):35-40, 1991
+
+> <MC_Example>
+0
+
+> <MC_Pred>
+1
+
+> <DEREK_Example>
+0
+
+> <DEREK_Pred>
+1
+
+> <Molecular_Weight>
+148.5444
+
+> <Set>
+CV4 __  __ 
+
+$$$$

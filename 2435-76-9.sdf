@@ -1,0 +1,62 @@
+2435-76-9
+ChemmineR-0127140935XD
+
+ 10 10  0  0  0  0            999 V2000
+    2.3383   -1.3500    0.0000 O   0  0
+    1.2990   -0.7500    0.0000 C   0  0
+    1.2990    0.7500    0.0000 N   0  0
+    0.0000    1.5000    0.0000 C   0  0
+    0.0000    2.7000    0.0000 O   0  0
+   -1.2990    0.7500    0.0000 C   0  0
+   -2.5988    1.5004    0.0000 N   0  0
+   -3.6380    2.1004    0.0000 N   0  0
+   -1.2990   -0.7500    0.0000 C   0  0
+    0.0000   -1.5000    0.0000 N   0  0
+  1  2  2  0
+  2  3  1  0
+  3  4  1  0
+  4  5  2  0
+  4  6  1  0
+  6  7  2  3
+  7  8  3  0
+  6  9  1  0
+  9 10  2  3
+ 10  2  1  0
+M  END
+> <canonical_smiles>
+O=C1NC(=O)C(=N#N)C=N1
+
+> <CAS_NO>
+2435-76-9
+
+> <Source>
+CCRIS
+
+> <Activity>
+1
+
+> <WDI_Name>
+.
+
+> <REFERENCE>
+HIRAMOTO,K, KATO,T AND KIKUGAWA,K, MECHANISMS OF THE DNA BREAKINGACTIVITY OF MUTAGENIC 5-DIAZOURACIL, MUTAT. RES. 306(2):153-163, 1994
+
+> <MC_Example>
+0
+
+> <MC_Pred>
+1
+
+> <DEREK_Example>
+0
+
+> <DEREK_Pred>
+0
+
+> <Molecular_Weight>
+138.08428
+
+> <Set>
+CV1 __  __ 
+
+$$$$

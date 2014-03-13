@@ -1,0 +1,68 @@
+28166-06-5
+ChemmineR-0127140935XD
+
+ 13 13  0  0  0  0            999 V2000
+    2.6024   -2.6977    0.0000 O   0  0
+    2.6003   -1.4977    0.0000 N   0  0
+    3.6387   -0.8963    0.0000 O   0  0
+    1.2990   -0.7500    0.0000 C   0  0
+    1.2990    0.7500    0.0000 C   0  0
+    0.0000    1.5000    0.0000 C   0  0
+   -1.2990    0.7500    0.0000 C   0  0
+   -1.2990   -0.7500    0.0000 C   0  0
+    0.0000   -1.5000    0.0000 C   0  0
+    0.0000   -2.7000    0.0000 F   0  0
+   -0.0031    3.0008    0.0000 N   0  0
+   -1.3039    3.7494    0.0000 N   0  0
+   -2.3440    4.3479    0.0000 N   0  0
+  1  2  1  0
+  2  3  2  0
+  2  4  1  0
+  4  5  2  0
+  5  6  1  0
+  6  7  2  0
+  7  8  1  0
+  8  9  2  0
+  9  4  1  0
+  9 10  1  0
+  6 11  1  0
+ 11 12  2  3
+ 12 13  3  0
+M  END
+> <canonical_smiles>
+ON(=O)c1cc(ccc1F)N=N#N
+
+> <CAS_NO>
+28166-06-5
+
+> <Source>
+CCRIS
+
+> <Activity>
+1
+
+> <WDI_Name>
+.
+
+> <REFERENCE>
+SHUBBER,EK, JACOBSON-KRAM,D AND WILLIAMS,JR, COMPARISON OF THE AMESASSAY AND THE INDUCTION OF SISTER CHROMATID EXCHANGES: RESULTS WITH TENPHARMACEUTICALS AND FIVE SELECTED AGENTS, CELL BIOL. TOXICOL.  __ 2(3):379-399,1986
+
+> <MC_Example>
+0
+
+> <MC_Pred>
+0
+
+> <DEREK_Example>
+0
+
+> <DEREK_Pred>
+0
+
+> <Molecular_Weight>
+184.1279
+
+> <Set>
+CV4 __  __ 
+
+$$$$

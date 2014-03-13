@@ -1,0 +1,79 @@
+129812-30-2
+ChemmineR-0127140935XD
+
+ 17 20  0  0  0  0            999 V2000
+    1.4927   -4.2824    0.0000 C   0  0
+    1.8032   -3.1233    0.0000 C   0  0
+    3.1498   -3.7228    0.0000 O   0  0
+    3.7599   -2.3525    0.0000 O   0  0
+    2.4133   -1.7530    0.0000 C   0  0
+    3.0668   -0.7465    0.0000 C   0  0
+    1.2990   -0.7500    0.0000 C   0  0
+    1.2990    0.7500    0.0000 C   0  0
+    0.0000    1.5000    0.0000 C   0  0
+   -1.2990    0.7500    0.0000 C   0  0
+   -2.5981    1.5000    0.0000 C   0  0
+   -3.8971    0.7500    0.0000 C   0  0
+   -3.8971   -0.7500    0.0000 C   0  0
+   -2.5981   -1.5000    0.0000 N   0  0
+   -1.2990   -0.7500    0.0000 C   0  0
+    0.0000   -1.5000    0.0000 C   0  0
+    0.3114   -2.9665    0.0000 O   0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+  4  5  1  0
+  5  2  1  0
+  5  6  1  0
+  5  7  1  0
+  7  8  2  0
+  8  9  1  0
+  9 10  2  0
+ 10 11  1  0
+ 11 12  2  0
+ 12 13  1  0
+ 13 14  2  0
+ 14 15  1  0
+ 15 10  1  0
+ 15 16  2  0
+ 16  7  1  0
+ 16 17  1  0
+ 17  2  1  0
+M  END
+> <canonical_smiles>
+CC12OOC1(C)c3ccc4cccnc4c3O2
+
+> <CAS_NO>
+129812-30-2
+
+> <Source>
+CCRIS
+
+> <Activity>
+0
+
+> <WDI_Name>
+.
+
+> <REFERENCE>
+ADAM,W, HAUER,H, MOSANDL,T, SAHA-MOELLER,CR, WAGNER,W AND WILD,D,FUROCOUMARIN-, NAPHTHOFURAN-, AND FUROQUINOLINE-ANNULATED 1,2-DIOXETANES:SYNTHESIS, THERMOLYSIS, AND MUTAGENICITY, LIEBIGS ANN. CHEM. ( __ 12):1227-1236,1990
+
+> <MC_Example>
+0
+
+> <MC_Pred>
+0
+
+> <DEREK_Example>
+0
+
+> <DEREK_Pred>
+1
+
+> <Molecular_Weight>
+229.23133
+
+> <Set>
+CV3 __  __ 
+
+$$$$

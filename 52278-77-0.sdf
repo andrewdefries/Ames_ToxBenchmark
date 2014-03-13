@@ -1,0 +1,77 @@
+52278-77-0
+ChemmineR-0127140935XD
+
+ 17 18  0  0  0  0            999 V2000
+    2.3383   -1.3500    0.0000 N   0  0
+    1.2990   -0.7500    0.0000 C   0  0
+    1.2990    0.7500    0.0000 N   0  0
+    0.0000    1.5000    0.0000 C   0  0
+    0.0000    2.7000    0.0000 O   0  0
+   -1.2990    0.7500    0.0000 N   0  0
+   -1.2990   -0.7500    0.0000 C   0  0
+    0.0000   -1.5000    0.0000 C   0  0
+    0.0000   -2.7000    0.0000 O   0  0
+   -2.5987    1.5004    0.0000 C   0  0
+   -2.7390    2.9810    0.0000 C   0  0
+   -4.2067    3.2905    0.0000 C   0  0
+   -4.6965    4.3860    0.0000 O   0  0
+   -4.9546    1.9903    0.0000 C   0  0
+   -6.4441    1.8282    0.0000 C   0  0
+   -6.9288    0.7305    0.0000 O   0  0
+   -3.9492    0.8772    0.0000 O   0  0
+  1  2  1  0
+  2  3  2  3
+  3  4  1  0
+  4  5  2  0
+  4  6  1  0
+  6  7  1  0
+  7  8  2  3
+  8  2  1  0
+  8  9  1  0
+  6 10  1  0
+ 10 11  1  0
+ 11 12  1  0
+ 12 13  1  0
+ 12 14  1  0
+ 14 15  1  0
+ 15 16  1  0
+ 14 17  1  0
+ 17 10  1  0
+M  END
+> <canonical_smiles>
+NC1=NC(=O)N(C=C1O)C2CC(O)C(CO)O2
+
+> <CAS_NO>
+52278-77-0
+
+> <Source>
+CCRIS
+
+> <Activity>
+0
+
+> <WDI_Name>
+.
+
+> <REFERENCE>
+ARASHIDANI,K, IWAMOTO-TANAKA,N, MURAOKA,M AND KASAI,H, GENOTOXICITY OFRIBO- AND DEOXYRIBONUCLEOSIDES OF 8-HYDROXYGUANINE, 5-HYDROXYCYTOSINE, AND2-HYDROXYADENINE: INDUCTION OF SCE IN HUMAN LYMPHOCYTES  __ AND MUTAGENICITY INSALMONELLA TYPHIMURIUM TA100, MUTAT. RES. 403(1-2):223-227, 1998
+
+> <MC_Example>
+0
+
+> <MC_Pred>
+0
+
+> <DEREK_Example>
+0
+
+> <DEREK_Pred>
+0
+
+> <Molecular_Weight>
+243.21662
+
+> <Set>
+CV5 __  __ 
+
+$$$$

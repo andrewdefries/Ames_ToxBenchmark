@@ -1,0 +1,76 @@
+33857-26-0
+ChemmineR-0127140935XD
+
+ 16 18  0  0  0  0            999 V2000
+   -4.9360    1.3500    0.0000 Cl   0  0
+   -3.8968    0.7501    0.0000 C    0  0
+   -3.8968   -0.7501    0.0000 C    0  0
+   -2.5978   -1.5002    0.0000 C    0  0
+   -1.2989   -0.7501    0.0000 C    0  0
+    0.0000   -1.5002    0.0000 O    0  0
+    1.2806   -0.7501    0.0000 C    0  0
+    2.5978   -1.5002    0.0000 C    0  0
+    3.8968   -0.7501    0.0000 C    0  0
+    4.9360   -1.3500    0.0000 Cl   0  0
+    3.8968    0.7501    0.0000 C    0  0
+    2.5978    1.5002    0.0000 C    0  0
+    1.2806    0.7501    0.0000 C    0  0
+    0.0000    1.5002    0.0000 O    0  0
+   -1.2989    0.7501    0.0000 C    0  0
+   -2.5978    1.5002    0.0000 C    0  0
+  1  2  1  0
+  2  3  2  0
+  3  4  1  0
+  4  5  2  0
+  5  6  1  0
+  6  7  1  0
+  7  8  2  0
+  8  9  1  0
+  9 10  1  0
+  9 11  2  0
+ 11 12  1  0
+ 12 13  2  0
+ 13  7  1  0
+ 13 14  1  0
+ 14 15  1  0
+ 15  5  1  0
+ 15 16  2  0
+ 16  2  1  0
+M  END
+> <canonical_smiles>
+Clc1ccc2Oc3cc(Cl)ccc3Oc2c1
+
+> <CAS_NO>
+33857-26-0
+
+> <Source>
+VITIC
+
+> <Activity>
+0
+
+> <WDI_Name>
+.
+
+> <REFERENCE>
+JUDSON, PN, COOKE, PA, DOERRER, NG, GREENE, N, HANZLIK, RP, HARDY, C, HARTMANN, A, HINCHLIFFE, D, HOLDER, J, MUELLER, L, STEGER-HARTMANN, T, ROTHFUSS, A, SMITH, M, THOMAS, K, VESSEY, JD AND ZEIGER E.  __ TOWARDS THE CREATION OF AN INTERNATIONAL TOXICOLOGY INFORMATION CENTRE. TOXICOLOGY 213(1-2):117-28, 2005
+
+> <MC_Example>
+1
+
+> <MC_Pred>
+0
+
+> <DEREK_Example>
+0
+
+> <DEREK_Pred>
+0
+
+> <Set>
+TRAIN
+
+> <Molecular_Weight>
+253.08084 __  __ 
+
+$$$$

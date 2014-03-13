@@ -1,0 +1,75 @@
+28352-32-1
+ChemmineR-0127140935XD
+
+ 15 18  0  0  0  0            999 V2000
+     -2.43     -0.21      0.00 C   0  0
+     -1.87      1.20      0.00 C   0  0
+     -0.32      1.44      0.00 C   0  0
+      0.57      0.27      0.00 C   0  0
+      0.09     -1.15      0.00 C   0  0
+     -1.45     -1.40      0.00 C   0  0
+      1.01     -2.37      0.00 C   0  0
+      1.98     -3.58      0.00 O   0  0
+      2.54     -2.13      0.00 C   0  0
+      3.10     -0.67      0.00 C   0  0
+      4.63     -0.43      0.00 C   0  0
+      5.18      0.95      0.00 C   0  0
+      4.21      2.16      0.00 C   0  0
+      2.68      1.92      0.00 C   0  0
+      2.12      0.51      0.00 C   0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+  4  5  1  0
+  5  6  1  0
+  6  1  1  0
+  5  7  1  0
+  7  8  1  0
+  8  9  1  0
+  9  7  1  0
+  9 10  1  0
+ 10 11  2  0
+ 11 12  1  0
+ 12 13  2  0
+ 13 14  1  0
+ 14 15  2  0
+ 15  4  1  0
+ 15 10  1  0
+M  END
+> <canonical_smiles>
+C1CCC2C(C1)C3OC3c4ccccc24
+
+> <CAS_NO>
+28352-32-1
+
+> <Source>
+CCRIS
+
+> <Activity>
+0
+
+> <WDI_Name>
+.
+
+> <REFERENCE>
+CROTTI,P, DI BUSSOLO,V, BENETTI,D, LONGO,V AND GERVASI,PG,MUTAGENICITY OF HEXAHYDROPHENANTHRENES AND THEIR OXIRANE DERIVATIVES, J.ENVIRON. PATHOL., TOXICOL. ONCOL. 13(4):221-226, 1994
+
+> <MC_Example>
+0
+
+> <MC_Pred>
+0
+
+> <DEREK_Example>
+0
+
+> <DEREK_Pred>
+1
+
+> <Molecular_Weight>
+200.27624
+
+> <Set>
+CV1 __  __ 
+
+$$$$

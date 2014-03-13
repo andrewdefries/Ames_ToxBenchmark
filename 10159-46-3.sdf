@@ -1,0 +1,61 @@
+10159-46-3
+ChemmineR-0127140935XD
+
+ 10  9  0  0  0  0            999 V2000
+    0.4338    0.2503    0.0000 C   0  0
+    1.3000    0.7500    0.0000 N   0  0
+    2.6000    0.0000    0.0000 P   0  0
+    2.6000   -1.2000    0.0000 O   0  0
+    3.9000    0.7500    0.0000 N   0  0
+    4.9394    0.1503    0.0000 C   0  0
+    3.9000    1.9500    0.0000 C   0  0
+    1.2761   -0.7669    0.0000 N   0  0
+    1.2770   -1.9669    0.0000 C   0  0
+    0.4095   -0.2678    0.0000 C   0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  2  0
+  3  5  1  0
+  5  6  1  0
+  5  7  1  0
+  3  8  1  0
+  8  9  1  0
+  8 10  1  0
+M  END
+> <canonical_smiles>
+CNP(=O)(N(C)C)N(C)C
+
+> <CAS_NO>
+10159-46-3
+
+> <Source>
+CCRIS
+
+> <Activity>
+1
+
+> <WDI_Name>
+.
+
+> <REFERENCE>
+SARRIF,AM, KRAHN,DF, DONOVAN,SM AND O'NEIL,RM, EVALUATION OFHEXAMETHYLPHOSPHORAMIDE FOR GENE MUTATIONS IN SALMONELLA TYPHIMURIUM USING PLATEINCORPORATION, PREINCUBATION, AND SUSPENSION ASSAYS, MUTAT.  __ RES.380(1-2):167-177, 1997
+
+> <MC_Example>
+0
+
+> <MC_Pred>
+0
+
+> <DEREK_Example>
+0
+
+> <DEREK_Pred>
+0
+
+> <Molecular_Weight>
+165.1738
+
+> <Set>
+CV4 __  __ 
+
+$$$$

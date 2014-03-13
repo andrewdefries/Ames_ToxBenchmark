@@ -1,0 +1,65 @@
+1845-30-3
+ChemmineR-0127140935XD
+
+ 11 12  0  0  0  0            999 V2000
+    0.3426   -2.1258    0.0000 C   0  0
+    0.0000   -0.9757    0.0000 C   0  0
+    0.6505    0.2809    0.0000 C   0  0
+   -0.6357    0.9757    0.0000 C   0  0
+   -0.1230    2.0607    0.0000 O   0  0
+   -1.9366    0.3844    0.0000 C   0  0
+   -2.6462   -0.8427    0.0000 C   0  0
+   -1.2714   -0.2957    0.0000 C   0  0
+   -1.7888    1.7888    0.0000 C   0  0
+   -2.9685    2.0083    0.0000 C   0  0
+   -1.0211    2.7111    0.0000 C   0  0
+  1  2  1  0
+  2  3  2  3
+  3  4  1  0
+  4  5  1  0
+  4  6  1  0
+  6  7  1  0
+  7  8  1  0
+  8  2  1  0
+  8  9  1  0
+  9  6  1  0
+  9 10  1  0
+  9 11  1  0
+M  END
+> <canonical_smiles>
+CC1=CC(O)C2CC1C2(C)C
+
+> <CAS_NO>
+1845-30-3
+
+> <Source>
+CCRIS
+
+> <Activity>
+0
+
+> <WDI_Name>
+VERBENOL
+
+> <REFERENCE>
+PODSTAVKOVA,S, MIADOKOVA,E, VLCEK,D, VLCKOVA,V AND KIJOVSKA,L, TESTINGOF THE POTENTIAL GENETIC RISK OF THE CIS-VERBENOL AND A PHEROMONIC MIXTURE, ACTAFAC. RERUM NAT. UNIV. COMENIANAE, FORM. PROT. NAT. __  13:37-51, 1990 (PUBL.1991)
+
+> <MC_Example>
+0
+
+> <MC_Pred>
+0
+
+> <DEREK_Example>
+0
+
+> <DEREK_Pred>
+0
+
+> <Molecular_Weight>
+152.23343
+
+> <Set>
+CV4 __  __ 
+
+$$$$

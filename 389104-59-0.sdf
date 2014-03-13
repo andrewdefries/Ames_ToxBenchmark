@@ -1,0 +1,80 @@
+389104-59-0
+ChemmineR-0127140935XD
+
+ 18 20  0  0  0  0            999 V2000
+   -3.5694   -3.4013    0.0000 C   0  0
+   -2.5194   -2.8203    0.0000 C   0  0
+   -1.4915   -3.4394    0.0000 C   0  0
+   -2.5414   -4.0201    0.0000 C   0  0
+   -2.4915   -1.3190    0.0000 C   0  0
+   -3.7006   -0.6045    0.0000 C   0  0
+   -4.7428   -1.1993    0.0000 N   0  0
+   -3.7006    0.8244    0.0000 C   0  0
+   -2.4915    1.5389    0.0000 C   0  0
+   -1.2274    0.8244    0.0000 C   0  0
+   -1.2274   -0.6045    0.0000 C   0  0
+    0.0000   -1.3190    0.0000 C   0  0
+    1.2274   -0.6045    0.0000 C   0  0
+    2.4732   -1.3190    0.0000 C   0  0
+    3.7372   -0.6045    0.0000 C   0  0
+    3.7372    0.8244    0.0000 C   0  0
+    2.4732    1.5389    0.0000 C   0  0
+    1.2274    0.8244    0.0000 C   0  0
+  1  2  1  0
+  2  3  1  0
+  2  4  1  0
+  2  5  1  0
+  5  6  2  0
+  6  7  1  0
+  6  8  1  0
+  8  9  2  0
+  9 10  1  0
+ 10 11  2  0
+ 11  5  1  0
+ 11 12  1  0
+ 12 13  1  0
+ 13 14  2  0
+ 14 15  1  0
+ 15 16  2  0
+ 16 17  1  0
+ 17 18  2  0
+ 18 10  1  0
+ 18 13  1  0
+M  END
+> <canonical_smiles>
+CC(C)(C)c1c(N)ccc2c1Cc3ccccc23
+
+> <CAS_NO>
+389104-59-0
+
+> <Source>
+CCRIS
+
+> <Activity>
+0
+
+> <WDI_Name>
+.
+
+> <REFERENCE>
+GLENDE,C SCHMITT,H ERDINGER,L ENGELHARDT,G AND BOCHE,G, TRANSFORMATIONOF MUTAGENIC AROMATIC AMINES INTO NON-MUTAGENIC SPECIES BY ALKYL SUBSTITUENTS.PART I. ALKYLATION ORTHO TO THE AMINO FUNCTION. MUTA __ T. RES. 498(1-2):19-37,2001
+
+> <MC_Example>
+0
+
+> <MC_Pred>
+1
+
+> <DEREK_Example>
+0
+
+> <DEREK_Pred>
+1
+
+> <Molecular_Weight>
+237.33946
+
+> <Set>
+CV2 __  __ 
+
+$$$$

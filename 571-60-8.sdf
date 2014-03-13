@@ -1,0 +1,67 @@
+571-60-8
+ChemmineR-0127140935XD
+
+ 12 13  0  0  0  0            999 V2000
+   -1.2928    2.6973    0.0000 O   0  0
+   -1.2964    1.4973    0.0000 C   0  0
+   -2.6111    0.7486    0.0000 C   0  0
+   -2.6111   -0.7486    0.0000 C   0  0
+   -1.2964   -1.4973    0.0000 C   0  0
+   -1.2928   -2.6973    0.0000 O   0  0
+    0.0000   -0.7486    0.0000 C   0  0
+    1.2964   -1.4973    0.0000 C   0  0
+    2.5929   -0.7486    0.0000 C   0  0
+    2.5929    0.7486    0.0000 C   0  0
+    1.2964    1.4973    0.0000 C   0  0
+    0.0000    0.7486    0.0000 C   0  0
+  1  2  1  0
+  2  3  2  0
+  3  4  1  0
+  4  5  2  0
+  5  6  1  0
+  5  7  1  0
+  7  8  2  0
+  8  9  1  0
+  9 10  2  0
+ 10 11  1  0
+ 11 12  2  0
+ 12  2  1  0
+ 12  7  1  0
+M  END
+> <canonical_smiles>
+Oc1ccc(O)c2ccccc12
+
+> <CAS_NO>
+571-60-8
+
+> <Source>
+CCRIS
+
+> <Activity>
+1
+
+> <WDI_Name>
+.
+
+> <REFERENCE>
+HAKURA,A, TSUTSUI,Y, MOCHIDA,H, SUGIHARA,Y, MIKAMI,T AND SAGAMI,F,MUTAGENICITY OF DIHYDROXYBENZENES AND DIHYDROXYNAPHTHALENES FOR AMES SALMONELLATESTER STRAINS, MUTAT. RES. 371(3-4):293-299, 1996
+
+> <MC_Example>
+0
+
+> <MC_Pred>
+0
+
+> <DEREK_Example>
+0
+
+> <DEREK_Pred>
+0
+
+> <Molecular_Weight>
+160.16932
+
+> <Set>
+CV4 __  __ 
+
+$$$$

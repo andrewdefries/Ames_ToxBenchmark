@@ -1,0 +1,68 @@
+104-67-6
+ChemmineR-0127140935XD
+
+ 13 13  0  0  0  0            999 V2000
+    2.2535   -9.7611    0.0000 C   0  0
+    1.5502   -8.7888    0.0000 C   0  0
+    2.1626   -7.4186    0.0000 C   0  0
+    1.2830   -6.2026    0.0000 C   0  0
+    1.8954   -4.8324    0.0000 C   0  0
+    1.0157   -3.6164    0.0000 C   0  0
+    1.6281   -2.2462    0.0000 C   0  0
+    0.7500   -1.0323    0.0000 C   0  0
+    1.2135    0.3943    0.0000 C   0  0
+    0.0000    1.2760    0.0000 C   0  0
+   -1.2135    0.3943    0.0000 C   0  0
+   -2.3548    0.7651    0.0000 O   0  0
+   -0.7500   -1.0323    0.0000 O   0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+  4  5  1  0
+  5  6  1  0
+  6  7  1  0
+  7  8  1  0
+  8  9  1  0
+  9 10  1  0
+ 10 11  1  0
+ 11 12  2  0
+ 11 13  1  0
+ 13  8  1  0
+M  END
+> <canonical_smiles>
+CCCCCCCC1CCC(=O)O1
+
+> <CAS_NO>
+104-67-6
+
+> <Source>
+CCRIS
+
+> <Activity>
+0
+
+> <WDI_Name>
+DR0036884
+
+> <REFERENCE>
+FUJITA,H AND SASAKI,M, MUTAGENICITY TEST OF FOOD ADDITIVES WITHSALMONELLA TYPHIMURIUM TA97 AND TA102. II., KENKYU NENPO - TOKYO-TORITSU EISEIKENKYUSHO 38:423-430, 1987
+
+> <MC_Example>
+0
+
+> <MC_Pred>
+0
+
+> <DEREK_Example>
+0
+
+> <DEREK_Pred>
+0
+
+> <Molecular_Weight>
+184.2753
+
+> <Set>
+CV1 __  __ 
+
+$$$$

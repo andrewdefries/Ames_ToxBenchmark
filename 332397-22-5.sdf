@@ -1,0 +1,70 @@
+332397-22-5
+ChemmineR-0127140935XD
+
+ 14 14  0  0  0  0            999 V2000
+    3.6375   -0.9049    0.0000 N   0  0
+    2.5973   -1.5031    0.0000 C   0  0
+    2.5951   -3.0039    0.0000 N   0  0
+    3.8933   -3.7570    0.0000 O   0  0
+    3.8912   -5.2578    0.0000 S   0  0
+    4.9292   -5.8600    0.0000 O   0  0
+    3.8889   -6.4578    0.0000 O   0  0
+    2.8509   -5.8560    0.0000 O   0  0
+    1.2990   -0.7500    0.0000 C   0  0
+    1.2990    0.7500    0.0000 C   0  0
+    0.0000    1.5000    0.0000 C   0  0
+   -1.2990    0.7500    0.0000 C   0  0
+   -1.2990   -0.7500    0.0000 C   0  0
+    0.0000   -1.5000    0.0000 C   0  0
+  1  2  1  0
+  2  3  2  3
+  3  4  1  0
+  4  5  1  0
+  5  6  2  0
+  5  7  2  0
+  5  8  1  0
+  2  9  1  0
+  9 10  2  0
+ 10 11  1  0
+ 11 12  2  0
+ 12 13  1  0
+ 13 14  2  0
+ 14  9  1  0
+M  END
+> <canonical_smiles>
+NC(=NOS(=O)(=O)O)c1ccccc1
+
+> <CAS_NO>
+332397-22-5
+
+> <Source>
+CCRIS
+
+> <Activity>
+0
+
+> <WDI_Name>
+.
+
+> <REFERENCE>
+CLEMENT,B CHRISTIANSEN,K AND GIRRESER,U, PHASE 2 METABOLITES OFN-HYDROXYLATED AMIDINES (AMIDOXIMES): SYNTHESIS, IN VITRO FORMATION BY PIGHEPATOCYTES, AND MUTAGENICITY TESTING, CHEM. RES. TOXICOL. 14(3 __ ):319-326,2000
+
+> <MC_Example>
+0
+
+> <MC_Pred>
+0
+
+> <DEREK_Example>
+0
+
+> <DEREK_Pred>
+0
+
+> <Molecular_Weight>
+216.21442
+
+> <Set>
+CV5 __  __ 
+
+$$$$

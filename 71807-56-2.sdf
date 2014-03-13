@@ -1,0 +1,80 @@
+71807-56-2
+ChemmineR-0127140935XD
+
+ 19 19  0  0  0  0            999 V2000
+    1.4553   -2.0031    0.0000 C   0  0
+    0.7500   -1.0323    0.0000 C   0  0
+    1.2135    0.3943    0.0000 N   0  0
+    0.0000    1.2760    0.0000 C   0  0
+   -1.2135    0.3943    0.0000 N   0  0
+   -0.7500   -1.0323    0.0000 C   0  0
+   -1.6332   -2.2426    0.0000 C   0  0
+   -3.1255   -2.0835    0.0000 S   0  0
+   -4.0102   -3.2959    0.0000 C   0  0
+   -5.5026   -3.1369    0.0000 C   0  0
+   -6.3873   -4.3492    0.0000 N   0  0
+   -7.8796   -4.1902    0.0000 C   0  0
+   -8.7643   -5.4026    0.0000 N   0  0
+  -10.2567   -5.2435    0.0000 C   0  0
+  -11.1414   -6.4559    0.0000 C   0  0
+  -11.8487   -7.4253    0.0000 C   0  0
+   -8.4905   -2.8193    0.0000 N   0  0
+   -9.9831   -2.6619    0.0000 C   0  0
+  -11.1764   -2.5361    0.0000 N   0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+  4  5  2  0
+  5  6  1  0
+  6  2  2  0
+  6  7  1  0
+  7  8  1  0
+  8  9  1  0
+  9 10  1  0
+ 10 11  1  0
+ 11 12  2  3
+ 12 13  1  0
+ 13 14  1  0
+ 14 15  1  0
+ 15 16  3  0
+ 12 17  1  0
+ 17 18  1  0
+ 18 19  3  0
+M  END
+> <canonical_smiles>
+Cc1[nH]cnc1CSCCN=C(NCC#C)NC#N
+
+> <CAS_NO>
+71807-56-2
+
+> <Source>
+CCRIS
+
+> <Activity>
+0
+
+> <WDI_Name>
+.
+
+> <REFERENCE>
+ISHIDA,F, KONDO,H, FUKUSHIMA,M AND KAMEI,T,MUTAGENIC EVALUATION OFETINTIDINE (BL-5641), A NOVEL HISTAMINE H2-RECEPTOR ANTAGONIST, USING REVERSEMUTATION TESTS IN BACTERIA AND FORWARD MUTATION TESTS IN  __ V79 CHINESE HAMSTERCELLS, MUTAT. RES. 188(4):301-306, 1987
+
+> <MC_Example>
+0
+
+> <MC_Pred>
+0
+
+> <DEREK_Example>
+0
+
+> <DEREK_Pred>
+0
+
+> <Molecular_Weight>
+276.36064
+
+> <Set>
+CV2 __  __ 
+
+$$$$

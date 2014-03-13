@@ -1,0 +1,51 @@
+109-65-9
+ChemmineR-0127140935XD
+
+  5  4  0  0  0  0            999 V2000
+    0.2606    0.1503    0.0000 C    0  0
+    1.3000    0.7500    0.0000 C    0  0
+    2.6000    0.0000    0.0000 C    0  0
+    3.9000    0.7500    0.0000 C    0  0
+    4.9394    0.1503    0.0000 Br   0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+  4  5  1  0
+M  END
+> <canonical_smiles>
+CCCCBr
+
+> <CAS_NO>
+109-65-9
+
+> <Source>
+CCRIS
+
+> <Activity>
+1
+
+> <WDI_Name>
+BUTYLBROM
+
+> <REFERENCE>
+SIMMON,VF, KAUHANEN,K AND TARDIFF,RG, MUTAGENIC ACTIVITY OF CHEMICALSIDENTIFIED IN DRINKING WATER, DEV. TOXICOL. ENVIRON. SCI. 2:249-258,1977
+
+> <MC_Example>
+0
+
+> <MC_Pred>
+1
+
+> <DEREK_Example>
+0
+
+> <DEREK_Pred>
+1
+
+> <Molecular_Weight>
+137.01826
+
+> <Set>
+CV3 __  __ 
+
+$$$$

@@ -1,0 +1,53 @@
+1517-05-1
+ChemmineR-0127140935XD
+
+  6  5  0  0  0  0            999 V2000
+    0.2606    0.1503    0.0000 O   0  0
+    1.3000    0.7500    0.0000 C   0  0
+    2.6000    0.0000    0.0000 C   0  0
+    3.9000    0.7500    0.0000 N   0  0
+    5.2000    0.0000    0.0000 N   0  0
+    6.2394   -0.5997    0.0000 N   0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+  4  5  2  3
+  5  6  3  0
+M  END
+> <canonical_smiles>
+OCCN=N#N
+
+> <CAS_NO>
+1517-05-1
+
+> <Source>
+CCRIS
+
+> <Activity>
+1
+
+> <WDI_Name>
+.
+
+> <REFERENCE>
+JURICEK,M, GRUZ,P, VELEMINSKY,J, STANEK,J, KEFURT,K, MORAVCOVA,J ANDJARY,J, MUTAGENIC ACTIVITY OF 6-AZIDO DEOXYHEXOSES AND AZIDO ALCOHOLS INSALMONELLA TYPHIMURIUM AND ITS INHIBITION BY A STRUCTURE-SIM __ ILAR CARBON SOURCEIN THE MEDIUM, MUTAT. RES. 251(1):13-20, 1991
+
+> <MC_Example>
+0
+
+> <MC_Pred>
+0
+
+> <DEREK_Example>
+0
+
+> <DEREK_Pred>
+0
+
+> <Molecular_Weight>
+87.08059
+
+> <Set>
+CV5 __  __ 
+
+$$$$

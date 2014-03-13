@@ -1,0 +1,74 @@
+133762-80-8
+ChemmineR-0127140935XD
+
+ 16 16  0  0  0  0            999 V2000
+    2.3383   -1.3500    0.0000 C   0  0
+    1.2990   -0.7500    0.0000 C   0  0
+    1.2990    0.7500    0.0000 C   0  0
+    0.0000    1.5000    0.0000 N   0  0
+    0.0031    3.0008    0.0000 C   0  0
+    1.3039    3.7494    0.0000 C   0  0
+    2.3421    3.1476    0.0000 O   0  0
+    1.3070    5.2502    0.0000 C   0  0
+    2.6078    5.9988    0.0000 N   0  0
+    2.6109    7.4996    0.0000 N   0  0
+    2.6133    8.6996    0.0000 N   0  0
+   -1.2990    0.7500    0.0000 C   0  0
+   -2.3383    1.3500    0.0000 O   0  0
+   -1.2990   -0.7500    0.0000 N   0  0
+    0.0000   -1.5000    0.0000 C   0  0
+    0.0000   -2.7000    0.0000 O   0  0
+  1  2  1  0
+  2  3  2  3
+  3  4  1  0
+  4  5  1  0
+  5  6  1  0
+  6  7  1  0
+  6  8  1  0
+  8  9  1  0
+  9 10  2  3
+ 10 11  3  0
+  4 12  1  0
+ 12 13  2  0
+ 12 14  1  0
+ 14 15  1  0
+ 15  2  1  0
+ 15 16  2  0
+M  END
+> <canonical_smiles>
+CC1=CN(CC(O)CN=N#N)C(=O)NC1=O
+
+> <CAS_NO>
+133762-80-8
+
+> <Source>
+CCRIS
+
+> <Activity>
+1
+
+> <WDI_Name>
+.
+
+> <REFERENCE>
+GICHNER,T, HOLY,A, SPASSOVA,M, VELEMINSKY,J AND GRUZ,P, THEMUTAGENICITY OF AZIDO DERIVATIVES OF MONOSACCHARIDES AND ALCOHOLS AND OFN-(3-AZIDO-2- HYDROXYPROPYL) DERIVATIVES OF PURINES AND PYRIMIDINES I __ NARABIDOPSIS THALIANA AND IN SALMONELLA TYPHIMURIUM, MUTAGENESIS 6(1):55-58,1991
+
+> <MC_Example>
+0
+
+> <MC_Pred>
+0
+
+> <DEREK_Example>
+0
+
+> <DEREK_Pred>
+0
+
+> <Molecular_Weight>
+225.20464
+
+> <Set>
+CV1 __  __ 
+
+$$$$

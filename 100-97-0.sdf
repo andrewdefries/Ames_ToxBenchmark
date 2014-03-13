@@ -1,0 +1,64 @@
+100-97-0
+ChemmineR-0127140935XD
+
+ 10 12  0  0  0  0            999 V2000
+   -2.0541   -1.3755    0.0000 C   0  0
+   -0.8987    0.0000    0.0000 N   0  0
+    0.3852   -0.6052    0.0000 C   0  0
+    1.7607   -0.2751    0.0000 N   0  0
+    1.7790    1.2105    0.0000 C   0  0
+    0.4035    1.7790    0.0000 N   0  0
+   -0.6052    0.5686    0.0000 C   0  0
+   -0.6052   -0.9721    0.0000 N   0  0
+    0.7703   -1.5223    0.0000 C   0  0
+   -0.8987    1.3205    0.0000 C   0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+  4  5  1  0
+  5  6  1  0
+  6  7  1  0
+  7  8  1  0
+  8  1  1  0
+  8  9  1  0
+  9  4  1  0
+  6 10  1  0
+ 10  2  1  0
+M  END
+> <canonical_smiles>
+C1N2CN3CN(CN1C3)C2
+
+> <CAS_NO>
+100-97-0
+
+> <Source>
+EPA1
+
+> <Activity>
+1
+
+> <WDI_Name>
+BROMETENA;METHENAMI;METHENABZ;METHENABO;METHENAET;METHENHBR;METHENHCL;METHENAHI;METHENMGS;METHENMET;METHENAPH;METHENRES;METHENAGN;METHENCOC
+
+> <REFERENCE>
+KAZIUS, J, MCGUIRE, R AND BURSI, R. DERIVATION AND VALIDATION OF TOXICOPHORES FOR MUTAGENICITY PREDICTION. J. MED. CHEM. 48: 312-320, 2005
+
+> <MC_Example>
+0
+
+> <MC_Pred>
+0
+
+> <DEREK_Example>
+0
+
+> <DEREK_Pred>
+0
+
+> <Molecular_Weight>
+140.18627
+
+> <Set>
+CV2 __  __ 
+
+$$$$

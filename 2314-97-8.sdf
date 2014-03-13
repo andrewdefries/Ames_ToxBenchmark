@@ -1,0 +1,51 @@
+2314-97-8
+ChemmineR-0127140935XD
+
+  5  4  0  0  0  0            999 V2000
+    0.2606    0.1503    0.0000 F   0  0
+    1.3000    0.7500    0.0000 C   0  0
+    1.3000    1.9500    0.0000 F   0  0
+    1.3000   -0.4500    0.0000 F   0  0
+    2.3394    0.1503    0.0000 I   0  0
+  1  2  1  0
+  2  3  1  0
+  2  4  1  0
+  2  5  1  0
+M  END
+> <canonical_smiles>
+FC(F)(F)I
+
+> <CAS_NO>
+2314-97-8
+
+> <Source>
+CCRIS
+
+> <Activity>
+1
+
+> <WDI_Name>
+.
+
+> <REFERENCE>
+DODD,DE, LEDBETTER,AD AND MITCHELL,AD, GENOTOXICITY TESTING OF THEHALON REPLACEMENT CANDIDATES TRIFLUOROIODOMETHANE (CF3I) AND1,1,1,2,3,3,3-HEPTAFLUOROPROPANE (HFC-227EA) USING THE SALMONELLA TYPHIMUR __ IUMAND L5178Y MOUSE LYMPHOMA MUTATION ASSAYS AND THE MOUSE MICRONUCLEUS TEST,INHALATION TOXICOL. 9(2):111-131, 1997
+
+> <MC_Example>
+0
+
+> <MC_Pred>
+0
+
+> <DEREK_Example>
+0
+
+> <DEREK_Pred>
+1
+
+> <Molecular_Weight>
+195.91037
+
+> <Set>
+CV4 __  __ 
+
+$$$$

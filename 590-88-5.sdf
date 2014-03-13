@@ -1,0 +1,53 @@
+590-88-5
+ChemmineR-0127140935XD
+
+  6  5  0  0  0  0            999 V2000
+    1.3000    1.9500    0.0000 C   0  0
+    1.3000    0.7500    0.0000 C   0  0
+    0.2606    0.1503    0.0000 N   0  0
+    2.6000    0.0000    0.0000 C   0  0
+    3.9000    0.7500    0.0000 C   0  0
+    4.9394    0.1503    0.0000 N   0  0
+  1  2  1  0
+  2  3  1  0
+  2  4  1  0
+  4  5  1  0
+  5  6  1  0
+M  END
+> <canonical_smiles>
+CC(N)CCN
+
+> <CAS_NO>
+590-88-5
+
+> <Source>
+CCRIS
+
+> <Activity>
+0
+
+> <WDI_Name>
+.
+
+> <REFERENCE>
+TAKAHASHI,A AND ONO,H, MUTAGENICITY ASSESSMENT IN 44 EPOXY RESINHARDENERS IN SALMONELLA TYPHIMURIUM TESTER STRAINS, CHEM. EXPRESS 8(9):785-788,1993
+
+> <MC_Example>
+0
+
+> <MC_Pred>
+0
+
+> <DEREK_Example>
+0
+
+> <DEREK_Pred>
+0
+
+> <Molecular_Weight>
+88.15148
+
+> <Set>
+CV2 __  __ 
+
+$$$$

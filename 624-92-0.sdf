@@ -1,0 +1,49 @@
+624-92-0
+ChemmineR-0127140935XD
+
+  4  3  0  0  0  0            999 V2000
+    0.2606    0.1503    0.0000 C   0  0
+    1.3000    0.7500    0.0000 S   0  0
+    2.6000    0.0000    0.0000 S   0  0
+    3.6394    0.5997    0.0000 C   0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+M  END
+> <canonical_smiles>
+CSSC
+
+> <CAS_NO>
+624-92-0
+
+> <Source>
+VITIC
+
+> <Activity>
+0
+
+> <WDI_Name>
+DIMEDISUL
+
+> <REFERENCE>
+JUDSON, PN, COOKE, PA, DOERRER, NG, GREENE, N, HANZLIK, RP, HARDY, C, HARTMANN, A, HINCHLIFFE, D, HOLDER, J, MUELLER, L, STEGER-HARTMANN, T, ROTHFUSS, A, SMITH, M, THOMAS, K, VESSEY, JD AND ZEIGER E.  __ TOWARDS THE CREATION OF AN INTERNATIONAL TOXICOLOGY INFORMATION CENTRE. TOXICOLOGY 213(1-2):117-28, 2005
+
+> <MC_Example>
+1
+
+> <MC_Pred>
+0
+
+> <DEREK_Example>
+0
+
+> <DEREK_Pred>
+0
+
+> <Set>
+TRAIN
+
+> <Molecular_Weight>
+94.19904 __  __ 
+
+$$$$

@@ -1,0 +1,67 @@
+122-56-5
+ChemmineR-0127140935XD
+
+ 13 12  0  0  0  0            999 V2000
+    0.2606    0.1503    0.0000 C   0  0
+    1.3000    0.7500    0.0000 C   0  0
+    2.6000    0.0000    0.0000 C   0  0
+    3.9000    0.7500    0.0000 C   0  0
+    5.2000    0.0000    0.0000 B   0  0
+    6.5000    0.7500    0.0000 C   0  0
+    7.7999    0.0000    0.0000 C   0  0
+    9.0999    0.7500    0.0000 C   0  0
+   10.1394    0.1503    0.0000 C   0  0
+    5.2030   -1.5008    0.0000 C   0  0
+    6.5039   -2.2494    0.0000 C   0  0
+    6.5070   -3.7502    0.0000 C   0  0
+    7.5470   -4.3487    0.0000 C   0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+  4  5  1  0
+  5  6  1  0
+  6  7  1  0
+  7  8  1  0
+  8  9  1  0
+  5 10  1  0
+ 10 11  1  0
+ 11 12  1  0
+ 12 13  1  0
+M  END
+> <canonical_smiles>
+CCCCB(CCCC)CCCC
+
+> <CAS_NO>
+122-56-5
+
+> <Source>
+CCRIS
+
+> <Activity>
+1
+
+> <WDI_Name>
+.
+
+> <REFERENCE>
+SHORT-TERM TEST PROGRAM SPONSORED BY THE DIVISION OF CANCER BIOLOGY,NATIONAL CANCER INSTITUTE, MS. ELLEN ZAIKA, ASSISTANT PROJECT   OFFICER , p.Y92
+
+> <MC_Example>
+0
+
+> <MC_Pred>
+-1
+
+> <DEREK_Example>
+0
+
+> <DEREK_Pred>
+0
+
+> <Molecular_Weight>
+182.15378
+
+> <Set>
+CV5 __  __ 
+
+$$$$

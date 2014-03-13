@@ -1,0 +1,80 @@
+131-12-4
+ChemmineR-0127140935XD
+
+ 18 20  0  0  0  0            999 V2000
+    1.6837   -4.1860    0.0000 C   0  0
+    0.6436   -3.5875    0.0000 O   0  0
+    0.6405   -2.0863    0.0000 C   0  0
+    1.9399   -1.3543    0.0000 C   0  0
+    3.2328   -2.1163    0.0000 O   0  0
+    3.2227   -3.3163    0.0000 C   0  0
+    1.9399    0.1464    0.0000 C   0  0
+    3.0746    1.1530    0.0000 O   0  0
+    2.4524    2.5256    0.0000 C   0  0
+    0.9517    2.3608    0.0000 C   0  0
+    0.6405    0.8968    0.0000 C   0  0
+   -0.6588    0.1464    0.0000 C   0  0
+   -1.9399    0.8968    0.0000 O   0  0
+   -3.2576    0.1464    0.0000 C   0  0
+   -4.2950    0.7495    0.0000 O   0  0
+   -3.2576   -1.3543    0.0000 C   0  0
+   -1.9399   -2.0863    0.0000 C   0  0
+   -0.6588   -1.3543    0.0000 C   0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  2  0
+  4  5  1  0
+  5  6  1  0
+  4  7  1  0
+  7  8  1  0
+  8  9  1  0
+  9 10  2  0
+ 10 11  1  0
+ 11  7  2  0
+ 11 12  1  0
+ 12 13  1  0
+ 13 14  1  0
+ 14 15  2  0
+ 14 16  1  0
+ 16 17  2  3
+ 17 18  1  0
+ 18  3  1  0
+ 18 12  2  0
+M  END
+> <canonical_smiles>
+COc1c(OC)c2occc2c3OC(=O)C=Cc13
+
+> <CAS_NO>
+131-12-4
+
+> <Source>
+CCRIS
+
+> <Activity>
+0
+
+> <WDI_Name>
+PIMPINELL
+
+> <REFERENCE>
+SCHIMMER,O, KIEFER,J AND PAULINI,H, INHIBITORY EFFECTS OFFUROCOUMARINS IN SALMONELLA TYPHIMURIUM TA98 ON THE MUTAGENICITY OF DICTAMNINEAND RUTACRIDONE, PROMUTAGENS FROM RUTA GRAVEOLENS L, MUTAGENESIS  __ 6(6):501-506,1991
+
+> <MC_Example>
+0
+
+> <MC_Pred>
+1
+
+> <DEREK_Example>
+0
+
+> <DEREK_Pred>
+0
+
+> <Molecular_Weight>
+246.2155
+
+> <Set>
+CV4 __  __ 
+
+$$$$

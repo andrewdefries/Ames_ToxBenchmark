@@ -1,0 +1,63 @@
+76215-00-4
+ChemmineR-0127140935XD
+
+ 11 10  0  0  0  0            999 V2000
+    1.3000    1.9500    0.0000 C    0  0
+    1.3000    0.7500    0.0000 C    0  0
+    0.2606    0.1503    0.0000 O    0  0
+    2.6000    0.0000    0.0000 O    0  0
+    3.9000    0.7500    0.0000 C    0  0
+    5.2000    0.0000    0.0000 N    0  0
+    6.5000    0.7500    0.0000 C    0  0
+    7.7999    0.0000    0.0000 C    0  0
+    8.8394    0.5997    0.0000 Cl   0  0
+    5.2030   -1.5008    0.0000 N    0  0
+    6.2431   -2.0994    0.0000 O    0  0
+  1  2  1  0
+  2  3  2  0
+  2  4  1  0
+  4  5  1  0
+  5  6  1  0
+  6  7  1  0
+  7  8  1  0
+  8  9  1  0
+  6 10  1  0
+ 10 11  2  0
+M  END
+> <canonical_smiles>
+CC(=O)OCN(CCCl)N=O
+
+> <CAS_NO>
+76215-00-4
+
+> <Source>
+CCRIS
+
+> <Activity>
+1
+
+> <WDI_Name>
+.
+
+> <REFERENCE>
+ISHIKAWA,S SAITOH,N AND MOCHIZUKI,M, SYNTHESIS AND PROPERTIES OF NOVELBIFUNCTIONAL NITROSAMINES WITH OMEGA-CHLOROALKYL GROUPS, CHEM. PHARM. BULL.48(10):1500-1503, 2000
+
+> <MC_Example>
+0
+
+> <MC_Pred>
+1
+
+> <DEREK_Example>
+0
+
+> <DEREK_Pred>
+1
+
+> <Molecular_Weight>
+180.58956
+
+> <Set>
+CV1 __  __ 
+
+$$$$

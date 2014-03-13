@@ -1,0 +1,54 @@
+71-43-2
+ChemmineR-0127140935XD
+
+  6  6  0  0  0  0            999 V2000
+     1.299    -0.750     0.000 C   0  0
+     1.299     0.750     0.000 C   0  0
+     0.000     1.500     0.000 C   0  0
+    -1.299     0.750     0.000 C   0  0
+    -1.299    -0.750     0.000 C   0  0
+     0.000    -1.500     0.000 C   0  0
+  1  2  2  0
+  2  3  1  0
+  3  4  2  0
+  4  5  1  0
+  5  6  2  0
+  6  1  1  0
+M  END
+> <canonical_smiles>
+c1ccccc1
+
+> <CAS_NO>
+71-43-2
+
+> <Source>
+VITIC
+
+> <Activity>
+0
+
+> <WDI_Name>
+BENZENE
+
+> <REFERENCE>
+JUDSON, PN, COOKE, PA, DOERRER, NG, GREENE, N, HANZLIK, RP, HARDY, C, HARTMANN, A, HINCHLIFFE, D, HOLDER, J, MUELLER, L, STEGER-HARTMANN, T, ROTHFUSS, A, SMITH, M, THOMAS, K, VESSEY, JD AND ZEIGER E.  __ TOWARDS THE CREATION OF AN INTERNATIONAL TOXICOLOGY INFORMATION CENTRE. TOXICOLOGY 213(1-2):117-28, 2005
+
+> <MC_Example>
+1
+
+> <MC_Pred>
+0
+
+> <DEREK_Example>
+1
+
+> <DEREK_Pred>
+0
+
+> <Molecular_Weight>
+78.11184
+
+> <Set>
+TRAIN __  __ 
+
+$$$$

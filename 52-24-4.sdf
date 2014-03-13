@@ -1,0 +1,66 @@
+52-24-4
+ChemmineR-0127140935XD
+
+ 11 13  0  0  0  0            999 V2000
+   -3.0795   -0.5777    0.0000 S   0  0
+   -2.0404   -1.1781    0.0000 P   0  0
+   -0.7500   -0.4330    0.0000 N   0  0
+    0.7500   -0.4330    0.0000 C   0  0
+    0.0000    0.8660    0.0000 C   0  0
+   -2.0414   -2.6789    0.0000 N   0  0
+   -1.2921   -3.8869    0.0000 C   0  0
+   -2.7921   -3.8859    0.0000 C   0  0
+   -2.0402    0.3227    0.0000 N   0  0
+   -1.2900    1.5301    0.0000 C   0  0
+   -2.7900    1.5303    0.0000 C   0  0
+  1  2  2  0
+  2  3  1  0
+  3  4  1  0
+  4  5  1  0
+  5  3  1  0
+  2  6  1  0
+  6  7  1  0
+  7  8  1  0
+  8  6  1  0
+  2  9  1  0
+  9 10  1  0
+ 10 11  1  0
+ 11  9  1  0
+M  END
+> <canonical_smiles>
+S=P(N1CC1)(N2CC2)N3CC3
+
+> <CAS_NO>
+52-24-4
+
+> <Source>
+VITIC
+
+> <Activity>
+1
+
+> <WDI_Name>
+THIOTEPA
+
+> <REFERENCE>
+JUDSON, PN, COOKE, PA, DOERRER, NG, GREENE, N, HANZLIK, RP, HARDY, C, HARTMANN, A, HINCHLIFFE, D, HOLDER, J, MUELLER, L, STEGER-HARTMANN, T, ROTHFUSS, A, SMITH, M, THOMAS, K, VESSEY, JD AND ZEIGER E.  __ TOWARDS THE CREATION OF AN INTERNATIONAL TOXICOLOGY INFORMATION CENTRE. TOXICOLOGY 213(1-2):117-28, 2005
+
+> <MC_Example>
+1
+
+> <MC_Pred>
+1
+
+> <DEREK_Example>
+1
+
+> <DEREK_Pred>
+1
+
+> <Molecular_Weight>
+189.21834
+
+> <Set>
+TRAIN __  __ 
+
+$$$$

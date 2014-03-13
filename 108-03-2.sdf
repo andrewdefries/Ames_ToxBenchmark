@@ -1,0 +1,53 @@
+108-03-2
+ChemmineR-0127140935XD
+
+  6  5  0  0  0  0            999 V2000
+    0.2606    0.1503    0.0000 C   0  0
+    1.3000    0.7500    0.0000 C   0  0
+    2.6000    0.0000    0.0000 C   0  0
+    3.9000    0.7500    0.0000 N   0  0
+    4.9394    0.1503    0.0000 O   0  0
+    3.9000    1.9500    0.0000 O   0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+  4  5  2  0
+  4  6  1  0
+M  END
+> <canonical_smiles>
+CCCN(=O)O
+
+> <CAS_NO>
+108-03-2
+
+> <Source>
+EPA2
+
+> <Activity>
+0
+
+> <WDI_Name>
+NITROPR-1
+
+> <REFERENCE>
+HELMA, C, CRAMER, T, KRAMER, S, AND DE RAEDT, L, DATA MINING AND MACHINE LEARNING TECHNIQUES FOR THE IDENTIFICATION OF MUTAGENICITY INDUCING SUBSTRUCTURES AND STRUCTURE ACTIVITY RELATIONSHIPS OF NONCO __ NGENERIC COMPOUNDS. J. CHEM. INF. COMPUT. SCI. 44: 1402-1411, 2004
+
+> <MC_Example>
+0
+
+> <MC_Pred>
+0
+
+> <DEREK_Example>
+0
+
+> <DEREK_Pred>
+0
+
+> <Molecular_Weight>
+91.10906
+
+> <Set>
+CV3 __  __ 
+
+$$$$

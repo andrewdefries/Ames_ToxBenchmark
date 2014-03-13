@@ -1,0 +1,85 @@
+17804-35-2
+ChemmineR-0127140935XD
+
+ 21 22  0  0  0  0            999 V2000
+    7.2450   -6.3255    0.0000 C   0  0
+    6.0699   -6.0824    0.0000 C   0  0
+    5.5974   -4.6579    0.0000 C   0  0
+    4.1277   -4.3539    0.0000 C   0  0
+    3.6552   -2.9294    0.0000 N   0  0
+    2.1855   -2.6254    0.0000 C   0  0
+    1.3877   -3.5218    0.0000 O   0  0
+    1.7138   -1.2033    0.0000 N   0  0
+    2.5889    0.0182    0.0000 C   0  0
+    4.0872    0.0382    0.0000 N   0  0
+    4.8208    1.3475    0.0000 C   0  0
+    4.2072    2.3788    0.0000 O   0  0
+    6.3215    1.3677    0.0000 O   0  0
+    6.9082    2.4146    0.0000 C   0  0
+    1.7138    1.2033    0.0000 N   0  0
+    0.2917    0.7475    0.0000 C   0  0
+   -1.0028    1.5132    0.0000 C   0  0
+   -2.3155    0.7475    0.0000 C   0  0
+   -2.3155   -0.7475    0.0000 C   0  0
+   -1.0028   -1.5132    0.0000 C   0  0
+    0.2917   -0.7475    0.0000 C   0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+  4  5  1  0
+  5  6  1  0
+  6  7  2  0
+  6  8  1  0
+  8  9  1  0
+  9 10  1  0
+ 10 11  1  0
+ 11 12  2  0
+ 11 13  1  0
+ 13 14  1  0
+  9 15  2  0
+ 15 16  1  0
+ 16 17  2  0
+ 17 18  1  0
+ 18 19  2  0
+ 19 20  1  0
+ 20 21  2  0
+ 21  8  1  0
+ 21 16  1  0
+M  END
+> <canonical_smiles>
+CCCCNC(=O)n1c(NC(=O)OC)nc2ccccc12
+
+> <CAS_NO>
+17804-35-2
+
+> <Source>
+VITIC
+
+> <Activity>
+0
+
+> <WDI_Name>
+BENOMYL
+
+> <REFERENCE>
+JUDSON, PN, COOKE, PA, DOERRER, NG, GREENE, N, HANZLIK, RP, HARDY, C, HARTMANN, A, HINCHLIFFE, D, HOLDER, J, MUELLER, L, STEGER-HARTMANN, T, ROTHFUSS, A, SMITH, M, THOMAS, K, VESSEY, JD AND ZEIGER E.  __ TOWARDS THE CREATION OF AN INTERNATIONAL TOXICOLOGY INFORMATION CENTRE. TOXICOLOGY 213(1-2):117-28, 2005
+
+> <MC_Example>
+0
+
+> <MC_Pred>
+0
+
+> <DEREK_Example>
+1
+
+> <DEREK_Pred>
+0
+
+> <Molecular_Weight>
+290.31772
+
+> <Set>
+TRAIN __  __ 
+
+$$$$

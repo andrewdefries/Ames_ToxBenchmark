@@ -1,0 +1,79 @@
+14047-09-7
+ChemmineR-0127140935XD
+
+ 18 19  0  0  0  0            999 V2000
+    2.3383   -1.3500    0.0000 Cl   0  0
+    1.2990   -0.7500    0.0000 C    0  0
+    1.2990    0.7500    0.0000 C    0  0
+    0.0000    1.5000    0.0000 C    0  0
+   -1.2990    0.7500    0.0000 C    0  0
+   -1.2990   -0.7500    0.0000 C    0  0
+    0.0000   -1.5000    0.0000 C    0  0
+    0.0000   -2.7000    0.0000 Cl   0  0
+   -2.6003    1.4977    0.0000 N    0  0
+   -3.8990    0.7455    0.0000 N    0  0
+   -5.2003    1.4932    0.0000 C    0  0
+   -6.4994    0.7432    0.0000 C    0  0
+   -7.7985    1.4932    0.0000 C    0  0
+   -7.7985    2.9932    0.0000 C    0  0
+   -8.8378    3.5932    0.0000 Cl   0  0
+   -6.4995    3.7432    0.0000 C    0  0
+   -6.4995    4.9432    0.0000 Cl   0  0
+   -5.2004    2.9933    0.0000 C    0  0
+  1  2  1  0
+  2  3  2  0
+  3  4  1  0
+  4  5  2  0
+  5  6  1  0
+  6  7  2  0
+  7  2  1  0
+  7  8  1  0
+  5  9  1  0
+  9 10  2  3
+ 10 11  1  0
+ 11 12  2  0
+ 12 13  1  0
+ 13 14  2  0
+ 14 15  1  0
+ 14 16  1  0
+ 16 17  1  0
+ 16 18  2  0
+ 18 11  1  0
+M  END
+> <canonical_smiles>
+Clc1ccc(cc1Cl)N=Nc2ccc(Cl)c(Cl)c2
+
+> <CAS_NO>
+14047-09-7
+
+> <Source>
+CCRIS
+
+> <Activity>
+0
+
+> <WDI_Name>
+.
+
+> <REFERENCE>
+MCMILLAN,DC, SHADDOCK,JG, HEFLICH,RH, CASCIANO,DA AND HINSON,JA,EVALUATION OF PROPANIL AND ITS N-OXIDIZED DERIVATIVES FOR GENOTOXICITY IN THESALMONELLA TYPHIMURIUM REVERSION, CHINESE HAMSTER OVARY/HYP __ OXANTHINE GUANINEPHOSPHORIBOSYL TRANSFERASE, AND RAT HEPATOCYTE/DNA REPAIR ASSAYS, FUNDAM. APPL.TOXICOL. 11(3): 429-439, 1988
+
+> <MC_Example>
+0
+
+> <MC_Pred>
+0
+
+> <DEREK_Example>
+0
+
+> <DEREK_Pred>
+1
+
+> <Molecular_Weight>
+320.00144
+
+> <Set>
+CV1 __  __ 
+
+$$$$

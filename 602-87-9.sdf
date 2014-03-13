@@ -1,0 +1,74 @@
+602-87-9
+ChemmineR-0127140935XD
+
+ 15 17  0  0  0  0            999 V2000
+   -0.2116   -4.0497    0.0000 O   0  0
+   -1.2534   -3.4542    0.0000 N   0  0
+   -2.2898   -4.0591    0.0000 O   0  0
+   -1.2594   -1.9530    0.0000 C   0  0
+   -2.5371   -1.2229    0.0000 C   0  0
+   -2.5371    0.2373    0.0000 C   0  0
+   -1.2594    0.9674    0.0000 C   0  0
+   -0.9674    2.4458    0.0000 C   0  0
+    0.8944    2.4276    0.0000 C   0  0
+    1.2777    0.9674    0.0000 C   0  0
+    2.5553    0.2373    0.0000 C   0  0
+    2.5553   -1.2229    0.0000 C   0  0
+    1.2777   -1.9530    0.0000 C   0  0
+    0.0000   -1.2229    0.0000 C   0  0
+    0.0000    0.2373    0.0000 C   0  0
+  1  2  1  0
+  2  3  2  0
+  2  4  1  0
+  4  5  2  0
+  5  6  1  0
+  6  7  2  0
+  7  8  1  0
+  8  9  1  0
+  9 10  1  0
+ 10 11  2  0
+ 11 12  1  0
+ 12 13  2  0
+ 13 14  1  0
+ 14  4  1  0
+ 14 15  2  0
+ 15  7  1  0
+ 15 10  1  0
+M  END
+> <canonical_smiles>
+ON(=O)c1ccc2CCc3cccc1c23
+
+> <CAS_NO>
+602-87-9
+
+> <Source>
+EPA2
+
+> <Activity>
+1
+
+> <WDI_Name>
+.
+
+> <REFERENCE>
+HELMA, C, CRAMER, T, KRAMER, S, AND DE RAEDT, L, DATA MINING AND MACHINE LEARNING TECHNIQUES FOR THE IDENTIFICATION OF MUTAGENICITY INDUCING SUBSTRUCTURES AND STRUCTURE ACTIVITY RELATIONSHIPS OF NONCO __ NGENERIC COMPOUNDS. J. CHEM. INF. COMPUT. SCI. 44: 1402-1411, 2004
+
+> <MC_Example>
+0
+
+> <MC_Pred>
+0
+
+> <DEREK_Example>
+0
+
+> <DEREK_Pred>
+0
+
+> <Molecular_Weight>
+201.22123
+
+> <Set>
+CV5 __  __ 
+
+$$$$

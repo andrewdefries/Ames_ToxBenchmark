@@ -1,0 +1,64 @@
+1794-45-2
+ChemmineR-0127140935XD
+
+ 11 11  0  0  0  0            999 V2000
+    2.3383   -1.3500    0.0000 Cl   0  0
+    1.2990   -0.7500    0.0000 C    0  0
+    1.2990    0.7500    0.0000 C    0  0
+    0.0000    1.5000    0.0000 C    0  0
+   -1.2990    0.7500    0.0000 C    0  0
+   -1.2990   -0.7500    0.0000 C    0  0
+    0.0000   -1.5000    0.0000 C    0  0
+   -0.0031   -3.0008    0.0000 C    0  0
+   -1.3039   -3.7494    0.0000 C    0  0
+   -1.3070   -5.2502    0.0000 C    0  0
+   -2.3471   -5.8487    0.0000 O    0  0
+  1  2  1  0
+  2  3  2  0
+  3  4  1  0
+  4  5  2  0
+  5  6  1  0
+  6  7  2  0
+  7  2  1  0
+  7  8  1  0
+  8  9  2  3
+  9 10  1  0
+ 10 11  2  0
+M  END
+> <canonical_smiles>
+Clc1ccccc1C=CC=O
+
+> <CAS_NO>
+1794-45-2
+
+> <Source>
+CCRIS
+
+> <Activity>
+1
+
+> <WDI_Name>
+.
+
+> <REFERENCE>
+EDER,E, WEINFURTNER,E AND EDER MMG, GENOTOXICITY OF HALOGENATEDPROPENALS, ENVIRONMENTALLY RELEVANT OXYGEN CONTAINING SHORT CHAIN HALOCARBONS,ORGANOHALOGEN COMPD. 21(DIOXIN '94):239-242, 1994
+
+> <MC_Example>
+0
+
+> <MC_Pred>
+0
+
+> <DEREK_Example>
+0
+
+> <DEREK_Pred>
+1
+
+> <Molecular_Weight>
+166.60428
+
+> <Set>
+CV1 __  __ 
+
+$$$$

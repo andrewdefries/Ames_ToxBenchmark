@@ -1,0 +1,60 @@
+932-97-8
+ChemmineR-0127140935XD
+
+  9  9  0  0  0  0            999 V2000
+    2.3383   -1.3500    0.0000 O   0  0
+    1.2990   -0.7500    0.0000 C   0  0
+    1.2990    0.7500    0.0000 C   0  0
+    0.0000    1.5000    0.0000 C   0  0
+   -1.2990    0.7500    0.0000 C   0  0
+   -2.5988    1.5004    0.0000 N   0  0
+   -3.6380    2.1004    0.0000 N   0  0
+   -1.2990   -0.7500    0.0000 C   0  0
+    0.0000   -1.5000    0.0000 C   0  0
+  1  2  2  0
+  2  3  1  0
+  3  4  2  3
+  4  5  1  0
+  5  6  2  3
+  6  7  3  0
+  5  8  1  0
+  8  9  2  3
+  9  2  1  0
+M  END
+> <canonical_smiles>
+O=C1C=CC(=N#N)C=C1
+
+> <CAS_NO>
+932-97-8
+
+> <Source>
+CCRIS
+
+> <Activity>
+1
+
+> <WDI_Name>
+.
+
+> <REFERENCE>
+KIKUGAWA,K AND KATO,T, FORMATION OF A MUTAGENIC DIAZOQUINONE BYINTERACTION OF PHENOL WITH NITRITE, FOOD CHEM. TOXICOL. 26(3):209-214,1988
+
+> <MC_Example>
+0
+
+> <MC_Pred>
+0
+
+> <DEREK_Example>
+0
+
+> <DEREK_Pred>
+0
+
+> <Molecular_Weight>
+120.10875
+
+> <Set>
+CV3 __  __ 
+
+$$$$

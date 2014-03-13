@@ -1,0 +1,67 @@
+29927-08-0
+ChemmineR-0127140935XD
+
+ 12 13  0  0  0  0            999 V2000
+   -3.3560    1.3452    0.0000 C   0  0
+   -2.3155    0.7475    0.0000 C   0  0
+   -1.0028    1.5132    0.0000 C   0  0
+    0.2917    0.7475    0.0000 C   0  0
+    1.7138    1.2033    0.0000 N   0  0
+    2.5889    0.0182    0.0000 C   0  0
+    3.7889    0.0269    0.0000 N   0  0
+    1.7138   -1.2033    0.0000 S   0  0
+    0.2917   -0.7475    0.0000 C   0  0
+   -1.0028   -1.5132    0.0000 C   0  0
+   -2.3155   -0.7475    0.0000 C   0  0
+   -3.3560   -1.3452    0.0000 C   0  0
+  1  2  1  0
+  2  3  2  0
+  3  4  1  0
+  4  5  1  0
+  5  6  2  0
+  6  7  1  0
+  6  8  1  0
+  8  9  1  0
+  9  4  2  0
+  9 10  1  0
+ 10 11  2  0
+ 11  2  1  0
+ 11 12  1  0
+M  END
+> <canonical_smiles>
+Cc1cc2nc(N)sc2cc1C
+
+> <CAS_NO>
+29927-08-0
+
+> <Source>
+VITIC
+
+> <Activity>
+1
+
+> <WDI_Name>
+.
+
+> <REFERENCE>
+JUDSON, PN, COOKE, PA, DOERRER, NG, GREENE, N, HANZLIK, RP, HARDY, C, HARTMANN, A, HINCHLIFFE, D, HOLDER, J, MUELLER, L, STEGER-HARTMANN, T, ROTHFUSS, A, SMITH, M, THOMAS, K, VESSEY, JD AND ZEIGER E.  __ TOWARDS THE CREATION OF AN INTERNATIONAL TOXICOLOGY INFORMATION CENTRE. TOXICOLOGY 213(1-2):117-28, 2005
+
+> <MC_Example>
+1
+
+> <MC_Pred>
+1
+
+> <DEREK_Example>
+0
+
+> <DEREK_Pred>
+1
+
+> <Set>
+TRAIN
+
+> <Molecular_Weight>
+178.2541 __  __ 
+
+$$$$

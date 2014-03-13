@@ -1,0 +1,49 @@
+50-01-1
+ChemmineR-0127140935XD
+
+  4  3  0  0  0  0            999 V2000
+    0.2606    0.1503    0.0000 N   0  0
+    1.3000    0.7500    0.0000 C   0  0
+    2.3394    0.1503    0.0000 N   0  0
+    1.3000    1.9500    0.0000 N   0  0
+  1  2  1  0
+  2  3  2  0
+  2  4  1  0
+M  END
+> <canonical_smiles>
+NC(=N)N
+
+> <CAS_NO>
+50-01-1
+
+> <Source>
+CCRIS
+
+> <Activity>
+0
+
+> <WDI_Name>
+GUANIDINE;GUANIDHCL
+
+> <REFERENCE>
+JAPAN CHEMICAL INDUSTRY ECOLOGY- TOXICOLOGY AND INFORMATION    CENTER,JAPAN, MUTAGENICITY TEST DATA OF EXISTING    CHEMICAL SUBSTANCES BASED ON THETOXICITY INVESTIGATION OF    THE INDUSTRIAL SAFETY AN __ D HEALTH LAW,1996
+
+> <MC_Example>
+0
+
+> <MC_Pred>
+0
+
+> <DEREK_Example>
+0
+
+> <DEREK_Pred>
+0
+
+> <Molecular_Weight>
+59.0705
+
+> <Set>
+CV5 __  __ 
+
+$$$$

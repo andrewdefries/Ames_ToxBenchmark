@@ -1,0 +1,66 @@
+6931-54-0
+ChemmineR-0127140935XD
+
+ 11 13  0  0  0  0            999 V2000
+   -1.7327    2.1462    0.0000 C   0  0
+   -0.6000    1.7500    0.0000 C   0  0
+    0.2169    2.6290    0.0000 C   0  0
+    0.0000    0.5900    0.0000 C   0  0
+    1.2100    0.2100    0.0000 C   0  0
+    1.7500   -0.8100    0.0000 C   0  0
+    0.6500   -1.2100    0.0000 C   0  0
+   -0.1100   -2.5400    0.0000 C   0  0
+    1.4200   -2.5400    0.0000 O   0  0
+   -0.5500   -0.7700    0.0000 C   0  0
+   -1.8500   -0.7400    0.0000 C   0  0
+  1  2  1  0
+  2  3  1  0
+  2  4  1  0
+  4  5  1  0
+  5  6  1  0
+  6  7  1  0
+  7  8  1  0
+  8  9  1  0
+  9  7  1  0
+  7 10  1  0
+ 10  2  1  0
+ 10 11  1  0
+ 11  4  1  0
+M  END
+> <canonical_smiles>
+CC1(C)C2CCC3(CO3)C1C2
+
+> <CAS_NO>
+6931-54-0
+
+> <Source>
+CCRIS
+
+> <Activity>
+0
+
+> <WDI_Name>
+.
+
+> <REFERENCE>
+VON DER HUDE,W, SEELBACH,A, BASLER,A, EPOXIDES: COMPARISON OF THEINDUCTION OF SOS REPAIR IN ESCHERICHIA COLI PQ37 AND THE BACTERIAL MUTAGENICITYIN THE AMES TEST, MUTAT. RES. 231(2):205-18, 1990
+
+> <MC_Example>
+0
+
+> <MC_Pred>
+1
+
+> <DEREK_Example>
+0
+
+> <DEREK_Pred>
+0
+
+> <Molecular_Weight>
+152.23344
+
+> <Set>
+CV5 __  __ 
+
+$$$$

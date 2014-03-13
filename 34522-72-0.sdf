@@ -1,0 +1,67 @@
+34522-72-0
+ChemmineR-0127140935XD
+
+ 12 13  0  0  0  0            999 V2000
+   -3.6486    1.3517    0.0000 F   0  0
+   -2.6111    0.7486    0.0000 C   0  0
+   -2.6111   -0.7486    0.0000 C   0  0
+   -1.2964   -1.4973    0.0000 C   0  0
+   -1.2928   -2.6973    0.0000 F   0  0
+    0.0000   -0.7486    0.0000 C   0  0
+    1.2964   -1.4973    0.0000 C   0  0
+    2.5929   -0.7486    0.0000 C   0  0
+    2.5929    0.7486    0.0000 C   0  0
+    1.2964    1.4973    0.0000 N   0  0
+    0.0000    0.7486    0.0000 C   0  0
+   -1.2964    1.4973    0.0000 C   0  0
+  1  2  1  0
+  2  3  2  0
+  3  4  1  0
+  4  5  1  0
+  4  6  2  0
+  6  7  1  0
+  7  8  2  0
+  8  9  1  0
+  9 10  2  0
+ 10 11  1  0
+ 11  6  1  0
+ 11 12  2  0
+ 12  2  1  0
+M  END
+> <canonical_smiles>
+Fc1cc(F)c2cccnc2c1
+
+> <CAS_NO>
+34522-72-0
+
+> <Source>
+CCRIS
+
+> <Activity>
+1
+
+> <WDI_Name>
+.
+
+> <REFERENCE>
+KATO,T, SAEKI,K, KAWAZOE,Y AND HAKURA,A, EFFECTS OF OLIGOFLUORINESUBSTITUTION ON THE MUTAGENICITY OF QUINOLINE: A STUDY WITH TWELVEFLUOROQUINOLINE DERIVATIVES, MUTAT. RES. 439(2):149-157, 1999
+
+> <MC_Example>
+1
+
+> <MC_Pred>
+1
+
+> <DEREK_Example>
+0
+
+> <DEREK_Pred>
+1
+
+> <Set>
+TRAIN
+
+> <Molecular_Weight>
+165.1395 __  __ 
+
+$$$$

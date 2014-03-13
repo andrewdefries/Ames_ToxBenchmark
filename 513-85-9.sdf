@@ -1,0 +1,53 @@
+513-85-9
+ChemmineR-0127140935XD
+
+  6  5  0  0  0  0            999 V2000
+    1.3000    1.9500    0.0000 C   0  0
+    1.3000    0.7500    0.0000 C   0  0
+    0.2606    0.1503    0.0000 O   0  0
+    2.6000    0.0000    0.0000 C   0  0
+    2.6000   -1.2000    0.0000 C   0  0
+    3.6394    0.5997    0.0000 O   0  0
+  1  2  1  0
+  2  3  1  0
+  2  4  1  0
+  4  5  1  0
+  4  6  1  0
+M  END
+> <canonical_smiles>
+CC(O)C(C)O
+
+> <CAS_NO>
+513-85-9
+
+> <Source>
+CCRIS
+
+> <Activity>
+0
+
+> <WDI_Name>
+.
+
+> <REFERENCE>
+IWATA,T, KOKUBA,S, ARIGA,F, HIRAMATSU,Y, NOSE,T AND AOYAMA,T,MUTAGENICITY OF LENAMPICILLIN HYDROCHLORIDE (KBT-1585)B AND ITS METABOLITES,CHEMOTHERAPY 32(SUPPL. 8):153-160, 1984
+
+> <MC_Example>
+0
+
+> <MC_Pred>
+0
+
+> <DEREK_Example>
+0
+
+> <DEREK_Pred>
+0
+
+> <Molecular_Weight>
+90.121
+
+> <Set>
+CV4 __  __ 
+
+$$$$

@@ -1,0 +1,51 @@
+3252-43-5
+ChemmineR-0127140935XD
+
+  5  4  0  0  0  0            999 V2000
+    0.2606    0.1503    0.0000 Br   0  0
+    1.3000    0.7500    0.0000 C    0  0
+    1.3000    1.9500    0.0000 Br   0  0
+    2.6000    0.0000    0.0000 C    0  0
+    3.6394   -0.5997    0.0000 N    0  0
+  1  2  1  0
+  2  3  1  0
+  2  4  1  0
+  4  5  3  0
+M  END
+> <canonical_smiles>
+BrC(Br)C#N
+
+> <CAS_NO>
+3252-43-5
+
+> <Source>
+EPA3
+
+> <Activity>
+1
+
+> <WDI_Name>
+.
+
+> <REFERENCE>
+FENG, J, LURATI, L, OUYANG, H, ROBINSON, T, WANG, Y, YUAN, S AND YOUNG, S. PREDICTIVE TOXICOLOGY: BENCHMARKING MOLECULAR DESCRIPTORS AND STATISTICAL METHODS. J. CHEM. INF. COMPUT. SCI. 43: 1463-1470,  __ 2003
+
+> <MC_Example>
+0
+
+> <MC_Pred>
+0
+
+> <DEREK_Example>
+0
+
+> <DEREK_Pred>
+1
+
+> <Molecular_Weight>
+198.84403
+
+> <Set>
+CV1 __  __ 
+
+$$$$

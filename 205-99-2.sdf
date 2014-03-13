@@ -1,0 +1,86 @@
+205-99-2
+ChemmineR-0127140935XD
+
+ 20 24  0  0  0  0            999 V2000
+     -5.35     -0.45      0.00 C   0  0
+     -4.76     -2.02      0.00 C   0  0
+     -3.11     -2.31      0.00 C   0  0
+     -2.02     -1.02      0.00 C   0  0
+     -2.61      0.55      0.00 C   0  0
+     -4.28      0.81      0.00 C   0  0
+     -1.24      1.48      0.00 C   0  0
+     -0.99      2.94      0.00 C   0  0
+      0.36      3.45      0.00 C   0  0
+      1.49      2.50      0.00 C   0  0
+      1.25      1.05      0.00 C   0  0
+      2.37      0.13      0.00 C   0  0
+      3.76      0.62      0.00 C   0  0
+      4.88     -0.28      0.00 C   0  0
+      4.63     -1.74      0.00 C   0  0
+      3.25     -2.25      0.00 C   0  0
+      2.12     -1.30      0.00 C   0  0
+      0.74     -1.81      0.00 C   0  0
+     -0.36     -0.87      0.00 C   0  0
+     -0.13      0.56      0.00 C   0  0
+  1  2  2  0
+  2  3  1  0
+  3  4  2  0
+  4  5  1  0
+  5  6  2  0
+  6  1  1  0
+  5  7  1  0
+  7  8  2  0
+  8  9  1  0
+  9 10  2  0
+ 10 11  1  0
+ 11 12  2  0
+ 12 13  1  0
+ 13 14  2  0
+ 14 15  1  0
+ 15 16  2  0
+ 16 17  1  0
+ 17 12  1  0
+ 17 18  2  0
+ 18 19  1  0
+ 19  4  1  0
+ 19 20  2  0
+ 20  7  1  0
+ 20 11  1  0
+M  END
+> <canonical_smiles>
+c1ccc2c(c1)c3cccc4c5ccccc5cc2c34
+
+> <CAS_NO>
+205-99-2
+
+> <Source>
+VITIC
+
+> <Activity>
+1
+
+> <WDI_Name>
+.
+
+> <REFERENCE>
+JUDSON, PN, COOKE, PA, DOERRER, NG, GREENE, N, HANZLIK, RP, HARDY, C, HARTMANN, A, HINCHLIFFE, D, HOLDER, J, MUELLER, L, STEGER-HARTMANN, T, ROTHFUSS, A, SMITH, M, THOMAS, K, VESSEY, JD AND ZEIGER E.  __ TOWARDS THE CREATION OF AN INTERNATIONAL TOXICOLOGY INFORMATION CENTRE. TOXICOLOGY 213(1-2):117-28, 2005
+
+> <MC_Example>
+0
+
+> <MC_Pred>
+1
+
+> <DEREK_Example>
+0
+
+> <DEREK_Pred>
+1
+
+> <Molecular_Weight>
+252.30928
+
+> <Set>
+CV4 __  __ 
+
+$$$$

@@ -1,0 +1,62 @@
+98499-59-3
+ChemmineR-0127140935XD
+
+ 10 10  0  0  0  0            999 V2000
+    3.8916   -4.9570    0.0000 C   0  0
+    3.8933   -3.7570    0.0000 S   0  0
+    2.5951   -3.0039    0.0000 C   0  0
+    2.5973   -1.5031    0.0000 N   0  0
+    1.2990   -0.7500    0.0000 C   0  0
+    1.2990    0.7500    0.0000 C   0  0
+    0.0000    1.5000    0.0000 C   0  0
+   -1.2990    0.7500    0.0000 C   0  0
+   -1.2990   -0.7500    0.0000 C   0  0
+    0.0000   -1.5000    0.0000 C   0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+  4  5  1  0
+  5  6  2  0
+  6  7  1  0
+  7  8  2  0
+  8  9  1  0
+  9 10  2  0
+ 10  5  1  0
+M  END
+> <canonical_smiles>
+CSCNc1ccccc1
+
+> <CAS_NO>
+98499-59-3
+
+> <Source>
+CCRIS
+
+> <Activity>
+1
+
+> <WDI_Name>
+.
+
+> <REFERENCE>
+VITO,M, ESPOSITO,G, VICARI,L, LEMBO,S, IMPERATRICE,ML AND DEMARINIS,E,MUTAGENIC ACTIVITY OF CHLORODIMETHYL SULFIDE AND SOME OF ITS ANILINEDERIVATIVES, BOLL.- SOC. ITAL. BIOL. SPER. 61(6):917-923, 1985
+
+> <MC_Example>
+0
+
+> <MC_Pred>
+0
+
+> <DEREK_Example>
+0
+
+> <DEREK_Pred>
+0
+
+> <Molecular_Weight>
+153.24464
+
+> <Set>
+CV4 __  __ 
+
+$$$$

@@ -1,0 +1,71 @@
+83407-42-5
+ChemmineR-0127140935XD
+
+ 14 15  0  0  0  0            999 V2000
+   -3.9072    2.7019    0.0000 C   0  0
+   -3.9091    1.5019    0.0000 N   0  0
+   -2.6111    0.7486    0.0000 C   0  0
+   -2.6111   -0.7486    0.0000 C   0  0
+   -3.6486   -1.3517    0.0000 C   0  0
+   -1.2964   -1.4973    0.0000 C   0  0
+    0.0000   -0.7486    0.0000 C   0  0
+    1.2964   -1.4973    0.0000 N   0  0
+    2.5929   -0.7486    0.0000 C   0  0
+    2.5929    0.7486    0.0000 C   0  0
+    1.2964    1.4973    0.0000 C   0  0
+    0.0000    0.7486    0.0000 C   0  0
+   -1.2964    1.4973    0.0000 C   0  0
+   -1.2928    2.6973    0.0000 N   0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  2  0
+  4  5  1  0
+  4  6  1  0
+  6  7  2  0
+  7  8  1  0
+  8  9  2  0
+  9 10  1  0
+ 10 11  2  0
+ 11 12  1  0
+ 12  7  1  0
+ 12 13  2  0
+ 13  3  1  0
+ 13 14  1  0
+M  END
+> <canonical_smiles>
+CNc1c(C)cc2ncccc2c1N
+
+> <CAS_NO>
+83407-42-5
+
+> <Source>
+CCRIS
+
+> <Activity>
+0
+
+> <WDI_Name>
+.
+
+> <REFERENCE>
+GRIVAS,S AND JAEGERSTAD,M, MUTAGENICITY OF SOME SYNTHETIC QUINOLINESAND QUINOXALINES RELATED TO IQ, MEIQ OR MEIQX IN AMES TEST, MUTAT. RES. 137(1):29-32, 1984
+
+> <MC_Example>
+0
+
+> <MC_Pred>
+0
+
+> <DEREK_Example>
+0
+
+> <DEREK_Pred>
+1
+
+> <Molecular_Weight>
+187.24102
+
+> <Set>
+CV1 __  __ 
+
+$$$$

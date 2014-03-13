@@ -1,0 +1,63 @@
+583-39-1
+ChemmineR-0127140935XD
+
+ 10 11  0  0  0  0            999 V2000
+    3.7889    0.0269    0.0000 S   0  0
+    2.5889    0.0182    0.0000 C   0  0
+    1.7138    1.2033    0.0000 N   0  0
+    0.2917    0.7475    0.0000 C   0  0
+   -1.0028    1.5132    0.0000 C   0  0
+   -2.3155    0.7475    0.0000 C   0  0
+   -2.3155   -0.7475    0.0000 C   0  0
+   -1.0028   -1.5132    0.0000 C   0  0
+    0.2917   -0.7475    0.0000 C   0  0
+    1.7138   -1.2033    0.0000 N   0  0
+  1  2  1  0
+  2  3  2  0
+  3  4  1  0
+  4  5  2  0
+  5  6  1  0
+  6  7  2  0
+  7  8  1  0
+  8  9  2  0
+  9  4  1  0
+  9 10  1  0
+ 10  2  1  0
+M  END
+> <canonical_smiles>
+Sc1nc2ccccc2[nH]1
+
+> <CAS_NO>
+583-39-1
+
+> <Source>
+EPA3
+
+> <Activity>
+0
+
+> <WDI_Name>
+MERBENZIM
+
+> <REFERENCE>
+FENG, J, LURATI, L, OUYANG, H, ROBINSON, T, WANG, Y, YUAN, S AND YOUNG, S. PREDICTIVE TOXICOLOGY: BENCHMARKING MOLECULAR DESCRIPTORS AND STATISTICAL METHODS. J. CHEM. INF. COMPUT. SCI. 43: 1463-1470,  __ 2003
+
+> <MC_Example>
+0
+
+> <MC_Pred>
+0
+
+> <DEREK_Example>
+0
+
+> <DEREK_Pred>
+0
+
+> <Molecular_Weight>
+150.20094
+
+> <Set>
+CV1 __  __ 
+
+$$$$

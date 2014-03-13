@@ -1,0 +1,74 @@
+13132-28-0
+ChemmineR-0127140935XD
+
+ 15 17  0  0  0  0            999 V2000
+    3.0386    3.3593    0.0000 O   0  0
+    1.8575    3.5715    0.0000 N   0  0
+    1.4511    4.7006    0.0000 O   0  0
+    0.8944    2.4276    0.0000 C   0  0
+   -0.9674    2.4458    0.0000 C   0  0
+   -1.2594    0.9674    0.0000 C   0  0
+   -2.5371    0.2373    0.0000 C   0  0
+   -2.5371   -1.2229    0.0000 C   0  0
+   -1.2594   -1.9530    0.0000 C   0  0
+    0.0000   -1.2229    0.0000 C   0  0
+    1.2777   -1.9530    0.0000 C   0  0
+    2.5553   -1.2229    0.0000 C   0  0
+    2.5553    0.2373    0.0000 C   0  0
+    1.2777    0.9674    0.0000 C   0  0
+    0.0000    0.2373    0.0000 C   0  0
+  1  2  1  0
+  2  3  2  0
+  2  4  1  0
+  4  5  2  3
+  5  6  1  0
+  6  7  2  0
+  7  8  1  0
+  8  9  2  0
+  9 10  1  0
+ 10 11  2  0
+ 11 12  1  0
+ 12 13  2  0
+ 13 14  1  0
+ 14  4  1  0
+ 14 15  2  0
+ 15  6  1  0
+ 15 10  1  0
+M  END
+> <canonical_smiles>
+ON(=O)C1=Cc2cccc3cccc1c23
+
+> <CAS_NO>
+13132-28-0
+
+> <Source>
+CCRIS
+
+> <Activity>
+1
+
+> <WDI_Name>
+.
+
+> <REFERENCE>
+VANCE,WA AND LEVIN,DE, STRUCTURAL FEATURES OF NITROAROMATICS THATDETERMINE MUTAGENIC ACTIVITY IN SALMONELLA TYPHIMURIUM, ENVIRON. MUTAGEN.6(6):797-811, 1984
+
+> <MC_Example>
+0
+
+> <MC_Pred>
+0
+
+> <DEREK_Example>
+0
+
+> <DEREK_Pred>
+0
+
+> <Molecular_Weight>
+199.20536
+
+> <Set>
+CV1 __  __ 
+
+$$$$

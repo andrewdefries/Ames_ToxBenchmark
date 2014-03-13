@@ -1,0 +1,57 @@
+406-90-6
+ChemmineR-0127140935XD
+
+  8  7  0  0  0  0            999 V2000
+    0.2606    0.1503    0.0000 F   0  0
+    1.3000    0.7500    0.0000 C   0  0
+    1.3000    1.9500    0.0000 F   0  0
+    0.2609    1.3502    0.0000 F   0  0
+    2.6000    0.0000    0.0000 C   0  0
+    3.9000    0.7500    0.0000 O   0  0
+    5.2000    0.0000    0.0000 C   0  0
+    6.2394    0.5997    0.0000 C   0  0
+  1  2  1  0
+  2  3  1  0
+  2  4  1  0
+  2  5  1  0
+  5  6  1  0
+  6  7  1  0
+  7  8  2  0
+M  END
+> <canonical_smiles>
+FC(F)(F)COC=C
+
+> <CAS_NO>
+406-90-6
+
+> <Source>
+EPA3
+
+> <Activity>
+1
+
+> <WDI_Name>
+FLUROXENE
+
+> <REFERENCE>
+FENG, J, LURATI, L, OUYANG, H, ROBINSON, T, WANG, Y, YUAN, S AND YOUNG, S. PREDICTIVE TOXICOLOGY: BENCHMARKING MOLECULAR DESCRIPTORS AND STATISTICAL METHODS. J. CHEM. INF. COMPUT. SCI. 43: 1463-1470,  __ 2003
+
+> <MC_Example>
+0
+
+> <MC_Pred>
+0
+
+> <DEREK_Example>
+0
+
+> <DEREK_Pred>
+0
+
+> <Molecular_Weight>
+126.0771
+
+> <Set>
+CV3 __  __ 
+
+$$$$

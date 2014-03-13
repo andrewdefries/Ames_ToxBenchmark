@@ -1,0 +1,82 @@
+64356-85-0
+ChemmineR-0127140935XD
+
+ 19 21  0  0  0  0            999 V2000
+    5.3295   -0.7115    0.0000 C    0  0
+    4.2904   -0.1114    0.0000 C    0  0
+    2.9901   -0.8608    0.0000 C    0  0
+    2.9896   -2.0608    0.0000 Cl   0  0
+    1.6900   -0.1100    0.0000 C    0  0
+    1.6900    1.3200    0.0000 C    0  0
+    0.4300    2.0400    0.0000 C    0  0
+    0.4279    3.2400    0.0000 O    0  0
+   -0.8200    1.3200    0.0000 C    0  0
+   -2.0900    2.0400    0.0000 C    0  0
+   -3.3400    1.3200    0.0000 C    0  0
+   -3.3400   -0.1100    0.0000 C    0  0
+   -4.3672    0.5104    0.0000 C    0  0
+   -3.3080   -1.3096    0.0000 C    0  0
+   -2.0900   -0.8200    0.0000 O    0  0
+   -0.8200   -0.1100    0.0000 C    0  0
+   -0.8241   -1.3100    0.0000 O    0  0
+    0.4300   -0.8200    0.0000 C    0  0
+    0.4280   -2.0200    0.0000 O    0  0
+  1  2  1  0
+  2  3  2  3
+  3  4  1  0
+  3  5  1  0
+  5  6  2  3
+  6  7  1  0
+  7  8  2  0
+  7  9  1  0
+  9 10  1  0
+ 10 11  1  0
+ 11  9  1  0
+ 11 12  1  0
+ 12 13  1  0
+ 12 14  1  0
+ 12 15  1  0
+ 15 16  1  0
+ 16  9  1  0
+ 16 17  1  0
+ 16 18  1  0
+ 18  5  1  0
+ 18 19  2  0
+M  END
+> <canonical_smiles>
+CC=C(Cl)C1=CC(=O)C23CC2C(C)(C)OC3(O)C1=O
+
+> <CAS_NO>
+64356-85-0
+
+> <Source>
+CCRIS
+
+> <Activity>
+1
+
+> <WDI_Name>
+.
+
+> <REFERENCE>
+STADLER,M, ANKE,H AND STERNER,O, METABOLITES WITH NEMATICIDAL ANDANTIMICROBIAL ACTIVITIES FROM THE ASCOMYCETE LACHNUM PAPYRACEUM (KARST.) KARST.V. PRODUCTION, ISOLATION AND BIOLOGICAL ACTIVITIES OF BR __ OMINE-CONTAININGMYCORRHIZIN AND LACHNUMON DERIVATIVES AND FOUR ADDITIONAL NEW BIOACTIVEMETABOLITES, J. ANTIBIOT. 48(2):149-153, 1995
+
+> <MC_Example>
+0
+
+> <MC_Pred>
+0
+
+> <DEREK_Example>
+0
+
+> <DEREK_Pred>
+0
+
+> <Molecular_Weight>
+282.7195
+
+> <Set>
+CV2 __  __ 
+
+$$$$

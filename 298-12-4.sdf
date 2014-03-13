@@ -1,0 +1,51 @@
+298-12-4
+ChemmineR-0127140935XD
+
+  5  4  0  0  0  0            999 V2000
+    1.3000    1.9500    0.0000 O   0  0
+    1.3000    0.7500    0.0000 C   0  0
+    0.2606    0.1503    0.0000 O   0  0
+    2.6000    0.0000    0.0000 C   0  0
+    3.6394    0.5997    0.0000 O   0  0
+  1  2  1  0
+  2  3  2  0
+  2  4  1  0
+  4  5  2  0
+M  END
+> <canonical_smiles>
+OC(=O)C=O
+
+> <CAS_NO>
+298-12-4
+
+> <Source>
+CCRIS
+
+> <Activity>
+1
+
+> <WDI_Name>
+GLYOXYLAT
+
+> <REFERENCE>
+SAYATO,Y, NAKAMURO,K AND UENO,H, MUTAGENICITY OF PRODUCTS FORMED BYOZONATION OF NAPHTHORESORCINOL IN AQUEOUS SOLUTIONS, MUTAT. RES. 189(3):217-222,1987
+
+> <MC_Example>
+0
+
+> <MC_Pred>
+0
+
+> <DEREK_Example>
+0
+
+> <DEREK_Pred>
+0
+
+> <Molecular_Weight>
+74.03547
+
+> <Set>
+CV4 __  __ 
+
+$$$$

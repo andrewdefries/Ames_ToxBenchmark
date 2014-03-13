@@ -1,0 +1,83 @@
+148174-23-6
+ChemmineR-0127140935XD
+
+ 20 21  0  0  0  0            999 V2000
+    5.9752   -5.7969    0.0000 Cl   0  0
+    5.5974   -4.6579    0.0000 C    0  0
+    4.1277   -4.3539    0.0000 C    0  0
+    3.6552   -2.9294    0.0000 C    0  0
+    4.4530   -2.0330    0.0000 O    0  0
+    2.1855   -2.6254    0.0000 N    0  0
+    1.7138   -1.2033    0.0000 C    0  0
+    2.5889    0.0182    0.0000 S    0  0
+    1.7138    1.2033    0.0000 N    0  0
+    2.1812    2.6271    0.0000 C    0  0
+    1.3808    3.5211    0.0000 O    0  0
+    3.6500    2.9355    0.0000 C    0  0
+    4.1182    4.3614    0.0000 C    0  0
+    5.2926    4.6080    0.0000 Cl   0  0
+    0.2917    0.7475    0.0000 C    0  0
+   -1.0028    1.5132    0.0000 C    0  0
+   -2.3155    0.7475    0.0000 C    0  0
+   -2.3155   -0.7475    0.0000 C    0  0
+   -1.0028   -1.5132    0.0000 C    0  0
+    0.2917   -0.7475    0.0000 C    0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+  4  5  2  0
+  4  6  1  0
+  6  7  2  3
+  7  8  1  0
+  8  9  1  0
+  9 10  1  0
+ 10 11  2  0
+ 10 12  1  0
+ 12 13  1  0
+ 13 14  1  0
+  9 15  1  0
+ 15 16  2  0
+ 16 17  1  0
+ 17 18  2  0
+ 18 19  1  0
+ 19 20  2  0
+ 20  7  1  0
+ 20 15  1  0
+M  END
+> <canonical_smiles>
+ClCCC(=O)N=C1SN(C(=O)CCCl)c2ccccc12
+
+> <CAS_NO>
+148174-23-6
+
+> <Source>
+CCRIS
+
+> <Activity>
+0
+
+> <WDI_Name>
+.
+
+> <REFERENCE>
+ZANI,F, MASSIMO,G, COGHI,E, BELLOTTI,A AND MAZZA,P, BIOLOGICAL STUDIESON 2,1-BENZISOTHIAZOLE DERIVATIVES. I. EVALUATION OF ANTIBACTERIAL, ANTIFUNGALAND GENOTOXIC ACTIVITIES OF 1-ACYL-3-ACYLIMINO-2,1-B __ ENZISOTHIAZOLINES, FARMACO45(11):1219-1228, 1990
+
+> <MC_Example>
+0
+
+> <MC_Pred>
+0
+
+> <DEREK_Example>
+0
+
+> <DEREK_Pred>
+1
+
+> <Molecular_Weight>
+331.21758
+
+> <Set>
+CV4 __  __ 
+
+$$$$

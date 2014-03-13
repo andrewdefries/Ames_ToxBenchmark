@@ -1,0 +1,79 @@
+93943-58-9
+ChemmineR-0127140935XD
+
+ 18 19  0  0  0  0            999 V2000
+   -0.1779   -3.7398    0.0000 C   0  0
+    1.0157   -3.6164    0.0000 C   0  0
+    1.6281   -2.2462    0.0000 C   0  0
+    0.7500   -1.0323    0.0000 C   0  0
+    1.2135    0.3943    0.0000 C   0  0
+    0.0000    1.2760    0.0000 C   0  0
+   -1.2135    0.3943    0.0000 O   0  0
+   -0.7500   -1.0323    0.0000 C   0  0
+   -1.4553   -2.0031    0.0000 O   0  0
+    2.6375    0.8603    0.0000 C   0  0
+    2.8853    2.0344    0.0000 O   0  0
+    1.8954   -4.8324    0.0000 C   0  0
+    1.4190   -6.2413    0.0000 C   0  0
+    2.6325   -7.1230    0.0000 C   0  0
+    3.8460   -6.2414    0.0000 C   0  0
+    4.0779   -7.4188    0.0000 C   0  0
+    4.7258   -5.4253    0.0000 C   0  0
+    3.3825   -4.8148    0.0000 C   0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+  4  5  2  3
+  5  6  1  0
+  6  7  1  0
+  7  8  1  0
+  8  4  1  0
+  8  9  1  0
+  5 10  1  0
+ 10 11  2  0
+  2 12  1  0
+ 12 13  2  3
+ 13 14  1  0
+ 14 15  1  0
+ 15 16  1  0
+ 15 17  1  0
+ 15 18  1  0
+ 18 12  1  0
+M  END
+> <canonical_smiles>
+CC(CC1=C(COC1O)C=O)C2=CCC(C)(C)C2
+
+> <CAS_NO>
+93943-58-9
+
+> <Source>
+CCRIS
+
+> <Activity>
+0
+
+> <WDI_Name>
+.
+
+> <REFERENCE>
+STERNER,O, CARTER,RE AND NILSSON,LM, STRUCTURE-ACTIVITY RELATIONSHIPSFOR UNSATURATED DIALDEHYDES 1. THE MUTAGENIC ACTIVITY OF 18 COMPOUNDS IN THESALMONELLA/MICROSOME ASSAY, MUTAT. RES. 188(3):169-174, __  1987
+
+> <MC_Example>
+0
+
+> <MC_Pred>
+1
+
+> <DEREK_Example>
+0
+
+> <DEREK_Pred>
+1
+
+> <Molecular_Weight>
+250.33338
+
+> <Set>
+CV1 __  __ 
+
+$$$$

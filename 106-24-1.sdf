@@ -1,0 +1,63 @@
+106-24-1
+ChemmineR-0127140935XD
+
+ 11 10  0  0  0  0            999 V2000
+    0.2606    0.1503    0.0000 C   0  0
+    1.3000    0.7500    0.0000 C   0  0
+    2.6000    0.0000    0.0000 C   0  0
+    3.9000    0.7500    0.0000 C   0  0
+    5.2000    0.0000    0.0000 C   0  0
+    6.5000    0.7500    0.0000 C   0  0
+    7.7999    0.0000    0.0000 C   0  0
+    9.0999    0.7500    0.0000 C   0  0
+   10.1394    0.1503    0.0000 O   0  0
+    6.5000    1.9500    0.0000 C   0  0
+    1.3000    1.9500    0.0000 C   0  0
+  1  2  1  0
+  2  3  2  3
+  3  4  1  0
+  4  5  1  0
+  5  6  1  0
+  6  7  2  3
+  7  8  1  0
+  8  9  1  0
+  6 10  1  0
+  2 11  1  0
+M  END
+> <canonical_smiles>
+CC(=CCCC(=CCO)C)C
+
+> <CAS_NO>
+106-24-1
+
+> <Source>
+CCRIS
+
+> <Activity>
+0
+
+> <WDI_Name>
+GERANIOL
+
+> <REFERENCE>
+KONO,M, YOSHIDA,Y, ITAYA,Y, SHIMOBO,K, YOSHIKAWA,K, TERASHITA,T ANDSHISHIYAMA,J, ANTIMICROBIAL ACTIVITY AND MUTAGENICITY OF ALLYL ISOTHIOCYANATESAND SEVERAL ESSENTIAL OILS FROM SPICES, KINKI DAIGAKU N __ OGAKUBU KIYO 28:11-19,1995
+
+> <MC_Example>
+0
+
+> <MC_Pred>
+0
+
+> <DEREK_Example>
+0
+
+> <DEREK_Pred>
+0
+
+> <Molecular_Weight>
+154.24932
+
+> <Set>
+CV3 __  __ 
+
+$$$$

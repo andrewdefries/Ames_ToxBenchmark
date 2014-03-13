@@ -1,0 +1,70 @@
+142078-76-0
+ChemmineR-0127140935XD
+
+ 13 15  0  0  0  0            999 V2000
+    2.4887   -1.4009    0.0000 O   0  0
+    1.4500   -0.8000    0.0000 C   0  0
+    0.2500   -1.4900    0.0000 C   0  0
+    0.2434   -2.6900    0.0000 O   0  0
+   -0.9200   -0.8000    0.0000 C   0  0
+   -2.1100   -1.4900    0.0000 C   0  0
+   -3.3000   -0.8000    0.0000 C   0  0
+   -3.3000    0.5600    0.0000 C   0  0
+   -2.1100    1.2400    0.0000 N   0  0
+   -0.9200    0.5600    0.0000 C   0  0
+    0.2500    1.2400    0.0000 C   0  0
+    1.4400    1.9200    0.0000 O   0  0
+    1.4500    0.5600    0.0000 C   0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+  3  5  1  0
+  5  6  2  0
+  6  7  1  0
+  7  8  2  0
+  8  9  1  0
+  9 10  2  0
+ 10  5  1  0
+ 10 11  1  0
+ 11 12  1  0
+ 12 13  1  0
+ 13  2  1  0
+ 13 11  1  0
+M  END
+> <canonical_smiles>
+OC1C(O)c2cccnc2C3OC13
+
+> <CAS_NO>
+142078-76-0
+
+> <Source>
+CCRIS
+
+> <Activity>
+0
+
+> <WDI_Name>
+.
+
+> <REFERENCE>
+WILLEMS,MI, DUBOIS,G, BOYD,DR, DAVIES,RJH, HAMILTON,L, MCCULLOUGH,JJAND VAN BLADEREN,PJ, COMPARISON OF THE MUTAGENICITY OF QUINOLINE AND ALLMONOHYDROXYQUINOLINES WITH A SERIES OF ARENE OXIDE, TRANS-DI __ HYDRODIOL, DIOLEPOXIDE, N-OXIDE AND ARENE HYDRATE DERIVATIVES OF QUINOLINE IN THE AMES/SALMONELLA MICROSOME TEST, MUTAT. RES. 278(4):227-236, 1992
+
+> <MC_Example>
+0
+
+> <MC_Pred>
+0
+
+> <DEREK_Example>
+0
+
+> <DEREK_Pred>
+1
+
+> <Molecular_Weight>
+179.17265
+
+> <Set>
+CV1 __  __ 
+
+$$$$

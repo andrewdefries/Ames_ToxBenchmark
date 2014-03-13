@@ -1,0 +1,72 @@
+131524-41-9
+ChemmineR-0127140935XD
+
+ 15 15  0  0  0  0            999 V2000
+    4.9395   -1.3433    0.0000 O   0  0
+    3.8990   -0.7455    0.0000 N   0  0
+    2.6003   -1.4977    0.0000 C   0  0
+    1.2990   -0.7500    0.0000 C   0  0
+    1.2990    0.7500    0.0000 C   0  0
+    0.0000    1.5000    0.0000 C   0  0
+   -1.2990    0.7500    0.0000 C   0  0
+   -1.2990   -0.7500    0.0000 C   0  0
+    0.0000   -1.5000    0.0000 N   0  0
+   -0.0031   -3.0008    0.0000 C   0  0
+   -1.3039   -3.7494    0.0000 C   0  0
+   -1.3070   -5.2502    0.0000 O   0  0
+   -2.6078   -5.9988    0.0000 C   0  0
+   -2.6109   -7.4996    0.0000 C   0  0
+   -2.6134   -8.6996    0.0000 C   0  0
+  1  2  1  0
+  2  3  2  3
+  3  4  1  0
+  4  5  2  3
+  5  6  1  0
+  6  7  2  3
+  7  8  1  0
+  8  9  2  3
+  9  4  1  0
+  9 10  1  0
+ 10 11  1  0
+ 11 12  1  0
+ 12 13  1  0
+ 13 14  1  0
+ 14 15  3  0
+M  END
+> <canonical_smiles>
+ON=CC1=CC=CC=N1CCOCC#C
+
+> <CAS_NO>
+131524-41-9
+
+> <Source>
+CCRIS
+
+> <Activity>
+0
+
+> <WDI_Name>
+.
+
+> <REFERENCE>
+ORNER,G, SEEWALD,JB, NIEDING,WJ AND KORTE,DW, MUTAGENIC POTENTIAL OF2-HYDROXYIMINOMETHYL-1-(2'PROPARGYLOXYETHYL)PYRIDINIUM CHLORIDE IN THE AMESSALMONELLA/MAMMALIAN MICROSOME MUTAGENICITY TEST, U.S. AR __ MY MEDICAL RESEARCH ANDDEVELOPMENT COMMAND, NTIS AD-A212646, 1989
+
+> <MC_Example>
+0
+
+> <MC_Pred>
+0
+
+> <DEREK_Example>
+0
+
+> <DEREK_Pred>
+0
+
+> <Molecular_Weight>
+206.24106
+
+> <Set>
+CV1 __  __ 
+
+$$$$

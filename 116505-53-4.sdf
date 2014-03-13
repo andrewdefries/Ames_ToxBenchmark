@@ -1,0 +1,74 @@
+116505-53-4
+ChemmineR-0127140935XD
+
+ 16 16  0  0  0  0            999 V2000
+    2.8509   -5.8560    0.0000 O    0  0
+    3.8912   -5.2578    0.0000 C    0  0
+    4.9292   -5.8600    0.0000 O    0  0
+    3.8933   -3.7570    0.0000 C    0  0
+    2.5951   -3.0039    0.0000 C    0  0
+    2.5973   -1.5031    0.0000 C    0  0
+    1.2990   -0.7500    0.0000 C    0  0
+    1.2990    0.7500    0.0000 C    0  0
+    0.0000    1.5000    0.0000 C    0  0
+   -1.2990    0.7500    0.0000 C    0  0
+   -2.6003    1.4977    0.0000 N    0  0
+   -3.8990    0.7455    0.0000 C    0  0
+   -5.2003    1.4932    0.0000 C    0  0
+   -6.2387    0.8917    0.0000 Cl   0  0
+   -1.2990   -0.7500    0.0000 C    0  0
+    0.0000   -1.5000    0.0000 C    0  0
+  1  2  1  0
+  2  3  2  0
+  2  4  1  0
+  4  5  1  0
+  5  6  1  0
+  6  7  1  0
+  7  8  2  0
+  8  9  1  0
+  9 10  2  0
+ 10 11  1  0
+ 11 12  1  0
+ 12 13  1  0
+ 13 14  1  0
+ 10 15  1  0
+ 15 16  2  0
+ 16  7  1  0
+M  END
+> <canonical_smiles>
+OC(=O)CCCc1ccc(NCCCl)cc1
+
+> <CAS_NO>
+116505-53-4
+
+> <Source>
+CCRIS
+
+> <Activity>
+1
+
+> <WDI_Name>
+.
+
+> <REFERENCE>
+FERGUSON,LR, PALMER,BD AND DENNY,WA, MICROBIAL MUTAGENICITY OFCHLORAMBUCIL, ITS HALF-MUSTARD AND MITOMYCIN C. A MODIFIED SCREENING STRATEGYFOR GENETIC TOXICOLOGY OF BIS-ALKYLATING ANTI-TUMOUR DRUGS, A __ NTI-CANCER DRUGDES. 3(1): 67-76, 1988
+
+> <MC_Example>
+0
+
+> <MC_Pred>
+1
+
+> <DEREK_Example>
+0
+
+> <DEREK_Pred>
+1
+
+> <Molecular_Weight>
+241.71394
+
+> <Set>
+CV4 __  __ 
+
+$$$$

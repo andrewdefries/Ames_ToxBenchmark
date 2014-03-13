@@ -1,0 +1,77 @@
+21638-36-8
+ChemmineR-0127140935XD
+
+ 17 18  0  0  0  0            999 V2000
+    1.4553   -2.0031    0.0000 C   0  0
+    0.7500   -1.0323    0.0000 C   0  0
+    1.2135    0.3943    0.0000 C   0  0
+    0.0000    1.2760    0.0000 N   0  0
+    0.0031    2.7742    0.0000 N   0  0
+    1.3039    3.5228    0.0000 C   0  0
+    1.3070    5.0236    0.0000 C   0  0
+    2.5206    5.8834    0.0000 O   0  0
+    2.0571    7.3100    0.0000 C   0  0
+    0.5571    7.3100    0.0000 C   0  0
+    0.0935    5.8834    0.0000 C   0  0
+    2.9352    8.5239    0.0000 N   0  0
+    2.4456    9.6195    0.0000 O   0  0
+    4.1289    8.4006    0.0000 O   0  0
+   -1.2135    0.3943    0.0000 C   0  0
+   -2.3548    0.7651    0.0000 O   0  0
+   -0.7500   -1.0323    0.0000 N   0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+  4  5  1  0
+  5  6  2  3
+  6  7  1  0
+  7  8  1  0
+  8  9  1  0
+  9 10  2  0
+ 10 11  1  0
+ 11  7  2  0
+  9 12  1  0
+ 12 13  2  0
+ 12 14  1  0
+  4 15  1  0
+ 15 16  2  0
+ 15 17  1  0
+ 17  2  1  0
+M  END
+> <canonical_smiles>
+CC1CN(N=Cc2oc(cc2)N(=O)O)C(=O)N1
+
+> <CAS_NO>
+21638-36-8
+
+> <Source>
+CCRIS
+
+> <Activity>
+1
+
+> <WDI_Name>
+NIFURIMID
+
+> <REFERENCE>
+RINKUS,SJ AND LEGATOR,MS, CHEMICAL CHARACTERIZATION OF 465 KNOWN ORSUSPECTED CARCINOGENS AND THEIR CORRELATION WITH MUTAGENIC ACTIVITY IN THESALMONELLA TYPHIMURIUM SYSTEM, CANCER RES. 39:3289-3318, 19 __ 79 & SUGIMURA,T,SATO,S, NAGAO,M, YAHAGI,T, MATSUSHIMA,T, SEINO,Y, TAKEUCHI,M AND KAWAC HI,T,OVERLAPPING OF CARCINOGENS AND MUTAGENS, IN: MAGEE,PN, TAKAYAMA,S, SUGIMURA,TAND MATSUSHIMA,T (EDS.), FUNDAM __ ENTALS IN CANCER PREVENTION, UNIVERSITY PARKPRESS, BALTIMORE, MARYLAND, 1976, PP. 191-215
+
+> <MC_Example>
+0
+
+> <MC_Pred>
+0
+
+> <DEREK_Example>
+0
+
+> <DEREK_Pred>
+0
+
+> <Molecular_Weight>
+240.21597
+
+> <Set>
+CV2 __  __ 
+
+$$$$

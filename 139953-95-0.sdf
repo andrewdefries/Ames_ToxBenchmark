@@ -1,0 +1,73 @@
+139953-95-0
+ChemmineR-0127140935XD
+
+ 16 15  0  0  0  0            999 V2000
+    0.2606    0.1503    0.0000 C   0  0
+    1.3000    0.7500    0.0000 C   0  0
+    2.6000    0.0000    0.0000 C   0  0
+    3.9000    0.7500    0.0000 O   0  0
+    5.2000    0.0000    0.0000 C   0  0
+    6.5000    0.7500    0.0000 C   0  0
+    7.7999    0.0000    0.0000 C   0  0
+    9.0999    0.7500    0.0000 C   0  0
+   10.3999    0.0000    0.0000 C   0  0
+   11.6999    0.7500    0.0000 C   0  0
+   12.9999    0.0000    0.0000 C   0  0
+   14.2999    0.7500    0.0000 C   0  0
+   15.5999    0.0000    0.0000 C   0  0
+   16.8999    0.7500    0.0000 C   0  0
+   18.1999    0.0000    0.0000 C   0  0
+   19.2393    0.5997    0.0000 C   0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+  4  5  1  0
+  5  6  2  3
+  6  7  1  0
+  7  8  2  3
+  8  9  1  0
+  9 10  2  3
+ 10 11  1  0
+ 11 12  2  3
+ 12 13  1  0
+ 13 14  2  3
+ 14 15  1  0
+ 15 16  1  0
+M  END
+> <canonical_smiles>
+CCCOC=CC=CC=CC=CC=CCC
+
+> <CAS_NO>
+139953-95-0
+
+> <Source>
+CCRIS
+
+> <Activity>
+1
+
+> <WDI_Name>
+.
+
+> <REFERENCE>
+VERTEGAAL,LBJ, VOOGD,CE, MOHN,GR AND VAN DER GEN,A, FURTHER STUDIES ONTHE MUTAGENIC ACTIVITY OF FECAPENTAENE-12 ANALOGS AND CONCLUSIONS ABOUT THEIRMOLECULAR MODE OF ACTION, MUTAT. RES. 281(2):93-98, 1 __ 992
+
+> <MC_Example>
+0
+
+> <MC_Pred>
+0
+
+> <DEREK_Example>
+1
+
+> <DEREK_Pred>
+1
+
+> <Molecular_Weight>
+218.33458
+
+> <Set>
+TRAIN __  __ 
+
+$$$$

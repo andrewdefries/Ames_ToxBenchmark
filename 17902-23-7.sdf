@@ -1,0 +1,71 @@
+17902-23-7
+ChemmineR-0127140935XD
+
+ 14 15  0  0  0  0            999 V2000
+    2.3383   -1.3500    0.0000 F   0  0
+    1.2990   -0.7500    0.0000 C   0  0
+    1.2990    0.7500    0.0000 C   0  0
+    0.0000    1.5000    0.0000 N   0  0
+    0.0000    3.0008    0.0000 C   0  0
+    1.2121    3.8625    0.0000 C   0  0
+    0.7463    5.2884    0.0000 C   0  0
+   -0.7537    5.2860    0.0000 C   0  0
+   -1.2149    3.8587    0.0000 O   0  0
+   -1.2990    0.7500    0.0000 C   0  0
+   -2.3383    1.3500    0.0000 O   0  0
+   -1.2990   -0.7500    0.0000 N   0  0
+    0.0000   -1.5000    0.0000 C   0  0
+    0.0000   -2.7000    0.0000 O   0  0
+  1  2  1  0
+  2  3  2  3
+  3  4  1  0
+  4  5  1  0
+  5  6  1  0
+  6  7  1  0
+  7  8  1  0
+  8  9  1  0
+  9  5  1  0
+  4 10  1  0
+ 10 11  2  0
+ 10 12  1  0
+ 12 13  1  0
+ 13  2  1  0
+ 13 14  2  0
+M  END
+> <canonical_smiles>
+FC1=CN(C2CCCO2)C(=O)NC1=O
+
+> <CAS_NO>
+17902-23-7
+
+> <Source>
+CCRIS
+
+> <Activity>
+0
+
+> <WDI_Name>
+TEGAFUR;TEGAFURNA;TEGAFURUR
+
+> <REFERENCE>
+SAKAMOTO,Y, FUJIKAWA,K, NAGAYABU,O, YAMAMOTO,KS AND SAMEJIMA,K, TRIPLESHORT-TERM TESTS WITH BACTERIA AND DROSOPHILA FOR ASSESSMENT OF MUTAGENICITY OFANTINEOPLASTICS, TAKEDA KENKYUSHOHO 44(1/2):96-116, __  1985
+
+> <MC_Example>
+0
+
+> <MC_Pred>
+0
+
+> <DEREK_Example>
+0
+
+> <DEREK_Pred>
+0
+
+> <Molecular_Weight>
+200.16706
+
+> <Set>
+CV1 __  __ 
+
+$$$$

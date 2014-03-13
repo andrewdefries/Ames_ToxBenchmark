@@ -1,0 +1,89 @@
+6730-83-2
+ChemmineR-0127140935XD
+
+ 22 25  0  0  0  0            999 V2000
+   -1.0500    1.8700    0.0000 C   0  0
+   -1.0500    0.6700    0.0000 C   0  0
+   -2.1900    1.3900    0.0000 C   0  0
+   -3.3400    0.6700    0.0000 C   0  0
+   -3.3400   -0.9100    0.0000 C   0  0
+   -2.1900   -1.6300    0.0000 C   0  0
+   -1.2181   -2.3339    0.0000 C   0  0
+   -1.0500   -0.9100    0.0000 C   0  0
+    0.0900   -1.6300    0.0000 C   0  0
+    1.2300   -0.9100    0.0000 C   0  0
+    1.2300    0.6700    0.0000 C   0  0
+    2.3800    1.3900    0.0000 C   0  0
+    2.3800    2.9000    0.0000 C   0  0
+    1.2300    3.6900    0.0000 C   0  0
+    0.0900    2.9000    0.0000 C   0  0
+    0.0900    1.3900    0.0000 C   0  0
+    4.0400    1.3900    0.0000 C   0  0
+    5.2400    1.3900    0.0000 C   0  0
+    3.2700   -0.1200    0.0000 C   0  0
+   -3.5209   -2.4650    0.0000 C   0  0
+   -4.5407   -1.8326    0.0000 O   0  0
+   -3.5590   -3.6644    0.0000 O   0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+  4  5  1  0
+  5  6  1  0
+  6  7  1  0
+  6  8  1  0
+  8  2  1  0
+  8  9  1  0
+  9 10  1  0
+ 10 11  1  0
+ 11 12  1  0
+ 12 13  1  0
+ 13 14  1  0
+ 14 15  1  0
+ 15 16  1  0
+ 16  2  1  0
+ 16 11  1  0
+ 13 17  1  0
+ 17 18  2  0
+ 17 19  1  0
+ 19 11  1  0
+  6 20  1  0
+ 20 21  2  0
+ 20 22  1  0
+M  END
+> <canonical_smiles>
+CC12CCCC(C)(C1CCC34CC(CCC23)C(=C)C4)C(=O)O
+
+> <CAS_NO>
+6730-83-2
+
+> <Source>
+CCRIS
+
+> <Activity>
+0
+
+> <WDI_Name>
+.
+
+> <REFERENCE>
+PEZZUTO,JM, NANAYAKKARA,NPD, COMPADRE,CM, SWANSON,SM, KINGHORN,AD,GUENTHNER,TM, SPARNINS,VL AND LAM,LKT, CHARACTERIZATION OF BACTERIALMUTAGENICITY MEDIATED BY 13-HYDROXY-ENT-KAURENOIC ACID (STEVIOL) A __ ND SEVERALSTRUCTURALLY-RELATED DERIVATIVES AND EVALUATION OF POTENTIAL TO INDUCEGLUTATHIONE S-TRANSFERASE IN MICE, MUTAT. RES. 169(3):93-103, 1986
+
+> <MC_Example>
+0
+
+> <MC_Pred>
+0
+
+> <DEREK_Example>
+0
+
+> <DEREK_Pred>
+0
+
+> <Molecular_Weight>
+302.451
+
+> <Set>
+CV5 __  __ 
+
+$$$$

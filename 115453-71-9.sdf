@@ -1,0 +1,61 @@
+115453-71-9
+ChemmineR-0127140935XD
+
+ 10  9  0  0  0  0            999 V2000
+    6.5000    1.9500    0.0000 N    0  0
+    6.5000    0.7500    0.0000 C    0  0
+    5.2000    0.0000    0.0000 C    0  0
+    3.9000    0.7500    0.0000 S    0  0
+    2.6000    0.0000    0.0000 C    0  0
+    1.3000    0.7500    0.0000 C    0  0
+    0.2606    0.1503    0.0000 Cl   0  0
+    7.7999    0.0000    0.0000 C    0  0
+    8.8394    0.5997    0.0000 O    0  0
+    7.7999   -1.2000    0.0000 O    0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+  4  5  1  0
+  5  6  2  3
+  6  7  1  0
+  2  8  1  0
+  8  9  2  0
+  8 10  1  0
+M  END
+> <canonical_smiles>
+NC(CSC=CCl)C(=O)O
+
+> <CAS_NO>
+115453-71-9
+
+> <Source>
+CCRIS
+
+> <Activity>
+1
+
+> <WDI_Name>
+.
+
+> <REFERENCE>
+VAMVAKAS,S, BERTHOLD,K, DEKANT,W AND HENSCHLER,D, BACTERIAL CYSTEINECONJUGATE BETA-LYASE AND THE METABOLISM OF CYSTEINE S-CONJUGATES. STRUCTURALREQUIREMENTS FOR THE CLEAVAGE OF S-CONJUGATES AND THE FO __ RMATION OF REACTIVEINTERMEDIATES, CHEM.-BIOL. INTERACT. 65(1):59-71, 1988
+
+> <MC_Example>
+0
+
+> <MC_Pred>
+0
+
+> <DEREK_Example>
+0
+
+> <DEREK_Pred>
+0
+
+> <Molecular_Weight>
+181.64052
+
+> <Set>
+CV2 __  __ 
+
+$$$$

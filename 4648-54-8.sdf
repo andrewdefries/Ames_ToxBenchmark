@@ -1,0 +1,55 @@
+4648-54-8
+ChemmineR-0127140935XD
+
+  7  6  0  0  0  0            999 V2000
+    0.2606    0.1503    0.0000 C    0  0
+    1.3000    0.7500    0.0000 Si   0  0
+    1.3000    1.9500    0.0000 C    0  0
+    0.2609    1.3502    0.0000 C    0  0
+    2.6000    0.0000    0.0000 N    0  0
+    3.9000    0.7500    0.0000 N    0  0
+    4.9394    1.3497    0.0000 N    0  0
+  1  2  1  0
+  2  3  1  0
+  2  4  1  0
+  2  5  1  0
+  5  6  2  3
+  6  7  3  0
+M  END
+> <canonical_smiles>
+C[Si](C)(C)N=N#N
+
+> <CAS_NO>
+4648-54-8
+
+> <Source>
+CCRIS
+
+> <Activity>
+1
+
+> <WDI_Name>
+.
+
+> <REFERENCE>
+MATSUMURA,Y, SHIOZAWA,T, MATSUSHITA,H AND TERAO,Y, MUTAGENICITY OFALKYL AZIDES, BIOL. PHARM. BULL. 18(12):1805-1807, 1995
+
+> <MC_Example>
+0
+
+> <MC_Pred>
+-1
+
+> <DEREK_Example>
+0
+
+> <DEREK_Pred>
+0
+
+> <Molecular_Weight>
+115.20915
+
+> <Set>
+CV3 __  __ 
+
+$$$$

@@ -1,0 +1,55 @@
+2837-89-0
+ChemmineR-0127140935XD
+
+  7  6  0  0  0  0            999 V2000
+    1.3000    1.9500    0.0000 F    0  0
+    1.3000    0.7500    0.0000 C    0  0
+    0.2606    0.1503    0.0000 Cl   0  0
+    2.6000    0.0000    0.0000 C    0  0
+    3.6394    0.5997    0.0000 F    0  0
+    3.6391   -0.6002    0.0000 F    0  0
+    2.6000   -1.2000    0.0000 F    0  0
+  1  2  1  0
+  2  3  1  0
+  2  4  1  0
+  4  5  1  0
+  4  6  1  0
+  4  7  1  0
+M  END
+> <canonical_smiles>
+FC(Cl)C(F)(F)F
+
+> <CAS_NO>
+2837-89-0
+
+> <Source>
+CCRIS
+
+> <Activity>
+0
+
+> <WDI_Name>
+.
+
+> <REFERENCE>
+MALLEY,LA, FRAME,SR, ELLIOTT,GS, BENTLY,KS, BROCK,WJ, TROCHIMOWICZ,HJAND RUSCH,GM, CHRONIC TOXICITY, ONCOGENICITY, AND MUTAGENICITY STUDIES WITHCHLOROTETRAFLUOROETHANE (HCFC-124), DRUG CHEM. TOXICOL.  __ 21(4):417-477,1998
+
+> <MC_Example>
+0
+
+> <MC_Pred>
+0
+
+> <DEREK_Example>
+0
+
+> <DEREK_Pred>
+0
+
+> <Molecular_Weight>
+136.47595
+
+> <Set>
+CV2 __  __ 
+
+$$$$

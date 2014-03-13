@@ -1,0 +1,63 @@
+23355-97-7
+ChemmineR-0127140935XD
+
+ 10 11  0  0  0  0            999 V2000
+    5.0501   -0.8419    0.0000 C   0  0
+    4.0197   -1.4569    0.0000 C   0  0
+    3.2676   -2.7548    0.0000 O   0  0
+    2.5987   -1.5004    0.0000 C   0  0
+    1.2990   -0.7500    0.0000 C   0  0
+    1.2990    0.7500    0.0000 C   0  0
+    0.0000    1.5000    0.0000 C   0  0
+   -1.2990    0.7500    0.0000 C   0  0
+   -1.2990   -0.7500    0.0000 C   0  0
+    0.0000   -1.5000    0.0000 C   0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+  4  2  1  0
+  4  5  1  0
+  5  6  2  0
+  6  7  1  0
+  7  8  2  0
+  8  9  1  0
+  9 10  2  0
+ 10  5  1  0
+M  END
+> <canonical_smiles>
+CC1OC1c2ccccc2
+
+> <CAS_NO>
+23355-97-7
+
+> <Source>
+CCRIS
+
+> <Activity>
+0
+
+> <WDI_Name>
+.
+
+> <REFERENCE>
+KRAEMER,A, PUDIL,J, FRANK,H, OESCH,F AND GLATT,H, SOME SUBSTRATES ANDINHIBITORS OF CYTOSOLIC EPOXIDE HYDROLASE INDUCE SISTER-CHROMATID EXCHANGES INMAMMALIAN CELLS, BUT DO NOT INDUCE GENE MUTATIONS IN  __ SALMONELLA TYPHIMURIUM ANDV79 CELLS, MUTAT. RES. 290(2):165-174, 1993
+
+> <MC_Example>
+0
+
+> <MC_Pred>
+0
+
+> <DEREK_Example>
+0
+
+> <DEREK_Pred>
+1
+
+> <Molecular_Weight>
+134.1751
+
+> <Set>
+CV2 __  __ 
+
+$$$$

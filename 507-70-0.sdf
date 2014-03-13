@@ -1,0 +1,65 @@
+507-70-0
+ChemmineR-0127140935XD
+
+ 11 12  0  0  0  0            999 V2000
+   -0.8607   -0.2041    0.0000 C   0  0
+   -1.9045    0.3879    0.0000 C   0  0
+   -3.0160   -0.0642    0.0000 C   0  0
+   -1.8868   -1.3225    0.0000 C   0  0
+   -3.3152   -0.4761    0.0000 C   0  0
+   -3.3152    1.1638    0.0000 C   0  0
+   -1.8868    1.9750    0.0000 C   0  0
+   -1.8868    3.1750    0.0000 C   0  0
+   -0.4408    1.1638    0.0000 C   0  0
+    0.5952    1.7693    0.0000 O   0  0
+   -0.4408   -0.4761    0.0000 C   0  0
+  1  2  1  0
+  2  3  1  0
+  2  4  1  0
+  4  5  1  0
+  5  6  1  0
+  6  7  1  0
+  7  2  1  0
+  7  8  1  0
+  7  9  1  0
+  9 10  1  0
+  9 11  1  0
+ 11  4  1  0
+M  END
+> <canonical_smiles>
+CC1(C)C2CCC1(C)C(O)C2
+
+> <CAS_NO>
+507-70-0
+
+> <Source>
+CCRIS
+
+> <Activity>
+0
+
+> <WDI_Name>
+.
+
+> <REFERENCE>
+AZIZAN,A AND BLEVINS,RD, MUTAGENICITY AND ANTIMUTAGENICITY TESTING OFSIX CHEMICALS ASSOCIATED WITH THE PUNGENT PROPERTIES OF SPECIFIC SPICES ASREVEALED BY THE AMES SALMONELLA/MICROSOMAL ASSAY, ARCH. E __ NVIRON. CONTAM.TOXICOL. 28(2): 248-258, 1995
+
+> <MC_Example>
+1
+
+> <MC_Pred>
+0
+
+> <DEREK_Example>
+0
+
+> <DEREK_Pred>
+0
+
+> <Set>
+TRAIN
+
+> <Molecular_Weight>
+154.24931 __  __ 
+
+$$$$

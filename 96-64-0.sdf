@@ -1,0 +1,63 @@
+96-64-0
+ChemmineR-0127140935XD
+
+ 11 10  0  0  0  0            999 V2000
+    3.9000    1.9500    0.0000 C   0  0
+    3.9000    0.7500    0.0000 C   0  0
+    2.6000    0.0000    0.0000 O   0  0
+    1.3000    0.7500    0.0000 P   0  0
+    0.2606    0.1503    0.0000 O   0  0
+    0.2609    1.3502    0.0000 C   0  0
+    1.3000    1.9500    0.0000 F   0  0
+    5.2000    0.0000    0.0000 C   0  0
+    6.2394    0.5997    0.0000 C   0  0
+    6.2391   -0.6002    0.0000 C   0  0
+    5.2000   -1.2000    0.0000 C   0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+  4  5  2  0
+  4  6  1  0
+  4  7  1  0
+  2  8  1  0
+  8  9  1  0
+  8 10  1  0
+  8 11  1  0
+M  END
+> <canonical_smiles>
+CC(OP(=O)(C)F)C(C)(C)C
+
+> <CAS_NO>
+96-64-0
+
+> <Source>
+CCRIS
+
+> <Activity>
+0
+
+> <WDI_Name>
+SOMAN
+
+> <REFERENCE>
+GOLDMAN,M, KLEIN,AK, KAWAKAMI,TG AND ROSENBLATT,LS, TOXICITY STUDIESON AGENTS GB (SARIN (TYPES I AND II) AND GD (SOMAN), GOV. REP. ANNOUNCE. INDEX(U.S.) 88(10):9-80, 1988
+
+> <MC_Example>
+0
+
+> <MC_Pred>
+0
+
+> <DEREK_Example>
+0
+
+> <DEREK_Pred>
+0
+
+> <Molecular_Weight>
+182.1729
+
+> <Set>
+CV5 __  __ 
+
+$$$$

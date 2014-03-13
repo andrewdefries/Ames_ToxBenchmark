@@ -1,0 +1,79 @@
+2106-54-9
+ChemmineR-0127140935XD
+
+ 19 18  0  0  0  0            999 V2000
+    1.3000    1.9500    0.0000 O    0  0
+    1.3000    0.7500    0.0000 C    0  0
+    0.2606    0.1503    0.0000 O    0  0
+    2.6000    0.0000    0.0000 C    0  0
+    1.5608   -0.6002    0.0000 F    0  0
+    2.6000   -1.2000    0.0000 F    0  0
+    3.9000    0.7500    0.0000 C    0  0
+    2.8608    1.3502    0.0000 F    0  0
+    3.9000    1.9500    0.0000 Cl   0  0
+    5.2000    0.0000    0.0000 C    0  0
+    4.1608   -0.6002    0.0000 F    0  0
+    5.2000   -1.2000    0.0000 F    0  0
+    6.5000    0.7500    0.0000 C    0  0
+    5.4608    1.3502    0.0000 F    0  0
+    6.5000    1.9500    0.0000 Cl   0  0
+    7.7999    0.0000    0.0000 C    0  0
+    8.8391   -0.6002    0.0000 F    0  0
+    7.7999   -1.2000    0.0000 F    0  0
+    8.8394    0.5997    0.0000 Cl   0  0
+  1  2  1  0
+  2  3  2  0
+  2  4  1  0
+  4  5  1  0
+  4  6  1  0
+  4  7  1  0
+  7  8  1  0
+  7  9  1  0
+  7 10  1  0
+ 10 11  1  0
+ 10 12  1  0
+ 10 13  1  0
+ 13 14  1  0
+ 13 15  1  0
+ 13 16  1  0
+ 16 17  1  0
+ 16 18  1  0
+ 16 19  1  0
+M  END
+> <canonical_smiles>
+OC(=O)C(F)(F)C(F)(Cl)C(F)(F)C(F)(Cl)C(F)(F)Cl
+
+> <CAS_NO>
+2106-54-9
+
+> <Source>
+CCRIS
+
+> <Activity>
+0
+
+> <WDI_Name>
+.
+
+> <REFERENCE>
+GODIN,CS, MYHR,BC, LAWLOR,TE, YOUNG,RR, MURLI,H AND CIFONE,MA,ASSESSMENT OF THE POTENTIAL GENOTOXICITY OF PERFLUORODECANOIC ACID ANDCHLOROTRIFLUOROETHYLENE TRIMER AND TETRAMER ACIDS, FUNDAM. APPL. TOX __ ICOL.18(4):557-569, 1992
+
+> <MC_Example>
+0
+
+> <MC_Pred>
+0
+
+> <DEREK_Example>
+0
+
+> <DEREK_Pred>
+0
+
+> <Molecular_Weight>
+363.41716
+
+> <Set>
+CV5 __  __ 
+
+$$$$

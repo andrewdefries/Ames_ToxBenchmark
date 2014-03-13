@@ -1,0 +1,53 @@
+13417-43-1
+ChemmineR-0127140935XD
+
+  6  5  0  0  0  0            999 V2000
+    0.2606    0.1503    0.0000 C    0  0
+    1.3000    0.7500    0.0000 C    0  0
+    2.6000    0.0000    0.0000 C    0  0
+    2.6000   -1.2000    0.0000 C    0  0
+    3.9000    0.7500    0.0000 C    0  0
+    4.9394    0.1503    0.0000 Cl   0  0
+  1  2  1  0
+  2  3  2  3
+  3  4  1  0
+  3  5  1  0
+  5  6  1  0
+M  END
+> <canonical_smiles>
+CC=C(C)CCl
+
+> <CAS_NO>
+13417-43-1
+
+> <Source>
+CCRIS
+
+> <Activity>
+1
+
+> <WDI_Name>
+.
+
+> <REFERENCE>
+WAALKES,MP, KOVATCH,R AND REHM,S, EFFECT OF CHRONIC DIETARY ZINCDEFICIENCY ON CADMIUM TOXICITY AND CARCINOGENESIS IN THE MALE WISTAR [HSD:(WI)BR] RAT TOXICOL. APPL. PHARMACOL. 108:448-456, 1991
+
+> <MC_Example>
+0
+
+> <MC_Pred>
+1
+
+> <DEREK_Example>
+0
+
+> <DEREK_Pred>
+1
+
+> <Molecular_Weight>
+104.57796
+
+> <Set>
+CV3 __  __ 
+
+$$$$

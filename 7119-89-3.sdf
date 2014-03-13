@@ -1,0 +1,53 @@
+7119-89-3
+ChemmineR-0127140935XD
+
+  6  5  0  0  0  0            999 V2000
+    1.3000    1.9500    0.0000 O    0  0
+    1.3000    0.7500    0.0000 N    0  0
+    0.2606    0.1503    0.0000 O    0  0
+    2.6000    0.0000    0.0000 C    0  0
+    3.6394    0.5997    0.0000 Cl   0  0
+    2.6000   -1.2000    0.0000 Cl   0  0
+  1  2  1  0
+  2  3  2  0
+  2  4  1  0
+  4  5  1  0
+  4  6  1  0
+M  END
+> <canonical_smiles>
+ON(=O)C(Cl)Cl
+
+> <CAS_NO>
+7119-89-3
+
+> <Source>
+CCRIS
+
+> <Activity>
+1
+
+> <WDI_Name>
+.
+
+> <REFERENCE>
+SCHNEIDER,M, QUISTAD,GB AND CASIDA,JE, GLUTATHIONE ACTIVATION OFCHLOROPICRIN IN THE SALMONELLA MUTAGENICITY TEST, MUTAT. RES. 439(2):233-238,1999
+
+> <MC_Example>
+0
+
+> <MC_Pred>
+0
+
+> <DEREK_Example>
+0
+
+> <DEREK_Pred>
+0
+
+> <Molecular_Weight>
+131.94602
+
+> <Set>
+CV2 __  __ 
+
+$$$$

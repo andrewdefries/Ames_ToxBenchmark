@@ -1,0 +1,56 @@
+60-56-0
+ChemmineR-0127140935XD
+
+  7  7  0  0  0  0            999 V2000
+    1.4553   -2.0031    0.0000 C   0  0
+    0.7500   -1.0323    0.0000 N   0  0
+    1.2135    0.3943    0.0000 C   0  0
+    0.0000    1.2760    0.0000 C   0  0
+   -1.2135    0.3943    0.0000 N   0  0
+   -0.7500   -1.0323    0.0000 C   0  0
+   -1.4553   -2.0031    0.0000 S   0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  2  0
+  4  5  1  0
+  5  6  2  0
+  6  2  1  0
+  6  7  1  0
+M  END
+> <canonical_smiles>
+Cn1ccnc1S
+
+> <CAS_NO>
+60-56-0
+
+> <Source>
+EPA2
+
+> <Activity>
+0
+
+> <WDI_Name>
+THIAMAZOL
+
+> <REFERENCE>
+HELMA, C, CRAMER, T, KRAMER, S, AND DE RAEDT, L, DATA MINING AND MACHINE LEARNING TECHNIQUES FOR THE IDENTIFICATION OF MUTAGENICITY INDUCING SUBSTRUCTURES AND STRUCTURE ACTIVITY RELATIONSHIPS OF NONCO __ NGENERIC COMPOUNDS. J. CHEM. INF. COMPUT. SCI. 44: 1402-1411, 2004
+
+> <MC_Example>
+0
+
+> <MC_Pred>
+0
+
+> <DEREK_Example>
+0
+
+> <DEREK_Pred>
+0
+
+> <Molecular_Weight>
+114.16884
+
+> <Set>
+CV4 __  __ 
+
+$$$$

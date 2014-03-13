@@ -1,0 +1,66 @@
+122587-23-9
+ChemmineR-0127140935XD
+
+ 12 12  0  0  0  0            999 V2000
+    3.8329   -3.0529    0.0000 C    0  0
+    3.1255   -2.0835    0.0000 O    0  0
+    1.6332   -2.2426    0.0000 C    0  0
+    1.1470   -3.3397    0.0000 O    0  0
+    0.7500   -1.0323    0.0000 C    0  0
+    1.2135    0.3943    0.0000 O    0  0
+    0.0000    1.2760    0.0000 C    0  0
+    0.0000    2.4760    0.0000 N    0  0
+   -1.2135    0.3943    0.0000 C    0  0
+   -2.3548    0.7651    0.0000 Cl   0  0
+   -0.7500   -1.0323    0.0000 C    0  0
+   -1.4553   -2.0031    0.0000 Cl   0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  2  0
+  3  5  1  0
+  5  6  1  0
+  6  7  1  0
+  7  8  1  0
+  7  9  2  0
+  9 10  1  0
+  9 11  1  0
+ 11  5  2  0
+ 11 12  1  0
+M  END
+> <canonical_smiles>
+COC(=O)c1oc(N)c(Cl)c1Cl
+
+> <CAS_NO>
+122587-23-9
+
+> <Source>
+CCRIS
+
+> <Activity>
+0
+
+> <WDI_Name>
+.
+
+> <REFERENCE>
+HATCHER,JF, YAMAMOTO,K, ICHIKAWA,M, BRYAN,GT AND SWAMINATHAN,S,METABOLIC REDUCTION OF NOVEL 3,4-DICHLORO-5-NITROFURANS IN SALMONELLATYPHIMURIUM, ENVIRON. MOL. MUTAGEN. 25(1):58-66, 1995
+
+> <MC_Example>
+0
+
+> <MC_Pred>
+0
+
+> <DEREK_Example>
+0
+
+> <DEREK_Pred>
+1
+
+> <Molecular_Weight>
+210.0148
+
+> <Set>
+CV5 __  __ 
+
+$$$$

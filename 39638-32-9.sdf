@@ -1,0 +1,59 @@
+39638-32-9
+ChemmineR-0127140935XD
+
+  9  8  0  0  0  0            999 V2000
+    1.3000    1.9500    0.0000 C    0  0
+    1.3000    0.7500    0.0000 C    0  0
+    0.2609    1.3502    0.0000 C    0  0
+    0.2606    0.1503    0.0000 Cl   0  0
+    2.6000    0.0000    0.0000 O    0  0
+    3.9000    0.7500    0.0000 C    0  0
+    3.9000    1.9500    0.0000 C    0  0
+    4.9391    1.3502    0.0000 C    0  0
+    4.9394    0.1503    0.0000 Cl   0  0
+  1  2  1  0
+  2  3  1  0
+  2  4  1  0
+  2  5  1  0
+  5  6  1  0
+  6  7  1  0
+  6  8  1  0
+  6  9  1  0
+M  END
+> <canonical_smiles>
+CC(C)(Cl)OC(C)(C)Cl
+
+> <CAS_NO>
+39638-32-9
+
+> <Source>
+CCRIS
+
+> <Activity>
+1
+
+> <WDI_Name>
+.
+
+> <REFERENCE>
+SIMMON,VF, KAUHANEN,K AND TARDIFF,RG, MUTAGENIC ACTIVITY OF CHEMICALSIDENTIFIED IN DRINKING WATER, DEV. TOXICOL. ENVIRON. SCI. 2:249-258,1977
+
+> <MC_Example>
+0
+
+> <MC_Pred>
+0
+
+> <DEREK_Example>
+0
+
+> <DEREK_Pred>
+0
+
+> <Molecular_Weight>
+171.06488
+
+> <Set>
+CV2 __  __ 
+
+$$$$

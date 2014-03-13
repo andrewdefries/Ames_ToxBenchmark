@@ -1,0 +1,62 @@
+199536-82-8
+ChemmineR-0127140935XD
+
+ 10 10  0  0  0  0            999 V2000
+    1.4553   -2.0031    0.0000 Cl   0  0
+    0.7500   -1.0323    0.0000 C    0  0
+    1.2135    0.3943    0.0000 C    0  0
+    0.0000    1.2760    0.0000 C    0  0
+   -1.2135    0.3943    0.0000 O    0  0
+   -0.7500   -1.0323    0.0000 C    0  0
+   -1.4553   -2.0031    0.0000 O    0  0
+    2.6375    0.8603    0.0000 C    0  0
+    2.8853    2.0344    0.0000 Br   0  0
+    3.5307    0.0589    0.0000 Br   0  0
+  1  2  1  0
+  2  3  2  3
+  3  4  1  0
+  4  5  1  0
+  5  6  1  0
+  6  2  1  0
+  6  7  2  0
+  3  8  1  0
+  8  9  1  0
+  8 10  1  0
+M  END
+> <canonical_smiles>
+ClC1=C(COC1=O)C(Br)Br
+
+> <CAS_NO>
+199536-82-8
+
+> <Source>
+CCRIS
+
+> <Activity>
+1
+
+> <WDI_Name>
+.
+
+> <REFERENCE>
+LALONDE,RT, BU,L, HENWOOD,A, FIUMANO,J AND ZHANG,L, BROMINE-,CHLORINE-, AND MIXED HALOGEN-SUBSTITUTED 4-METHYL-2(5H)-FURANONES: SYNTHESIS ANDMUTAGENIC EFFECTS OF HALOGEN AND HYDROXYL GROUP REPLACEMENT __ S,CHEM. RES. TOXICOL.10(12):1427-1436, 1997
+
+> <MC_Example>
+0
+
+> <MC_Pred>
+0
+
+> <DEREK_Example>
+0
+
+> <DEREK_Pred>
+1
+
+> <Molecular_Weight>
+290.33711
+
+> <Set>
+CV1 __  __ 
+
+$$$$

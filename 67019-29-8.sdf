@@ -1,0 +1,82 @@
+67019-29-8
+ChemmineR-0127140935XD
+
+ 19 21  0  0  0  0            999 V2000
+    4.4530   -2.0330    0.0000 O   0  0
+    3.6552   -2.9294    0.0000 C   0  0
+    4.1277   -4.3539    0.0000 N   0  0
+    5.5974   -4.6579    0.0000 C   0  0
+    6.0717   -6.0810    0.0000 C   0  0
+    7.5412   -6.3819    0.0000 C   0  0
+    8.5365   -5.2597    0.0000 C   0  0
+    8.0623   -3.8366    0.0000 C   0  0
+    6.5928   -3.5357    0.0000 C   0  0
+    2.1855   -2.6254    0.0000 N   0  0
+    1.7138   -1.2033    0.0000 C   0  0
+    2.5889    0.0182    0.0000 S   0  0
+    1.7138    1.2033    0.0000 N   0  0
+    0.2917    0.7475    0.0000 C   0  0
+   -1.0028    1.5132    0.0000 C   0  0
+   -2.3155    0.7475    0.0000 C   0  0
+   -2.3155   -0.7475    0.0000 C   0  0
+   -1.0028   -1.5132    0.0000 C   0  0
+    0.2917   -0.7475    0.0000 C   0  0
+  1  2  2  0
+  2  3  1  0
+  3  4  1  0
+  4  5  2  0
+  5  6  1  0
+  6  7  2  0
+  7  8  1  0
+  8  9  2  0
+  9  4  1  0
+  2 10  1  0
+ 10 11  1  0
+ 11 12  1  0
+ 12 13  1  0
+ 13 14  2  0
+ 14 15  1  0
+ 15 16  2  0
+ 16 17  1  0
+ 17 18  2  0
+ 18 19  1  0
+ 19 11  2  0
+ 19 14  1  0
+M  END
+> <canonical_smiles>
+O=C(Nc1ccccc1)Nc2snc3ccccc23
+
+> <CAS_NO>
+67019-29-8
+
+> <Source>
+CCRIS
+
+> <Activity>
+0
+
+> <WDI_Name>
+.
+
+> <REFERENCE>
+ZANI,F, BELLOTTI,A AND MAZZA,P, BIOLOGICAL STUDIES ON2,1-BENZISOTHIAZOLE DERIVATIVES II. EVALUATION OF ANTIMICROBIAL AND GENOTOXICPROPERTIES OF BZ-NITRO-, 3-ETHYLACETATE-, 3-AMINO- AND 3-SUBSTITUTED A __ MINO2,1-BENZISOTHIAZOLES, FARMACO 49(11):713-719, 1994
+
+> <MC_Example>
+0
+
+> <MC_Pred>
+0
+
+> <DEREK_Example>
+0
+
+> <DEREK_Pred>
+0
+
+> <Molecular_Weight>
+269.32164
+
+> <Set>
+CV3 __  __ 
+
+$$$$

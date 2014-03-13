@@ -1,0 +1,50 @@
+503-30-0
+ChemmineR-0127140935XD
+
+  4  4  0  0  0  0            999 V2000
+    0.0000   -1.0607    0.0000 C   0  0
+    1.0607    0.0000    0.0000 C   0  0
+    0.0000    1.0607    0.0000 O   0  0
+   -1.0607    0.0000    0.0000 C   0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+  4  1  1  0
+M  END
+> <canonical_smiles>
+C1COC1
+
+> <CAS_NO>
+503-30-0
+
+> <Source>
+VITIC
+
+> <Activity>
+1
+
+> <WDI_Name>
+.
+
+> <REFERENCE>
+JUDSON, PN, COOKE, PA, DOERRER, NG, GREENE, N, HANZLIK, RP, HARDY, C, HARTMANN, A, HINCHLIFFE, D, HOLDER, J, MUELLER, L, STEGER-HARTMANN, T, ROTHFUSS, A, SMITH, M, THOMAS, K, VESSEY, JD AND ZEIGER E.  __ TOWARDS THE CREATION OF AN INTERNATIONAL TOXICOLOGY INFORMATION CENTRE. TOXICOLOGY 213(1-2):117-28, 2005
+
+> <MC_Example>
+1
+
+> <MC_Pred>
+1
+
+> <DEREK_Example>
+0
+
+> <DEREK_Pred>
+0
+
+> <Set>
+TRAIN
+
+> <Molecular_Weight>
+58.07914 __  __ 
+
+$$$$

@@ -1,0 +1,49 @@
+75-25-2
+ChemmineR-0127140935XD
+
+  4  3  0  0  0  0            999 V2000
+    0.2606    0.1503    0.0000 Br   0  0
+    1.3000    0.7500    0.0000 C    0  0
+    2.3394    0.1503    0.0000 Br   0  0
+    1.3000    1.9500    0.0000 Br   0  0
+  1  2  1  0
+  2  3  1  0
+  2  4  1  0
+M  END
+> <canonical_smiles>
+BrC(Br)Br
+
+> <CAS_NO>
+75-25-2
+
+> <Source>
+VITIC
+
+> <Activity>
+1
+
+> <WDI_Name>
+BROMOFORM
+
+> <REFERENCE>
+JUDSON, PN, COOKE, PA, DOERRER, NG, GREENE, N, HANZLIK, RP, HARDY, C, HARTMANN, A, HINCHLIFFE, D, HOLDER, J, MUELLER, L, STEGER-HARTMANN, T, ROTHFUSS, A, SMITH, M, THOMAS, K, VESSEY, JD AND ZEIGER E.  __ TOWARDS THE CREATION OF AN INTERNATIONAL TOXICOLOGY INFORMATION CENTRE. TOXICOLOGY 213(1-2):117-28, 2005
+
+> <MC_Example>
+0
+
+> <MC_Pred>
+0
+
+> <DEREK_Example>
+1
+
+> <DEREK_Pred>
+1
+
+> <Molecular_Weight>
+252.73064
+
+> <Set>
+TRAIN __  __ 
+
+$$$$

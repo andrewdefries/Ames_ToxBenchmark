@@ -1,0 +1,66 @@
+1874-22-2
+ChemmineR-0127140935XD
+
+ 12 12  0  0  0  0            999 V2000
+    2.8218   -2.1229    0.0000 O   0  0
+    1.6281   -2.2462    0.0000 N   0  0
+    1.1385   -3.3418    0.0000 O   0  0
+    0.7500   -1.0323    0.0000 C   0  0
+    1.2135    0.3943    0.0000 O   0  0
+    0.0000    1.2760    0.0000 C   0  0
+   -0.0031    2.7742    0.0000 C   0  0
+   -1.3040    3.5228    0.0000 C   0  0
+   -1.3071    5.0236    0.0000 C   0  0
+   -2.3472    5.6221    0.0000 O   0  0
+   -1.2135    0.3943    0.0000 C   0  0
+   -0.7500   -1.0323    0.0000 C   0  0
+  1  2  1  0
+  2  3  2  0
+  2  4  1  0
+  4  5  1  0
+  5  6  1  0
+  6  7  1  0
+  7  8  2  3
+  8  9  1  0
+  9 10  2  0
+  6 11  2  0
+ 11 12  1  0
+ 12  4  2  0
+M  END
+> <canonical_smiles>
+ON(=O)c1oc(C=CC=O)cc1
+
+> <CAS_NO>
+1874-22-2
+
+> <Source>
+CCRIS
+
+> <Activity>
+1
+
+> <WDI_Name>
+.
+
+> <REFERENCE>
+EDER,E, DEININGER,C AND MUTH,D, GENOTOXICITY OF P-NITROCINNAMALDEHYDEAND RELATED ALPHA,BETA-UNSATURATED CARBONYL COMPOUNDS IN TWO BACTERIAL ASSAYS,MUTAGENESIS 6(4):261-269, 1991
+
+> <MC_Example>
+0
+
+> <MC_Pred>
+0
+
+> <DEREK_Example>
+0
+
+> <DEREK_Pred>
+0
+
+> <Molecular_Weight>
+169.13478
+
+> <Set>
+CV5 __  __ 
+
+$$$$

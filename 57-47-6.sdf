@@ -1,0 +1,84 @@
+57-47-6
+ChemmineR-0127140935XD
+
+ 20 22  0  0  0  0            999 V2000
+   -4.9600    5.9567    0.0000 C   0  0
+   -5.3055    4.8075    0.0000 N   0  0
+   -4.2775    3.7140    0.0000 C   0  0
+   -3.1094    3.9890    0.0000 O   0  0
+   -4.7096    2.2767    0.0000 O   0  0
+   -3.6810    1.1807    0.0000 C   0  0
+   -4.1672    0.0000    0.0000 C   0  0
+   -3.1485   -1.3659    0.0000 C   0  0
+   -1.6669   -1.0186    0.0000 C   0  0
+   -0.4399   -1.9215    0.0000 N   0  0
+   -0.4288   -3.1215    0.0000 C   0  0
+    0.7408   -1.0186    0.0000 C   0  0
+    2.2688   -1.0186    0.0000 N   0  0
+    2.9704   -1.9921    0.0000 C   0  0
+    2.7318    0.3704    0.0000 C   0  0
+    1.5048    1.2733    0.0000 C   0  0
+    0.3010    0.3704    0.0000 C   0  0
+   -0.0785    1.5088    0.0000 C   0  0
+   -1.2039    0.3704    0.0000 C   0  0
+   -2.2225    1.5280    0.0000 C   0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  2  0
+  3  5  1  0
+  5  6  1  0
+  6  7  2  0
+  7  8  1  0
+  8  9  2  0
+  9 10  1  0
+ 10 11  1  0
+ 10 12  1  0
+ 12 13  1  0
+ 13 14  1  0
+ 13 15  1  0
+ 15 16  1  0
+ 16 17  1  0
+ 17 12  1  0
+ 17 18  1  0
+ 17 19  1  0
+ 19  9  1  0
+ 19 20  2  0
+ 20  6  1  0
+M  END
+> <canonical_smiles>
+CNC(=O)Oc1ccc2N(C)C3N(C)CCC3(C)c2c1
+
+> <CAS_NO>
+57-47-6
+
+> <Source>
+CCRIS
+
+> <Activity>
+0
+
+> <WDI_Name>
+.
+
+> <REFERENCE>
+ORNER,GA, SEBASTIAN,SE AND KORTE,DW, MUTAGENIC POTENTIAL OFPHYSOSTIGMINE FREE BASE IN THE AMES SALMONELLA/MAMMALIAN MICROSOME MUTAGENICITYTEST, LETTERMAN ARMY INSTITUTE OF RESEARCH, LAIR-IR-389:TOXICO __ LOGYSER-243, JULY1989
+
+> <MC_Example>
+0
+
+> <MC_Pred>
+0
+
+> <DEREK_Example>
+0
+
+> <DEREK_Pred>
+0
+
+> <Molecular_Weight>
+275.34614
+
+> <Set>
+CV2 __  __ 
+
+$$$$

@@ -1,0 +1,63 @@
+NOCAS_M325
+ChemmineR-0127140935XD
+
+ 10 11  0  0  0  0            999 V2000
+   -2.3331    2.2650    0.0000 C   0  0
+   -2.8950    1.2046    0.0000 C   0  0
+   -4.1773    1.9429    0.0000 C   0  0
+   -5.4597    1.1658    0.0000 C   0  0
+   -5.4597   -0.2914    0.0000 C   0  0
+   -4.1773   -1.0298    0.0000 C   0  0
+   -2.8950   -0.2914    0.0000 C   0  0
+   -1.5349    0.5440    0.0000 O   0  0
+   -6.7608   -1.0401    0.0000 C   0  0
+   -6.7634   -2.2401    0.0000 C   0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+  4  5  1  0
+  5  6  1  0
+  6  7  1  0
+  7  2  1  0
+  7  8  1  0
+  8  2  1  0
+  5  9  1  0
+  9 10  2  0
+M  END
+> <canonical_smiles>
+CC12CCC(CC1O2)C=C
+
+> <CAS_NO>
+NOCAS_M325
+
+> <Source>
+EPA1
+
+> <Activity>
+0
+
+> <WDI_Name>
+.
+
+> <REFERENCE>
+KAZIUS, J, MCGUIRE, R AND BURSI, R. DERIVATION AND VALIDATION OF TOXICOPHORES FOR MUTAGENICITY PREDICTION. J. MED. CHEM. 48: 312-320, 2005
+
+> <MC_Example>
+0
+
+> <MC_Pred>
+0
+
+> <DEREK_Example>
+0
+
+> <DEREK_Pred>
+0
+
+> <Molecular_Weight>
+138.20686
+
+> <Set>
+CV3 __  __ 
+
+$$$$

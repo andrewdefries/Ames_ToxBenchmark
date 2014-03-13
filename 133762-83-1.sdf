@@ -1,0 +1,77 @@
+133762-83-1
+ChemmineR-0127140935XD
+
+ 17 18  0  0  0  0            999 V2000
+    4.4530   -2.0330    0.0000 O    0  0
+    3.6552   -2.9294    0.0000 C    0  0
+    4.1277   -4.3539    0.0000 C    0  0
+    5.5974   -4.6579    0.0000 N    0  0
+    6.0699   -6.0824    0.0000 N    0  0
+    6.4476   -7.2214    0.0000 N    0  0
+    2.1855   -2.6254    0.0000 C    0  0
+    1.7138   -1.2033    0.0000 N    0  0
+    2.5889    0.0182    0.0000 C    0  0
+    1.7138    1.2033    0.0000 N    0  0
+    0.2917    0.7475    0.0000 C    0  0
+   -1.0028    1.5132    0.0000 C    0  0
+   -0.9991    2.7132    0.0000 Cl   0  0
+   -2.3155    0.7475    0.0000 N    0  0
+   -2.3155   -0.7475    0.0000 C    0  0
+   -1.0028   -1.5132    0.0000 N    0  0
+    0.2917   -0.7475    0.0000 C    0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+  4  5  2  3
+  5  6  3  0
+  2  7  1  0
+  7  8  1  0
+  8  9  1  0
+  9 10  2  0
+ 10 11  1  0
+ 11 12  2  0
+ 12 13  1  0
+ 12 14  1  0
+ 14 15  2  0
+ 15 16  1  0
+ 16 17  2  0
+ 17  8  1  0
+ 17 11  1  0
+M  END
+> <canonical_smiles>
+OC(CN=N#N)Cn1cnc2c(Cl)ncnc12
+
+> <CAS_NO>
+133762-83-1
+
+> <Source>
+CCRIS
+
+> <Activity>
+1
+
+> <WDI_Name>
+.
+
+> <REFERENCE>
+GICHNER,T, HOLY,A, SPASSOVA,M, VELEMINSKY,J AND GRUZ,P, THEMUTAGENICITY OF AZIDO DERIVATIVES OF MONOSACCHARIDES AND ALCOHOLS AND OFN-(3-AZIDO-2- HYDROXYPROPYL) DERIVATIVES OF PURINES AND PYRIMIDINES I __ NARABIDOPSIS THALIANA AND IN SALMONELLA TYPHIMURIUM, MUTAGENESIS 6(1):55-58,1991
+
+> <MC_Example>
+0
+
+> <MC_Pred>
+0
+
+> <DEREK_Example>
+0
+
+> <DEREK_Pred>
+0
+
+> <Molecular_Weight>
+253.64841
+
+> <Set>
+CV4 __  __ 
+
+$$$$

@@ -1,0 +1,72 @@
+131431-60-2
+ChemmineR-0127140935XD
+
+ 15 15  0  0  0  0            999 V2000
+    1.4553   -2.0031    0.0000 C   0  0
+    0.7500   -1.0323    0.0000 N   0  0
+    1.2135    0.3943    0.0000 C   0  0
+    0.0000    1.2760    0.0000 C   0  0
+   -1.2135    0.3943    0.0000 N   0  0
+   -2.6375    0.8602    0.0000 C   0  0
+   -2.9474    2.3287    0.0000 C   0  0
+   -4.3738    2.7954    0.0000 S   0  0
+   -4.6216    3.9696    0.0000 O   0  0
+   -5.2670    1.9941    0.0000 O   0  0
+   -5.5145    3.1681    0.0000 C   0  0
+   -0.7500   -1.0323    0.0000 C   0  0
+   -1.6281   -2.2462    0.0000 C   0  0
+   -1.0157   -3.6164    0.0000 N   0  0
+   -1.7190   -4.5887    0.0000 O   0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  2  3
+  4  5  1  0
+  5  6  1  0
+  6  7  1  0
+  7  8  1  0
+  8  9  2  0
+  8 10  2  0
+  8 11  1  0
+  5 12  1  0
+ 12  2  1  0
+ 12 13  1  0
+ 13 14  2  3
+ 14 15  1  0
+M  END
+> <canonical_smiles>
+CN1C=CN(CCS(=O)(=O)C)C1C=NO
+
+> <CAS_NO>
+131431-60-2
+
+> <Source>
+CCRIS
+
+> <Activity>
+0
+
+> <WDI_Name>
+.
+
+> <REFERENCE>
+ORNER,G, NIEDING,WJ AND KORTE,DW, MUTAGENIC POTENTIAL OF2-HYDROXYIMINOMETHYL- 3-METHYL-1-(2-METHYLSULFONYLETHYL)IMIDAZOLIUM CHLORIDE INTHE AMES SALMONELLA/ MAMMALIAN MICROSOME MUTAGENICITY TEST, U.S.  __ ARMY MEDICALRESEARCH AND DEVELOPMENT COMMAND, NTIS AD-A214317, 1989
+
+> <MC_Example>
+0
+
+> <MC_Pred>
+0
+
+> <DEREK_Example>
+0
+
+> <DEREK_Pred>
+0
+
+> <Molecular_Weight>
+233.28799
+
+> <Set>
+CV2 __  __ 
+
+$$$$

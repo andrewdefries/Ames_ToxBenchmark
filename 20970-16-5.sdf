@@ -1,0 +1,67 @@
+20970-16-5
+ChemmineR-0127140935XD
+
+ 12 13  0  0  0  0            999 V2000
+   -2.3272    3.6028    0.0000 N   0  0
+   -1.2907    2.9981    0.0000 N   0  0
+   -1.2964    1.4973    0.0000 C   0  0
+   -2.6111    0.7486    0.0000 N   0  0
+   -2.6111   -0.7486    0.0000 N   0  0
+   -1.2964   -1.4973    0.0000 C   0  0
+    0.0000   -0.7486    0.0000 C   0  0
+    1.2964   -1.4973    0.0000 N   0  0
+    2.5929   -0.7486    0.0000 C   0  0
+    2.5929    0.7486    0.0000 C   0  0
+    1.2964    1.4973    0.0000 C   0  0
+    0.0000    0.7486    0.0000 C   0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  2  0
+  4  5  1  0
+  5  6  2  0
+  6  7  1  0
+  7  8  2  0
+  8  9  1  0
+  9 10  2  0
+ 10 11  1  0
+ 11 12  2  0
+ 12  3  1  0
+ 12  7  1  0
+M  END
+> <canonical_smiles>
+NNc1nncc2ncccc12
+
+> <CAS_NO>
+20970-16-5
+
+> <Source>
+CCRIS
+
+> <Activity>
+1
+
+> <WDI_Name>
+.
+
+> <REFERENCE>
+MORITA,T, NAITOU,H AND OISHI,E, MUTAGENICITY OF CONDENSED PYRIDAZINESWITH DIFFERENT SUBSTITUENTS, BIOL. PHARM. BULL. 18(2):363-367, 1995
+
+> <MC_Example>
+0
+
+> <MC_Pred>
+0
+
+> <DEREK_Example>
+0
+
+> <DEREK_Pred>
+1
+
+> <Molecular_Weight>
+161.16398
+
+> <Set>
+CV1 __  __ 
+
+$$$$

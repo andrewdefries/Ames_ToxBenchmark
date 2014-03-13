@@ -1,0 +1,56 @@
+1955-45-9
+ChemmineR-0127140935XD
+
+  7  7  0  0  0  0            999 V2000
+   -1.0413   -1.6571    0.0000 C   0  0
+    0.0000   -1.0607    0.0000 C   0  0
+    1.0412   -1.6573    0.0000 C   0  0
+    1.0607    0.0000    0.0000 C   0  0
+    0.0000    1.0607    0.0000 O   0  0
+   -1.0607    0.0000    0.0000 C   0  0
+   -2.2607    0.0000    0.0000 O   0  0
+  1  2  1  0
+  2  3  1  0
+  2  4  1  0
+  4  5  1  0
+  5  6  1  0
+  6  2  1  0
+  6  7  2  0
+M  END
+> <canonical_smiles>
+CC1(C)COC1=O
+
+> <CAS_NO>
+1955-45-9
+
+> <Source>
+VITIC
+
+> <Activity>
+1
+
+> <WDI_Name>
+.
+
+> <REFERENCE>
+JUDSON, PN, COOKE, PA, DOERRER, NG, GREENE, N, HANZLIK, RP, HARDY, C, HARTMANN, A, HINCHLIFFE, D, HOLDER, J, MUELLER, L, STEGER-HARTMANN, T, ROTHFUSS, A, SMITH, M, THOMAS, K, VESSEY, JD AND ZEIGER E.  __ TOWARDS THE CREATION OF AN INTERNATIONAL TOXICOLOGY INFORMATION CENTRE. TOXICOLOGY 213(1-2):117-28, 2005
+
+> <MC_Example>
+0
+
+> <MC_Pred>
+1
+
+> <DEREK_Example>
+1
+
+> <DEREK_Pred>
+1
+
+> <Molecular_Weight>
+100.11582
+
+> <Set>
+TRAIN __  __ 
+
+$$$$

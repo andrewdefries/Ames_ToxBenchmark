@@ -1,0 +1,59 @@
+185-75-1
+ChemmineR-0127140935XD
+
+  8  9  0  0  0  0            999 V2000
+     -3.79     -1.81      0.00 C   0  0
+     -4.23     -0.25      0.00 C   0  0
+     -3.09      0.87      0.00 O   0  0
+     -1.51      0.44      0.00 C   0  0
+     -1.08     -1.07      0.00 C   0  0
+     -2.24     -2.22      0.00 C   0  0
+      0.00     -2.25      0.00 C   0  0
+      0.41     -0.70      0.00 O   0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+  4  5  1  0
+  5  6  1  0
+  6  1  1  0
+  5  7  1  0
+  7  8  1  0
+  8  5  1  0
+M  END
+> <canonical_smiles>
+C1COCC2(C1)CO2
+
+> <CAS_NO>
+185-75-1
+
+> <Source>
+CCRIS
+
+> <Activity>
+1
+
+> <WDI_Name>
+.
+
+> <REFERENCE>
+SINSHEIMER,JE, CHAKRABORTY,PK, MESSERLY,EA AND GADDAMIDI,V,MUTAGENICITY OF OXASPIRO COMPOUNDS WITH SALMONELLA, MUTAT. RES. 224(2):171-5,1989
+
+> <MC_Example>
+0
+
+> <MC_Pred>
+1
+
+> <DEREK_Example>
+0
+
+> <DEREK_Pred>
+1
+
+> <Molecular_Weight>
+114.1424
+
+> <Set>
+CV3 __  __ 
+
+$$$$

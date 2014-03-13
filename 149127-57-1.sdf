@@ -1,0 +1,59 @@
+149127-57-1
+ChemmineR-0127140935XD
+
+  9  8  0  0  0  0            999 V2000
+    0.2606    0.1503    0.0000 C   0  0
+    1.3000    0.7500    0.0000 C   0  0
+    2.6000    0.0000    0.0000 N   0  0
+    3.9000    0.7500    0.0000 N   0  0
+    5.2000    0.0000    0.0000 C   0  0
+    5.2000   -1.2000    0.0000 C   0  0
+    4.1608   -0.6002    0.0000 C   0  0
+    6.5000    0.7500    0.0000 O   0  0
+    7.5394    0.1503    0.0000 O   0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  2  3
+  4  5  1  0
+  5  6  1  0
+  5  7  1  0
+  5  8  1  0
+  8  9  1  0
+M  END
+> <canonical_smiles>
+CCN=NC(C)(C)OO
+
+> <CAS_NO>
+149127-57-1
+
+> <Source>
+CCRIS
+
+> <Activity>
+0
+
+> <WDI_Name>
+.
+
+> <REFERENCE>
+MOCHIZUKI,M, MICHIHIRO,K, SHIOMI,K, ITOH,K, TANGE,Y AND HIZATATE,S,AUTOOXIDATION OF ALKYLHYDRAZONES AND MUTAGENICITY OF THE RESULTINGHYDROPEROXIDES, BIOL. PHARM. BULL. 16(1):96-98, 1993
+
+> <MC_Example>
+0
+
+> <MC_Pred>
+1
+
+> <DEREK_Example>
+0
+
+> <DEREK_Pred>
+0
+
+> <Molecular_Weight>
+132.16098
+
+> <Set>
+CV2 __  __ 
+
+$$$$

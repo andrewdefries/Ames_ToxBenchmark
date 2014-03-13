@@ -1,0 +1,66 @@
+78468-34-5
+ChemmineR-0127140935XD
+
+ 12 12  0  0  0  0            999 V2000
+    2.3383   -1.3500    0.0000 N   0  0
+    1.2990   -0.7500    0.0000 C   0  0
+    1.2990    0.7500    0.0000 C   0  0
+    0.0000    1.5000    0.0000 C   0  0
+   -1.2990    0.7500    0.0000 C   0  0
+   -1.2990   -0.7500    0.0000 C   0  0
+    0.0000   -1.5000    0.0000 C   0  0
+   -0.0031   -3.0008    0.0000 C   0  0
+   -1.0432   -3.5994    0.0000 O   0  0
+   -0.0031    3.0008    0.0000 N   0  0
+   -1.0432    3.5993    0.0000 O   0  0
+    1.0351    3.6026    0.0000 O   0  0
+  1  2  1  0
+  2  3  2  0
+  3  4  1  0
+  4  5  2  0
+  5  6  1  0
+  6  7  2  0
+  7  2  1  0
+  7  8  1  0
+  8  9  1  0
+  4 10  1  0
+ 10 11  2  0
+ 10 12  1  0
+M  END
+> <canonical_smiles>
+Nc1cc(ccc1CO)N(=O)O
+
+> <CAS_NO>
+78468-34-5
+
+> <Source>
+CCRIS
+
+> <Activity>
+1
+
+> <WDI_Name>
+.
+
+> <REFERENCE>
+MORI,M, MIYAHARA,T, MOTO-O,K, FUKUKAWA,M, KOZUKA,H, MIYAGOSHI,M ANDNAGAYAMA,T, MUTAGENICITY OF URINARY METABOLITES OF 2,4-DINITROTOLUENE TOSALMONELLA TYPHIMURIUM, CHEM. PHARM. BULL. 33(10):4556-4563,  __ 1985
+
+> <MC_Example>
+0
+
+> <MC_Pred>
+1
+
+> <DEREK_Example>
+0
+
+> <DEREK_Pred>
+0
+
+> <Molecular_Weight>
+170.1659
+
+> <Set>
+CV3 __  __ 
+
+$$$$

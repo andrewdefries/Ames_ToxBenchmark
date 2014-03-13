@@ -1,0 +1,69 @@
+1516-73-0
+ChemmineR-0127140935XD
+
+ 13 14  0  0  0  0            999 V2000
+    2.0907   -2.3426    0.0000 C   0  0
+    1.7138   -1.2033    0.0000 N   0  0
+    2.5889    0.0182    0.0000 C   0  0
+    4.0872    0.0382    0.0000 N   0  0
+    4.8208    1.3475    0.0000 N   0  0
+    5.4075    2.3944    0.0000 N   0  0
+    1.7138    1.2033    0.0000 N   0  0
+    0.2917    0.7475    0.0000 C   0  0
+   -1.0028    1.5132    0.0000 C   0  0
+   -2.3155    0.7475    0.0000 C   0  0
+   -2.3155   -0.7475    0.0000 C   0  0
+   -1.0028   -1.5132    0.0000 C   0  0
+    0.2917   -0.7475    0.0000 C   0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+  4  5  2  3
+  5  6  3  0
+  3  7  2  0
+  7  8  1  0
+  8  9  2  0
+  9 10  1  0
+ 10 11  2  0
+ 11 12  1  0
+ 12 13  2  0
+ 13  2  1  0
+ 13  8  1  0
+M  END
+> <canonical_smiles>
+Cn1c(N=N#N)nc2ccccc12
+
+> <CAS_NO>
+1516-73-0
+
+> <Source>
+CCRIS
+
+> <Activity>
+1
+
+> <WDI_Name>
+.
+
+> <REFERENCE>
+WILD,D, AND DIRR,A, MUTAGENIC NITRENES/NITRENIUM IONS FROMAZIDO-IMIDAZOARENES AND THEIR STRUCTURE-ACTIVITY RELATIONSHIP, MUTAGENESIS4(6):446-52, 1989
+
+> <MC_Example>
+0
+
+> <MC_Pred>
+0
+
+> <DEREK_Example>
+0
+
+> <DEREK_Pred>
+0
+
+> <Molecular_Weight>
+173.17468
+
+> <Set>
+CV5 __  __ 
+
+$$$$

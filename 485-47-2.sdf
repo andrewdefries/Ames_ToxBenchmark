@@ -1,0 +1,69 @@
+485-47-2
+ChemmineR-0127140935XD
+
+ 13 14  0  0  0  0            999 V2000
+    3.1809   -1.0256    0.0000 O   0  0
+    2.5889    0.0182    0.0000 C   0  0
+    3.1659    1.0704    0.0000 O   0  0
+    1.7138    1.2033    0.0000 C   0  0
+    2.0825    2.3453    0.0000 O   0  0
+    0.2917    0.7475    0.0000 C   0  0
+   -1.0028    1.5132    0.0000 C   0  0
+   -2.3155    0.7475    0.0000 C   0  0
+   -2.3155   -0.7475    0.0000 C   0  0
+   -1.0028   -1.5132    0.0000 C   0  0
+    0.2917   -0.7475    0.0000 C   0  0
+    1.7138   -1.2033    0.0000 C   0  0
+    2.0907   -2.3426    0.0000 O   0  0
+  1  2  1  0
+  2  3  1  0
+  2  4  1  0
+  4  5  2  0
+  4  6  1  0
+  6  7  2  0
+  7  8  1  0
+  8  9  2  0
+  9 10  1  0
+ 10 11  2  0
+ 11  6  1  0
+ 11 12  1  0
+ 12  2  1  0
+ 12 13  2  0
+M  END
+> <canonical_smiles>
+OC1(O)C(=O)c2ccccc2C1=O
+
+> <CAS_NO>
+485-47-2
+
+> <Source>
+VITIC
+
+> <Activity>
+0
+
+> <WDI_Name>
+NINHYDRIN
+
+> <REFERENCE>
+JUDSON, PN, COOKE, PA, DOERRER, NG, GREENE, N, HANZLIK, RP, HARDY, C, HARTMANN, A, HINCHLIFFE, D, HOLDER, J, MUELLER, L, STEGER-HARTMANN, T, ROTHFUSS, A, SMITH, M, THOMAS, K, VESSEY, JD AND ZEIGER E.  __ TOWARDS THE CREATION OF AN INTERNATIONAL TOXICOLOGY INFORMATION CENTRE. TOXICOLOGY 213(1-2):117-28, 2005
+
+> <MC_Example>
+0
+
+> <MC_Pred>
+0
+
+> <DEREK_Example>
+0
+
+> <DEREK_Pred>
+0
+
+> <Molecular_Weight>
+178.14154
+
+> <Set>
+CV1 __  __ 
+
+$$$$

@@ -1,0 +1,71 @@
+110963-29-6
+ChemmineR-0127140935XD
+
+ 14 15  0  0  0  0            999 V2000
+    6.0207    1.3637    0.0000 N   0  0
+    4.8208    1.3475    0.0000 N   0  0
+    4.0872    0.0382    0.0000 C   0  0
+    4.7008   -0.9930    0.0000 O   0  0
+    2.5889    0.0182    0.0000 C   0  0
+    1.7138    1.2033    0.0000 N   0  0
+    0.2917    0.7475    0.0000 C   0  0
+   -1.0028    1.5132    0.0000 C   0  0
+   -2.3155    0.7475    0.0000 C   0  0
+   -2.3155   -0.7475    0.0000 C   0  0
+   -1.0028   -1.5132    0.0000 C   0  0
+    0.2917   -0.7475    0.0000 C   0  0
+    1.7138   -1.2033    0.0000 C   0  0
+    2.0907   -2.3426    0.0000 N   0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  2  0
+  3  5  1  0
+  5  6  1  0
+  6  7  1  0
+  7  8  2  0
+  8  9  1  0
+  9 10  2  0
+ 10 11  1  0
+ 11 12  2  0
+ 12  7  1  0
+ 12 13  1  0
+ 13  5  2  0
+ 13 14  1  0
+M  END
+> <canonical_smiles>
+NNC(=O)c1[nH]c2ccccc2c1N
+
+> <CAS_NO>
+110963-29-6
+
+> <Source>
+CCRIS
+
+> <Activity>
+1
+
+> <WDI_Name>
+.
+
+> <REFERENCE>
+LOPEZ-DE-CERAIN,A, GARCIA,E AND GULLON,A, INFLUENCE OF THE TRIAZINERING ON THE MUTAGENICITY OF TRIAZINOINDOLES AND SOME CONGENERS, MUTAGENESIS7(1):37-39, 1992
+
+> <MC_Example>
+0
+
+> <MC_Pred>
+0
+
+> <DEREK_Example>
+0
+
+> <DEREK_Pred>
+1
+
+> <Molecular_Weight>
+190.2019
+
+> <Set>
+CV3 __  __ 
+
+$$$$

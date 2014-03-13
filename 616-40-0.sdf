@@ -1,0 +1,53 @@
+616-40-0
+ChemmineR-0127140935XD
+
+  6  5  0  0  0  0            999 V2000
+    0.2606    0.1503    0.0000 C   0  0
+    1.3000    0.7500    0.0000 C   0  0
+    2.6000    0.0000    0.0000 N   0  0
+    2.6000   -1.2000    0.0000 N   0  0
+    3.9000    0.7500    0.0000 C   0  0
+    4.9394    0.1503    0.0000 C   0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+  3  5  1  0
+  5  6  1  0
+M  END
+> <canonical_smiles>
+CCN(N)CC
+
+> <CAS_NO>
+616-40-0
+
+> <Source>
+CCRIS
+
+> <Activity>
+0
+
+> <WDI_Name>
+.
+
+> <REFERENCE>
+AAGAARD NIELSEN,P, LAGERSTED,A, DANIELSEN,S, JENSEN,AA, HART,J ANDLARSEN,JC, MUTAGENIC ACTIVITY OF NINE N,N-DISUBSTITUTED HYDRAZINES IN THESALMONELLA/ MAMMALIAN MICROSOME ASSAY, MUTAT. RES. 278(4):215 __ -226,1992
+
+> <MC_Example>
+0
+
+> <MC_Pred>
+0
+
+> <DEREK_Example>
+0
+
+> <DEREK_Pred>
+0
+
+> <Molecular_Weight>
+88.15148
+
+> <Set>
+CV2 __  __ 
+
+$$$$

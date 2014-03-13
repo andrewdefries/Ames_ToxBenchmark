@@ -1,0 +1,48 @@
+151-56-4
+ChemmineR-0127140935XD
+
+  3  3  0  0  0  0            999 V2000
+    -0.750    -0.433     0.000 C   0  0
+     0.750    -0.433     0.000 C   0  0
+     0.000     0.866     0.000 N   0  0
+  1  2  1  0
+  2  3  1  0
+  3  1  1  0
+M  END
+> <canonical_smiles>
+C1CN1
+
+> <CAS_NO>
+151-56-4
+
+> <Source>
+VITIC
+
+> <Activity>
+1
+
+> <WDI_Name>
+AZIRIDINE
+
+> <REFERENCE>
+JUDSON, PN, COOKE, PA, DOERRER, NG, GREENE, N, HANZLIK, RP, HARDY, C, HARTMANN, A, HINCHLIFFE, D, HOLDER, J, MUELLER, L, STEGER-HARTMANN, T, ROTHFUSS, A, SMITH, M, THOMAS, K, VESSEY, JD AND ZEIGER E.  __ TOWARDS THE CREATION OF AN INTERNATIONAL TOXICOLOGY INFORMATION CENTRE. TOXICOLOGY 213(1-2):117-28, 2005
+
+> <MC_Example>
+1
+
+> <MC_Pred>
+1
+
+> <DEREK_Example>
+0
+
+> <DEREK_Pred>
+1
+
+> <Set>
+TRAIN
+
+> <Molecular_Weight>
+43.0678 __  __ 
+
+$$$$

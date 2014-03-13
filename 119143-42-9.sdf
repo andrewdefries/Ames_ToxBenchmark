@@ -1,0 +1,75 @@
+119143-42-9
+ChemmineR-0127140935XD
+
+ 15 18  0  0  0  0            999 V2000
+    1.2990   -0.7500    0.0000 C   0  0
+    1.2990    0.7500    0.0000 C   0  0
+    0.0000    1.5000    0.0000 C   0  0
+   -1.2990    0.7500    0.0000 C   0  0
+   -2.5981    1.5000    0.0000 C   0  0
+   -2.5981    3.0000    0.0000 C   0  0
+   -1.2991    3.7500    0.0000 C   0  0
+   -1.2991    5.2500    0.0000 N   0  0
+    0.0000    6.0000    0.0000 C   0  0
+    1.2990    5.2500    0.0000 C   0  0
+    1.2990    3.7500    0.0000 C   0  0
+    0.0000    3.0000    0.0000 C   0  0
+   -1.2990   -0.7500    0.0000 C   0  0
+   -1.2963   -2.2453    0.0000 O   0  0
+    0.0000   -1.5000    0.0000 C   0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  2  0
+  4  5  1  0
+  5  6  2  0
+  6  7  1  0
+  7  8  2  0
+  8  9  1  0
+  9 10  2  0
+ 10 11  1  0
+ 11 12  2  0
+ 12  3  1  0
+ 12  7  1  0
+  4 13  1  0
+ 13 14  1  0
+ 14 15  1  0
+ 15  1  1  0
+ 15 13  1  0
+M  END
+> <canonical_smiles>
+C1Cc2c(ccc3ncccc23)C4OC14
+
+> <CAS_NO>
+119143-42-9
+
+> <Source>
+CCRIS
+
+> <Activity>
+0
+
+> <WDI_Name>
+.
+
+> <REFERENCE>
+KUMAR,S, SIKKA,HC, DUBEY,SK, CZECH,A, GEDDIE,N, WANG,CX AND LAVOIE,EJ,MUTAGENICITY AND TUMORIGENICITY OF DIHYDRODIOLS, DIOL EPOXIDES, AND OTHERDERIVATIVES OF BENZO[F]QUINOLINE AND BENZO[H]QUINOLINE, C __ ANCER RES. 49(1):20-24,1989
+
+> <MC_Example>
+0
+
+> <MC_Pred>
+1
+
+> <DEREK_Example>
+0
+
+> <DEREK_Pred>
+1
+
+> <Molecular_Weight>
+197.23254
+
+> <Set>
+CV4 __  __ 
+
+$$$$

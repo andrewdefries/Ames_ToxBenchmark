@@ -1,0 +1,81 @@
+218-21-3
+ChemmineR-0127140935XD
+
+ 18 21  0  0  0  0            999 V2000
+     -5.07      0.03      0.00 C   0  0
+     -4.49     -1.38      0.00 C   0  0
+     -2.96     -1.59      0.00 N   0  0
+     -1.99     -0.37      0.00 C   0  0
+     -2.57      1.03      0.00 C   0  0
+     -4.11      1.25      0.00 C   0  0
+     -1.61      2.25      0.00 C   0  0
+      0.00      2.02      0.00 C   0  0
+      0.45      0.59      0.00 C   0  0
+      1.99      0.37      0.00 C   0  0
+      2.96      1.59      0.00 C   0  0
+      4.49      1.38      0.00 C   0  0
+      5.07      0.00      0.00 C   0  0
+      4.11     -1.25      0.00 N   0  0
+      2.57     -1.03      0.00 C   0  0
+      1.61     -2.25      0.00 C   0  0
+      0.08     -2.02      0.00 C   0  0
+     -0.45     -0.59      0.00 C   0  0
+  1  2  2  0
+  2  3  1  0
+  3  4  2  0
+  4  5  1  0
+  5  6  2  0
+  6  1  1  0
+  5  7  1  0
+  7  8  2  0
+  8  9  1  0
+  9 10  2  0
+ 10 11  1  0
+ 11 12  2  0
+ 12 13  1  0
+ 13 14  2  0
+ 14 15  1  0
+ 15 10  1  0
+ 15 16  2  0
+ 16 17  1  0
+ 17 18  2  0
+ 18  4  1  0
+ 18  9  1  0
+M  END
+> <canonical_smiles>
+c1cnc2c(c1)ccc3c4cccnc4ccc23
+
+> <CAS_NO>
+218-21-3
+
+> <Source>
+CCRIS
+
+> <Activity>
+1
+
+> <WDI_Name>
+.
+
+> <REFERENCE>
+YAMADA,K HAKURA,A KATO,TA, MIZUTANI,T AND SAEKI,KI,NITROGEN-SUBSTITUTION EFFECTS ON THE MUTAGENICITY AND CYTOCHROME P450ISOFORM-SELECTIVITY OF CHRYSENE ANALOGS, MUTAT. RES. 586(1):87-95,2005
+
+> <MC_Example>
+0
+
+> <MC_Pred>
+0
+
+> <DEREK_Example>
+0
+
+> <DEREK_Pred>
+1
+
+> <Molecular_Weight>
+230.264
+
+> <Set>
+CV5 __  __ 
+
+$$$$

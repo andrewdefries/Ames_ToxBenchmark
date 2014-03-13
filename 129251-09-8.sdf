@@ -1,0 +1,80 @@
+129251-09-8
+ChemmineR-0127140935XD
+
+ 19 19  0  0  0  0            999 V2000
+    4.5831   -5.8459    0.0000 C   0  0
+    5.7764   -5.7201    0.0000 C   0  0
+    6.3873   -4.3492    0.0000 C   0  0
+    5.5026   -3.1368    0.0000 C   0  0
+    4.0102   -3.2959    0.0000 C   0  0
+    3.1255   -2.0835    0.0000 O   0  0
+    1.6332   -2.2426    0.0000 C   0  0
+    0.7500   -1.0323    0.0000 N   0  0
+    1.2135    0.3943    0.0000 C   0  0
+    0.0000    1.2760    0.0000 C   0  0
+   -1.2135    0.3943    0.0000 N   0  0
+   -2.3548    0.7651    0.0000 C   0  0
+   -0.7500   -1.0323    0.0000 C   0  0
+   -1.6281   -2.2462    0.0000 C   0  0
+   -1.0157   -3.6164    0.0000 N   0  0
+   -1.7190   -4.5887    0.0000 O   0  0
+    7.8797   -4.1902    0.0000 N   0  0
+    8.5870   -5.1595    0.0000 O   0  0
+    8.3658   -3.0931    0.0000 O   0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+  4  5  1  0
+  5  6  1  0
+  6  7  1  0
+  7  8  1  0
+  8  9  1  0
+  9 10  2  3
+ 10 11  1  0
+ 11 12  1  0
+ 11 13  1  0
+ 13  8  1  0
+ 13 14  1  0
+ 14 15  2  3
+ 15 16  1  0
+  3 17  1  0
+ 17 18  2  0
+ 17 19  1  0
+M  END
+> <canonical_smiles>
+CCC(CCOCN1C=CN(C)C1C=NO)N(=O)O
+
+> <CAS_NO>
+129251-09-8
+
+> <Source>
+CCRIS
+
+> <Activity>
+0
+
+> <WDI_Name>
+.
+
+> <REFERENCE>
+SEBASTIAN,SE AND KORTE,DW, MUTAGENIC POTENTIAL OF2-HYDROXYIMINOMETHYL-3-METHYL-1-[2-(3-NITROPENTYLOXYMETHYL)]IMIDAZOLIUM CHLORIDE(WR#255,128) IN THE AMES SALMONELLA/MAMMALIAN MICROSOME MUTAGENICITY TE __ ST,LETTERMAN ARMY INSTITUTE OF RESEARCH, LAIR-IR-363:TOXICOLOGYSER-208, MAY1989
+
+> <MC_Example>
+0
+
+> <MC_Pred>
+0
+
+> <DEREK_Example>
+0
+
+> <DEREK_Pred>
+0
+
+> <Molecular_Weight>
+274.31677
+
+> <Set>
+CV5 __  __ 
+
+$$$$

@@ -1,0 +1,74 @@
+115655-93-1
+ChemmineR-0127140935XD
+
+ 16 16  0  0  0  0            999 V2000
+    8.8384   -0.9027    0.0000 C   0  0
+    7.7988   -1.5020    0.0000 C   0  0
+    6.4990   -0.7516    0.0000 C   0  0
+    5.1988   -1.5012    0.0000 C   0  0
+    3.8990   -0.7508    0.0000 C   0  0
+    2.5988   -1.5004    0.0000 C   0  0
+    2.5984   -2.7004    0.0000 C   0  0
+    3.6377   -2.1009    0.0000 O   0  0
+    1.2990   -0.7500    0.0000 C   0  0
+    1.2990    0.7500    0.0000 C   0  0
+    0.0000    1.5000    0.0000 C   0  0
+   -1.2990    0.7500    0.0000 C   0  0
+   -1.2990   -0.7500    0.0000 C   0  0
+    0.0000   -1.5000    0.0000 C   0  0
+    0.0000   -2.7000    0.0000 O   0  0
+    7.7984   -2.7020    0.0000 C   0  0
+  1  2  1  0
+  2  3  2  3
+  3  4  1  0
+  4  5  1  0
+  5  6  1  0
+  6  7  1  0
+  6  8  1  0
+  6  9  1  0
+  9 10  1  0
+ 10 11  1  0
+ 11 12  1  0
+ 12 13  2  3
+ 13 14  1  0
+ 14  9  1  0
+ 14 15  2  0
+  2 16  1  0
+M  END
+> <canonical_smiles>
+CC(=CCCC(C)(O)C1CCC=CC1=O)C
+
+> <CAS_NO>
+115655-93-1
+
+> <Source>
+CCRIS
+
+> <Activity>
+1
+
+> <WDI_Name>
+.
+
+> <REFERENCE>
+COMPADRE,CM, HUSSAIN,RA, LOPEZ DE COMPADRE,RL, PEZZUTO,JM ANDKINGHORN,AD, POTENTIAL SWEETENING AGENTS OF PLANT ORIGIN. 14. ANALYSIS OFSTRUCTURAL FEATURES RESPONSIBLE FOR THE SWEETNESS OF THE SESQUITER __ PENE,HERNANDULCIN, EXPERIENTIA 44(5):447-449, 1988
+
+> <MC_Example>
+0
+
+> <MC_Pred>
+0
+
+> <DEREK_Example>
+0
+
+> <DEREK_Pred>
+0
+
+> <Molecular_Weight>
+222.32328
+
+> <Set>
+CV2 __  __ 
+
+$$$$

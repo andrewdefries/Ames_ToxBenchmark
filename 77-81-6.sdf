@@ -1,0 +1,61 @@
+77-81-6
+ChemmineR-0127140935XD
+
+ 10  9  0  0  0  0            999 V2000
+    1.5591   -2.1005    0.0000 C   0  0
+    2.5986   -1.5008    0.0000 C   0  0
+    2.6000    0.0000    0.0000 O   0  0
+    3.9000    0.7500    0.0000 P   0  0
+    3.9000    1.9500    0.0000 O   0  0
+    5.2000    0.0000    0.0000 C   0  0
+    6.2394   -0.5997    0.0000 N   0  0
+    2.5761    1.5169    0.0000 N   0  0
+    2.5770    2.7169    0.0000 C   0  0
+    1.5362    0.9180    0.0000 C   0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+  4  5  2  0
+  4  6  1  0
+  6  7  3  0
+  4  8  1  0
+  8  9  1  0
+  8 10  1  0
+M  END
+> <canonical_smiles>
+CCOP(=O)(C#N)N(C)C
+
+> <CAS_NO>
+77-81-6
+
+> <Source>
+CCRIS
+
+> <Activity>
+0
+
+> <WDI_Name>
+TABUN
+
+> <REFERENCE>
+GOLDMAN,M, NASR,M, CONE,N, ROSENBLATT,LS AND WILSON,BW, TOXICITYSTUDIES ON AGENT GA. MUTAGENICITY OF TABUN (GA) IN THE AMES MUTAGENICITY ASSAY,U.S. ARMY MEDICAL RESEARCH AND DEVELOPMENT COMMAND, NTIS  __ AD-A224672,1989
+
+> <MC_Example>
+0
+
+> <MC_Pred>
+0
+
+> <DEREK_Example>
+0
+
+> <DEREK_Pred>
+1
+
+> <Molecular_Weight>
+162.1268
+
+> <Set>
+CV4 __  __ 
+
+$$$$

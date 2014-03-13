@@ -1,0 +1,63 @@
+91-20-3
+ChemmineR-0127140935XD
+
+ 10 11  0  0  0  0            999 V2000
+   -2.6111    0.7486    0.0000 C   0  0
+   -2.6111   -0.7486    0.0000 C   0  0
+   -1.2964   -1.4973    0.0000 C   0  0
+    0.0000   -0.7486    0.0000 C   0  0
+    1.2964   -1.4973    0.0000 C   0  0
+    2.5929   -0.7486    0.0000 C   0  0
+    2.5929    0.7486    0.0000 C   0  0
+    1.2964    1.4973    0.0000 C   0  0
+    0.0000    0.7486    0.0000 C   0  0
+   -1.2964    1.4973    0.0000 C   0  0
+  1  2  2  0
+  2  3  1  0
+  3  4  2  0
+  4  5  1  0
+  5  6  2  0
+  6  7  1  0
+  7  8  2  0
+  8  9  1  0
+  9  4  1  0
+  9 10  2  0
+ 10  1  1  0
+M  END
+> <canonical_smiles>
+c1ccc2ccccc2c1
+
+> <CAS_NO>
+91-20-3
+
+> <Source>
+VITIC
+
+> <Activity>
+0
+
+> <WDI_Name>
+NAPHTHALE
+
+> <REFERENCE>
+JUDSON, PN, COOKE, PA, DOERRER, NG, GREENE, N, HANZLIK, RP, HARDY, C, HARTMANN, A, HINCHLIFFE, D, HOLDER, J, MUELLER, L, STEGER-HARTMANN, T, ROTHFUSS, A, SMITH, M, THOMAS, K, VESSEY, JD AND ZEIGER E.  __ TOWARDS THE CREATION OF AN INTERNATIONAL TOXICOLOGY INFORMATION CENTRE. TOXICOLOGY 213(1-2):117-28, 2005
+
+> <MC_Example>
+1
+
+> <MC_Pred>
+0
+
+> <DEREK_Example>
+0
+
+> <DEREK_Pred>
+0
+
+> <Set>
+TRAIN
+
+> <Molecular_Weight>
+128.17052 __  __ 
+
+$$$$

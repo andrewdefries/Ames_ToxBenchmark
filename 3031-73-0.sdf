@@ -1,0 +1,47 @@
+3031-73-0
+ChemmineR-0127140935XD
+
+  3  2  0  0  0  0            999 V2000
+    0.2606    0.1503    0.0000 C   0  0
+    1.3000    0.7500    0.0000 O   0  0
+    2.3394    0.1503    0.0000 O   0  0
+  1  2  1  0
+  2  3  1  0
+M  END
+> <canonical_smiles>
+COO
+
+> <CAS_NO>
+3031-73-0
+
+> <Source>
+CCRIS
+
+> <Activity>
+1
+
+> <WDI_Name>
+.
+
+> <REFERENCE>
+BALL,JC, YOUNG,WC, WALLINGTON,TJ AND JAPAR,SM, MUTAGENIC PROPERTIES OFA SERIES OF ALKYL HYDROPEROXIDES, ENVIRON. SCI. TECHNOL. 26(2):397-399,1992
+
+> <MC_Example>
+0
+
+> <MC_Pred>
+-1
+
+> <DEREK_Example>
+1
+
+> <DEREK_Pred>
+1
+
+> <Molecular_Weight>
+48.04126
+
+> <Set>
+TRAIN __  __ 
+
+$$$$

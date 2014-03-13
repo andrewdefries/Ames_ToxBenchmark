@@ -1,0 +1,57 @@
+1070-66-2
+ChemmineR-0127140935XD
+
+  8  7  0  0  0  0            999 V2000
+    0.2606    0.1503    0.0000 C   0  0
+    1.3000    0.7500    0.0000 C   0  0
+    2.6000    0.0000    0.0000 C   0  0
+    3.9000    0.7500    0.0000 C   0  0
+    5.2000    0.0000    0.0000 C   0  0
+    5.2000   -1.2000    0.0000 C   0  0
+    6.5000    0.7500    0.0000 C   0  0
+    7.5394    0.1503    0.0000 O   0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+  4  5  1  0
+  5  6  2  0
+  5  7  1  0
+  7  8  2  0
+M  END
+> <canonical_smiles>
+CCCCC(=C)C=O
+
+> <CAS_NO>
+1070-66-2
+
+> <Source>
+CCRIS
+
+> <Activity>
+1
+
+> <WDI_Name>
+.
+
+> <REFERENCE>
+EDER,E AND DEININGER,C, MUTAGENICITY OF 2-ALKYLPROPENALS IN SALMONELLATYPHIMURIUM STRAIN TA 100:STRUCTURAL INFLUENCES, ENVIRON. MOL. MUTAGEN.37(4):324-328, 2001
+
+> <MC_Example>
+1
+
+> <MC_Pred>
+1
+
+> <DEREK_Example>
+0
+
+> <DEREK_Pred>
+1
+
+> <Set>
+TRAIN
+
+> <Molecular_Weight>
+112.16958 __  __ 
+
+$$$$

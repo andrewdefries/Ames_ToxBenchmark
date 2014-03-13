@@ -1,0 +1,57 @@
+111712-51-7
+ChemmineR-0127140935XD
+
+  8  7  0  0  0  0            999 V2000
+    1.3000    1.9500    0.0000 C    0  0
+    1.3000    0.7500    0.0000 C    0  0
+    0.2609    1.3502    0.0000 C    0  0
+    0.2606    0.1503    0.0000 Br   0  0
+    2.6000    0.0000    0.0000 C    0  0
+    2.6000   -1.2000    0.0000 Br   0  0
+    3.9000    0.7500    0.0000 C    0  0
+    4.9394    0.1503    0.0000 Cl   0  0
+  1  2  1  0
+  2  3  1  0
+  2  4  1  0
+  2  5  1  0
+  5  6  1  0
+  5  7  1  0
+  7  8  1  0
+M  END
+> <canonical_smiles>
+CC(C)(Br)C(Br)CCl
+
+> <CAS_NO>
+111712-51-7
+
+> <Source>
+CCRIS
+
+> <Activity>
+0
+
+> <WDI_Name>
+.
+
+> <REFERENCE>
+OMICHINSKI,JG, SOEDERLUND,EJ, BAUSANO,JA, DYBING,E AND NELSON,SD,SYNTHESIS AND MUTAGENICITY OF SELECTIVELY METHYLATED ANALOGS OFTRIS(2,3-DIBROMOPROPYL) PHOSPHATE AND 1,2-DIBROMO-3-CHLOROPROPANE, MUTAG __ ENESIS2(4):287-292, 1987
+
+> <MC_Example>
+0
+
+> <MC_Pred>
+1
+
+> <DEREK_Example>
+0
+
+> <DEREK_Pred>
+1
+
+> <Molecular_Weight>
+264.38596
+
+> <Set>
+CV4 __  __ 
+
+$$$$

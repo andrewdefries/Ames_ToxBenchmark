@@ -1,0 +1,49 @@
+2373-51-5
+ChemmineR-0127140935XD
+
+  4  3  0  0  0  0            999 V2000
+    0.2606    0.1503    0.0000 C    0  0
+    1.3000    0.7500    0.0000 S    0  0
+    2.6000    0.0000    0.0000 C    0  0
+    3.6394    0.5997    0.0000 Cl   0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+M  END
+> <canonical_smiles>
+CSCCl
+
+> <CAS_NO>
+2373-51-5
+
+> <Source>
+CCRIS
+
+> <Activity>
+1
+
+> <WDI_Name>
+.
+
+> <REFERENCE>
+VITO,M, ESPOSITO,G, VICARI,L, LEMBO,S, IMPERATRICE,ML AND DEMARINIS,E,MUTAGENIC ACTIVITY OF CHLORODIMETHYL SULFIDE AND SOME OF ITS ANILINEDERIVATIVES, BOLL.- SOC. ITAL. BIOL. SPER. 61(6):917-923, 1985
+
+> <MC_Example>
+0
+
+> <MC_Pred>
+1
+
+> <DEREK_Example>
+0
+
+> <DEREK_Pred>
+1
+
+> <Molecular_Weight>
+96.5791
+
+> <Set>
+CV4 __  __ 
+
+$$$$

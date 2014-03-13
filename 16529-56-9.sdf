@@ -1,0 +1,53 @@
+16529-56-9
+ChemmineR-0127140935XD
+
+  6  5  0  0  0  0            999 V2000
+    2.6000   -1.2000    0.0000 C   0  0
+    2.6000    0.0000    0.0000 C   0  0
+    1.3000    0.7500    0.0000 C   0  0
+    0.2606    0.1503    0.0000 C   0  0
+    3.9000    0.7500    0.0000 C   0  0
+    4.9394    1.3497    0.0000 N   0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  2  0
+  2  5  1  0
+  5  6  3  0
+M  END
+> <canonical_smiles>
+CC(C=C)C#N
+
+> <CAS_NO>
+16529-56-9
+
+> <Source>
+CCRIS
+
+> <Activity>
+0
+
+> <WDI_Name>
+.
+
+> <REFERENCE>
+ZEIGER,E, ANDERSON,B, HAWORTH,S, LAWLOR,T AND MORTELMANS,K, SALMONELLAMUTAGENICITY TESTS. V. RESULTS FROM THE TESTING OF 311 CHEMICALS, ENVIRON. MOL.MUTAGEN. 19(SUPPL.21):2-141, 1992
+
+> <MC_Example>
+0
+
+> <MC_Pred>
+0
+
+> <DEREK_Example>
+0
+
+> <DEREK_Pred>
+0
+
+> <Molecular_Weight>
+81.11578
+
+> <Set>
+CV1 __  __ 
+
+$$$$

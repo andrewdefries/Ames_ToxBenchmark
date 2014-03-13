@@ -1,0 +1,70 @@
+24698-43-9
+ChemmineR-0127140935XD
+
+ 14 14  0  0  0  0            999 V2000
+    4.9397   -5.8525    0.0000 C   0  0
+    3.9005   -5.2525    0.0000 C   0  0
+    2.8614   -5.8528    0.0000 C   0  0
+    3.8995   -3.7516    0.0000 C   0  0
+    2.5997   -3.0012    0.0000 O   0  0
+    2.5988   -1.5004    0.0000 S   0  0
+    3.6383   -2.0999    0.0000 O   0  0
+    3.6378   -0.9001    0.0000 O   0  0
+    1.2990   -0.7500    0.0000 C   0  0
+    1.2990    0.7500    0.0000 C   0  0
+    0.0000    1.5000    0.0000 C   0  0
+   -1.2990    0.7500    0.0000 C   0  0
+   -1.2990   -0.7500    0.0000 C   0  0
+    0.0000   -1.5000    0.0000 C   0  0
+  1  2  1  0
+  2  3  1  0
+  2  4  1  0
+  4  5  1  0
+  5  6  1  0
+  6  7  2  0
+  6  8  2  0
+  6  9  1  0
+  9 10  2  0
+ 10 11  1  0
+ 11 12  2  0
+ 12 13  1  0
+ 13 14  2  0
+ 14  9  1  0
+M  END
+> <canonical_smiles>
+CC(C)COS(=O)(=O)c1ccccc1
+
+> <CAS_NO>
+24698-43-9
+
+> <Source>
+CCRIS
+
+> <Activity>
+1
+
+> <WDI_Name>
+.
+
+> <REFERENCE>
+GLOWIENKE,S, FRIAUFF,W, ALLMENDINGER,T, MARTUS,HJ, SUTER,W ANDMUELLER,L, STRUCTURE-ACTIVITY CONSIDERATIONS AND IN VITRO APPROACHES TO ASSESSTHE GENOTOXICTY OF 19 METHANE-, BENZENE- AND TOLUENESULFONIC __  ACID ESTERS, MUTAT.RES. 581(1-2):23-34, 2005
+
+> <MC_Example>
+0
+
+> <MC_Pred>
+0
+
+> <DEREK_Example>
+0
+
+> <DEREK_Pred>
+1
+
+> <Molecular_Weight>
+214.28135
+
+> <Set>
+CV1 __  __ 
+
+$$$$

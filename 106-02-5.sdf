@@ -1,0 +1,76 @@
+106-02-5
+ChemmineR-0127140935XD
+
+ 17 17  0  0  0  0            999 V2000
+    3.5669    3.5669    0.0000 O   0  0
+    2.7184    2.7184    0.0000 C   0  0
+    1.4712    3.5517    0.0000 C   0  0
+    0.0000    3.8444    0.0000 C   0  0
+   -1.4712    3.5517    0.0000 C   0  0
+   -2.7184    2.7184    0.0000 C   0  0
+   -3.5517    1.4712    0.0000 C   0  0
+   -3.8444    0.0000    0.0000 C   0  0
+   -3.5517   -1.4712    0.0000 C   0  0
+   -2.7184   -2.7184    0.0000 C   0  0
+   -1.4712   -3.5517    0.0000 C   0  0
+    0.0000   -3.8444    0.0000 C   0  0
+    1.4712   -3.5517    0.0000 C   0  0
+    2.7184   -2.7184    0.0000 C   0  0
+    3.5517   -1.4712    0.0000 C   0  0
+    3.8444    0.0000    0.0000 C   0  0
+    3.5517    1.4712    0.0000 O   0  0
+  1  2  2  0
+  2  3  1  0
+  3  4  1  0
+  4  5  1  0
+  5  6  1  0
+  6  7  1  0
+  7  8  1  0
+  8  9  1  0
+  9 10  1  0
+ 10 11  1  0
+ 11 12  1  0
+ 12 13  1  0
+ 13 14  1  0
+ 14 15  1  0
+ 15 16  1  0
+ 16 17  1  0
+ 17  2  1  0
+M  END
+> <canonical_smiles>
+O=C1CCCCCCCCCCCCCCO1
+
+> <CAS_NO>
+106-02-5
+
+> <Source>
+CCRIS
+
+> <Activity>
+0
+
+> <WDI_Name>
+.
+
+> <REFERENCE>
+JAPAN CHEMICAL INDUSTRY ECOLOGY- TOXICOLOGY AND INFORMATION   CENTER,JAPAN, MUTAGENICITY TEST DATA OF EXISTING   CHEMICAL SUBSTANCES BASED ON THETOXICITY INVESTIGATION OF   THE INDUSTRIAL SAFETY AND H __ EALTH LAW, (SUPPL. 2),2000
+
+> <MC_Example>
+0
+
+> <MC_Pred>
+0
+
+> <DEREK_Example>
+0
+
+> <DEREK_Pred>
+0
+
+> <Molecular_Weight>
+240.38162
+
+> <Set>
+CV3 __  __ 
+
+$$$$

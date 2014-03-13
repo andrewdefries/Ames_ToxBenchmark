@@ -1,0 +1,95 @@
+5385-75-1
+ChemmineR-0127140935XD
+
+ 24 29  0  0  0  0            999 V2000
+     -5.05      0.12      0.00 C   0  0
+     -5.05      1.55      0.00 C   0  0
+     -3.81      2.25      0.00 C   0  0
+     -2.54      1.55      0.00 C   0  0
+     -2.54      0.12      0.00 C   0  0
+     -3.81     -0.57      0.00 C   0  0
+     -1.39     -0.60      0.00 C   0  0
+     -1.41     -2.13      0.00 C   0  0
+     -0.10     -2.89      0.00 C   0  0
+     -0.10     -4.40      0.00 C   0  0
+      1.21     -5.15      0.00 C   0  0
+      2.52     -4.38      0.00 C   0  0
+      2.52     -2.87      0.00 C   0  0
+      1.21     -2.11      0.00 C   0  0
+      1.19     -0.57      0.00 C   0  0
+      2.44      0.12      0.00 C   0  0
+      2.44      1.55      0.00 C   0  0
+      3.78      2.29      0.00 C   0  0
+      3.78      3.83      0.00 C   0  0
+      2.46      4.59      0.00 C   0  0
+      1.19      3.77      0.00 C   0  0
+      1.19      2.25      0.00 C   0  0
+      0.00      1.55      0.00 C   0  0
+      0.00      0.12      0.00 C   0  0
+  1  2  2  0
+  2  3  1  0
+  3  4  2  0
+  4  5  1  0
+  5  6  2  0
+  6  1  1  0
+  5  7  1  0
+  7  8  2  0
+  8  9  1  0
+  9 10  2  0
+ 10 11  1  0
+ 11 12  2  0
+ 12 13  1  0
+ 13 14  2  0
+ 14  9  1  0
+ 14 15  1  0
+ 15 16  2  0
+ 16 17  1  0
+ 17 18  2  0
+ 18 19  1  0
+ 19 20  2  0
+ 20 21  1  0
+ 21 22  2  0
+ 22 17  1  0
+ 22 23  1  0
+ 23  4  1  0
+ 23 24  2  0
+ 24  7  1  0
+ 24 15  1  0
+M  END
+> <canonical_smiles>
+c1ccc2c(c1)c3cc4ccccc4c5cc6ccccc6c2c35
+
+> <CAS_NO>
+5385-75-1
+
+> <Source>
+CCRIS
+
+> <Activity>
+1
+
+> <WDI_Name>
+.
+
+> <REFERENCE>
+MALAVEILLE,C, HAUTEFEUILLE,A, PERIN-ROUSSEL,O, SAGUEM,S,CROISY-DELCEY,M, ZAJDELA,F AND BARTSCH,H, POSSIBLE INVOLVEMENT OF A VICINAL,NON-BAY-REGION DIHYDRODIOL EPOXIDE IN THE ACTIVATION OF DIBENZO[A,E] __ FLUORANTHENEINTO BACTERIAL MUTAGENS, CARCINOGENESIS 5(10):1263-1266, 1984
+
+> <MC_Example>
+0
+
+> <MC_Pred>
+1
+
+> <DEREK_Example>
+0
+
+> <DEREK_Pred>
+1
+
+> <Molecular_Weight>
+302.36796
+
+> <Set>
+CV1 __  __ 
+
+$$$$

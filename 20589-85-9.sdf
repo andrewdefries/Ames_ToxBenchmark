@@ -1,0 +1,55 @@
+20589-85-9
+ChemmineR-0127140935XD
+
+  7  6  0  0  0  0            999 V2000
+    0.2606    0.1503    0.0000 Cl   0  0
+    1.3000    0.7500    0.0000 C    0  0
+    2.6000    0.0000    0.0000 C    0  0
+    2.6000   -1.2000    0.0000 Cl   0  0
+    3.9000    0.7500    0.0000 C    0  0
+    4.9394    0.1503    0.0000 Cl   0  0
+    3.9000    1.9500    0.0000 Cl   0  0
+  1  2  1  0
+  2  3  2  3
+  3  4  1  0
+  3  5  1  0
+  5  6  1  0
+  5  7  1  0
+M  END
+> <canonical_smiles>
+ClC=C(Cl)C(Cl)Cl
+
+> <CAS_NO>
+20589-85-9
+
+> <Source>
+CCRIS
+
+> <Activity>
+1
+
+> <WDI_Name>
+.
+
+> <REFERENCE>
+NESTMANN,ER, LEE,EGH, MATULA,TI, DOUGLAS,GR AND MUELLER,JC,MUTAGENICITY OF CONSTITUENTS IDENTIFIED IN PULP AND PAPER MILL EFFLUENTS USINGTHE SALMONELLA/MAMMALIAN-MICROSOME ASSAY, MUTAT. RES. 79:203-21 __ 2,1980
+
+> <MC_Example>
+0
+
+> <MC_Pred>
+0
+
+> <DEREK_Example>
+0
+
+> <DEREK_Pred>
+1
+
+> <Molecular_Weight>
+179.85998
+
+> <Set>
+CV2 __  __ 
+
+$$$$

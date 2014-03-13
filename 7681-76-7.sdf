@@ -1,0 +1,70 @@
+7681-76-7
+ChemmineR-0127140935XD
+
+ 14 14  0  0  0  0            999 V2000
+    1.4553   -2.0031    0.0000 C   0  0
+    0.7500   -1.0323    0.0000 N   0  0
+    1.2135    0.3943    0.0000 C   0  0
+    2.6375    0.8603    0.0000 C   0  0
+    2.9474    2.3287    0.0000 O   0  0
+    4.3738    2.7955    0.0000 C   0  0
+    4.6216    3.9696    0.0000 O   0  0
+    5.2670    1.9941    0.0000 N   0  0
+    0.0000    1.2760    0.0000 N   0  0
+   -1.2135    0.3943    0.0000 C   0  0
+   -0.7500   -1.0323    0.0000 C   0  0
+   -1.6332   -2.2426    0.0000 N   0  0
+   -2.8264   -2.1154    0.0000 O   0  0
+   -1.1470   -3.3397    0.0000 O   0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+  4  5  1  0
+  5  6  1  0
+  6  7  2  0
+  6  8  1  0
+  3  9  2  0
+  9 10  1  0
+ 10 11  2  0
+ 11  2  1  0
+ 11 12  1  0
+ 12 13  2  0
+ 12 14  1  0
+M  END
+> <canonical_smiles>
+Cn1c(COC(=O)N)ncc1N(=O)O
+
+> <CAS_NO>
+7681-76-7
+
+> <Source>
+EPA3
+
+> <Activity>
+1
+
+> <WDI_Name>
+RONIDAZOL
+
+> <REFERENCE>
+FENG, J, LURATI, L, OUYANG, H, ROBINSON, T, WANG, Y, YUAN, S AND YOUNG, S. PREDICTIVE TOXICOLOGY: BENCHMARKING MOLECULAR DESCRIPTORS AND STATISTICAL METHODS. J. CHEM. INF. COMPUT. SCI. 43: 1463-1470,  __ 2003
+
+> <MC_Example>
+0
+
+> <MC_Pred>
+0
+
+> <DEREK_Example>
+0
+
+> <DEREK_Pred>
+0
+
+> <Molecular_Weight>
+202.16799
+
+> <Set>
+CV4 __  __ 
+
+$$$$

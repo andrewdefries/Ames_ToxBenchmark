@@ -1,0 +1,53 @@
+3675-13-6
+ChemmineR-0127140935XD
+
+  6  5  0  0  0  0            999 V2000
+    0.2606    0.1503    0.0000 O   0  0
+    1.3000    0.7500    0.0000 C   0  0
+    2.6000    0.0000    0.0000 C   0  0
+    3.9000    0.7500    0.0000 C   0  0
+    5.2000    0.0000    0.0000 C   0  0
+    6.2394    0.5997    0.0000 O   0  0
+  1  2  2  0
+  2  3  1  0
+  3  4  2  3
+  4  5  1  0
+  5  6  2  0
+M  END
+> <canonical_smiles>
+O=CC=CC=O
+
+> <CAS_NO>
+3675-13-6
+
+> <Source>
+CCRIS
+
+> <Activity>
+1
+
+> <WDI_Name>
+.
+
+> <REFERENCE>
+PETERSON,LA NARUKO,KC AND PREDECKI,DP, A REACTIVE METABOLITE OF FURAN,CIS-2-BUTENE-1,4-DIAL, IS MUTAGENIC IN THE AMES ASSAY, CHEM. RES. TOXICOL.13(7):531-534, 2000
+
+> <MC_Example>
+0
+
+> <MC_Pred>
+0
+
+> <DEREK_Example>
+0
+
+> <DEREK_Pred>
+1
+
+> <Molecular_Weight>
+84.07336
+
+> <Set>
+CV2 __  __ 
+
+$$$$

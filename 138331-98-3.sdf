@@ -1,0 +1,70 @@
+138331-98-3
+ChemmineR-0127140935XD
+
+ 14 14  0  0  0  0            999 V2000
+    2.3383   -1.3500    0.0000 O   0  0
+    1.2990   -0.7500    0.0000 C   0  0
+    1.2990    0.7500    0.0000 O   0  0
+    0.0000    1.5000    0.0000 C   0  0
+    0.0031    3.0008    0.0000 C   0  0
+    1.3039    3.7494    0.0000 N   0  0
+    1.3070    5.2502    0.0000 N   0  0
+    1.3094    6.4502    0.0000 N   0  0
+   -1.2990    0.7500    0.0000 C   0  0
+   -2.3383    1.3500    0.0000 O   0  0
+   -1.2990   -0.7500    0.0000 C   0  0
+   -2.3383   -1.3500    0.0000 O   0  0
+    0.0000   -1.5000    0.0000 C   0  0
+    0.0000   -2.7000    0.0000 O   0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+  4  5  1  0
+  5  6  1  0
+  6  7  2  3
+  7  8  3  0
+  4  9  1  0
+  9 10  1  0
+  9 11  1  0
+ 11 12  1  0
+ 11 13  1  0
+ 13  2  1  0
+ 13 14  1  0
+M  END
+> <canonical_smiles>
+OC1OC(CN=N#N)C(O)C(O)C1O
+
+> <CAS_NO>
+138331-98-3
+
+> <Source>
+CCRIS
+
+> <Activity>
+1
+
+> <WDI_Name>
+.
+
+> <REFERENCE>
+JURICEK,M, GRUZ,P, VELEMINSKY,J, STANEK,J, KEFURT,K, MORAVCOVA,J ANDJARY,J, MUTAGENIC ACTIVITY OF 6-AZIDO DEOXYHEXOSES AND AZIDO ALCOHOLS INSALMONELLA TYPHIMURIUM AND ITS INHIBITION BY A STRUCTURE-SIM __ ILAR CARBON SOURCEIN THE MEDIUM, MUTAT. RES. 251(1):13-20, 1991
+
+> <MC_Example>
+0
+
+> <MC_Pred>
+1
+
+> <DEREK_Example>
+0
+
+> <DEREK_Pred>
+0
+
+> <Molecular_Weight>
+205.16863
+
+> <Set>
+CV2 __  __ 
+
+$$$$

@@ -1,0 +1,51 @@
+594-20-7
+ChemmineR-0127140935XD
+
+  5  4  0  0  0  0            999 V2000
+    1.3000    1.9500    0.0000 C    0  0
+    1.3000    0.7500    0.0000 C    0  0
+    1.3000   -0.4500    0.0000 C    0  0
+    0.2606    0.1503    0.0000 Cl   0  0
+    2.3394    0.1503    0.0000 Cl   0  0
+  1  2  1  0
+  2  3  1  0
+  2  4  1  0
+  2  5  1  0
+M  END
+> <canonical_smiles>
+CC(C)(Cl)Cl
+
+> <CAS_NO>
+594-20-7
+
+> <Source>
+CCRIS
+
+> <Activity>
+0
+
+> <WDI_Name>
+.
+
+> <REFERENCE>
+TORNERO-VELEZ,R ROSS,MK GRANVILLE,C LASKEY,J JONES,JP DEMARINI,DM ANDEVANS,MV, METABOLISM AND MUTAGENICITY OF SOURCE WATER CONTAMINANTS1,3-DICHLOROPROPANE AND 2,2-DICHLOROPROPANE, DRUG METABOL. DISPOS __ . 32(1):123-131, 2004
+
+> <MC_Example>
+1
+
+> <MC_Pred>
+0
+
+> <DEREK_Example>
+0
+
+> <DEREK_Pred>
+0
+
+> <Set>
+TRAIN
+
+> <Molecular_Weight>
+112.98574 __  __ 
+
+$$$$

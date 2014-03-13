@@ -1,0 +1,82 @@
+106449-56-3
+ChemmineR-0127140935XD
+
+ 19 21  0  0  0  0            999 V2000
+   -0.9991    2.7132    0.0000 N   0  0
+   -1.0028    1.5132    0.0000 C   0  0
+   -2.3155    0.7475    0.0000 N   0  0
+   -2.3155   -0.7475    0.0000 C   0  0
+   -3.3560   -1.3452    0.0000 O   0  0
+   -1.0028   -1.5132    0.0000 N   0  0
+    0.2917   -0.7475    0.0000 C   0  0
+    0.2917    0.7475    0.0000 C   0  0
+    1.7138    1.2033    0.0000 N   0  0
+    2.5889    0.0182    0.0000 C   0  0
+    1.7138   -1.2033    0.0000 N   0  0
+    2.1852   -2.6281    0.0000 C   0  0
+    1.4028   -3.8873    0.0000 C   0  0
+    2.3840   -5.0218    0.0000 C   0  0
+    2.1111   -6.1904    0.0000 O   0  0
+    3.7662   -4.4393    0.0000 C   0  0
+    5.0501   -5.2115    0.0000 C   0  0
+    6.1003   -4.6309    0.0000 O   0  0
+    3.6393   -2.9446    0.0000 O   0  0
+  1  2  1  0
+  2  3  2  0
+  3  4  1  0
+  4  5  1  0
+  4  6  2  0
+  6  7  1  0
+  7  8  2  0
+  8  2  1  0
+  8  9  1  0
+  9 10  2  0
+ 10 11  1  0
+ 11  7  1  0
+ 11 12  1  0
+ 12 13  1  0
+ 13 14  1  0
+ 14 15  1  0
+ 14 16  1  0
+ 16 17  1  0
+ 17 18  1  0
+ 16 19  1  0
+ 19 12  1  0
+M  END
+> <canonical_smiles>
+Nc1nc(O)nc2c1ncn2C3CC(O)C(CO)O3
+
+> <CAS_NO>
+106449-56-3
+
+> <Source>
+CCRIS
+
+> <Activity>
+0
+
+> <WDI_Name>
+.
+
+> <REFERENCE>
+ARASHIDANI,K, IWAMOTO-TANAKA,N, MURAOKA,M AND KASAI,H, GENOTOXICITY OFRIBO- AND DEOXYRIBONUCLEOSIDES OF 8-HYDROXYGUANINE, 5-HYDROXYCYTOSINE, AND2-HYDROXYADENINE: INDUCTION OF SCE IN HUMAN LYMPHOCYTES  __ AND MUTAGENICITY INSALMONELLA TYPHIMURIUM TA100, MUTAT. RES. 403(1-2):223-227, 1998
+
+> <MC_Example>
+0
+
+> <MC_Pred>
+0
+
+> <DEREK_Example>
+0
+
+> <DEREK_Pred>
+0
+
+> <Molecular_Weight>
+267.24132
+
+> <Set>
+CV1 __  __ 
+
+$$$$

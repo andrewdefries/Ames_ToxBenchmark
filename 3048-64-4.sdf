@@ -1,0 +1,61 @@
+3048-64-4
+ChemmineR-0127140935XD
+
+  9 10  0  0  0  0            999 V2000
+   -0.1319   -0.5068    0.0000 C   0  0
+   -0.1225   -1.7068    0.0000 C   0  0
+   -1.4111   -2.4655    0.0000 C   0  0
+   -2.7137   -1.7522    0.0000 C   0  0
+   -3.9387   -2.5121    0.0000 C   0  0
+   -2.2485   -2.4655    0.0000 C   0  0
+   -1.4111   -3.9077    0.0000 C   0  0
+   -2.6361   -4.6675    0.0000 C   0  0
+   -3.9077   -3.9387    0.0000 C   0  0
+  1  2  2  0
+  2  3  1  0
+  3  4  1  0
+  4  5  1  0
+  5  6  1  0
+  6  7  1  0
+  7  3  1  0
+  7  8  1  0
+  8  9  2  3
+  9  5  1  0
+M  END
+> <canonical_smiles>
+C=CC1CC2CC1C=C2
+
+> <CAS_NO>
+3048-64-4
+
+> <Source>
+CCRIS
+
+> <Activity>
+0
+
+> <WDI_Name>
+.
+
+> <REFERENCE>
+VERGNES,JS AND BALLANTYNE,B, INVESTIGATIONS ON THE IN VITRO AND INVIVO GENOTOXIC POTENTIAL OF 5-VINYL-2-NORBORNENE, J. APPL. TOXICOL.18(2):129-142, 1998
+
+> <MC_Example>
+1
+
+> <MC_Pred>
+0
+
+> <DEREK_Example>
+0
+
+> <DEREK_Pred>
+0
+
+> <Set>
+TRAIN
+
+> <Molecular_Weight>
+120.19158 __  __ 
+
+$$$$

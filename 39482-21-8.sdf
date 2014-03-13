@@ -1,0 +1,63 @@
+39482-21-8
+ChemmineR-0127140935XD
+
+ 11 10  0  0  0  0            999 V2000
+    0.2606    0.1503    0.0000 C    0  0
+    1.3000    0.7500    0.0000 Si   0  0
+    1.3000    1.9500    0.0000 C    0  0
+    0.2609    1.3502    0.0000 C    0  0
+    2.6000    0.0000    0.0000 C    0  0
+    3.9000    0.7500    0.0000 N    0  0
+    5.2000    0.0000    0.0000 N    0  0
+    6.2394    0.5997    0.0000 O    0  0
+    3.9031    2.2508    0.0000 C    0  0
+    4.9431    2.8494    0.0000 O    0  0
+    2.8649    2.8526    0.0000 N    0  0
+  1  2  1  0
+  2  3  1  0
+  2  4  1  0
+  2  5  1  0
+  5  6  1  0
+  6  7  1  0
+  7  8  2  0
+  6  9  1  0
+  9 10  2  0
+  9 11  1  0
+M  END
+> <canonical_smiles>
+C[Si](C)(C)CN(N=O)C(=O)N
+
+> <CAS_NO>
+39482-21-8
+
+> <Source>
+CCRIS
+
+> <Activity>
+1
+
+> <WDI_Name>
+.
+
+> <REFERENCE>
+HAKURA,A, KOHDA,K AND KAWAZOE,Y, STUDIES ON CHEMICAL CARCINOGENS ANDMUTAGENS. XXXIX. MUTAGENIC N-TRIMETHYLSILYLMETHYL-N-NITROSOUREA AS A BIOLOGICALALKYLATING AGENT EQUIVALENT TO N-METHYL-N-NITROSOUREA __  (MNU), MUTAT. RES.157(1):87-93, 1985
+
+> <MC_Example>
+0
+
+> <MC_Pred>
+-1
+
+> <DEREK_Example>
+0
+
+> <DEREK_Pred>
+1
+
+> <Molecular_Weight>
+175.26111
+
+> <Set>
+CV4 __  __ 
+
+$$$$

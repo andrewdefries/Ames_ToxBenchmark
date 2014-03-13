@@ -1,0 +1,70 @@
+97-41-6
+ChemmineR-0127140935XD
+
+ 14 14  0  0  0  0            999 V2000
+   -3.3329   -4.6348    0.0000 C   0  0
+   -3.3347   -3.4349    0.0000 C   0  0
+   -2.0366   -2.6817    0.0000 O   0  0
+   -2.0388   -1.1808    0.0000 C   0  0
+   -3.0792   -0.5827    0.0000 O   0  0
+   -0.7500   -0.4330    0.0000 C   0  0
+    0.7500   -0.4330    0.0000 C   0  0
+    2.0388   -1.1808    0.0000 C   0  0
+    2.0366   -2.6816    0.0000 C   0  0
+    3.0745   -3.2838    0.0000 C   0  0
+    0.9963   -3.2797    0.0000 C   0  0
+    0.0000    0.8660    0.0000 C   0  0
+    1.0321    1.4782    0.0000 C   0  0
+   -1.0319    1.4785    0.0000 C   0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+  4  5  2  0
+  4  6  1  0
+  6  7  1  0
+  7  8  1  0
+  8  9  2  3
+  9 10  1  0
+  9 11  1  0
+  7 12  1  0
+ 12  6  1  0
+ 12 13  1  0
+ 12 14  1  0
+M  END
+> <canonical_smiles>
+CCOC(=O)C1C(C=C(C)C)C1(C)C
+
+> <CAS_NO>
+97-41-6
+
+> <Source>
+CCRIS
+
+> <Activity>
+0
+
+> <WDI_Name>
+.
+
+> <REFERENCE>
+SIMMON,VF, RICCIO,ES, ROBINSON,DE AND MITCHELL,AD, IN VITROMICROBIOLOGICAL MUTAGENICITY AND UNSCHEDULED DNA SYNTHESIS STUDIES OF FIFTEENPESTICIDES, EPA/600/1-85/006, NTIS PB85-193761, 1985
+
+> <MC_Example>
+0
+
+> <MC_Pred>
+0
+
+> <DEREK_Example>
+0
+
+> <DEREK_Pred>
+0
+
+> <Molecular_Weight>
+196.28599
+
+> <Set>
+CV3 __  __ 
+
+$$$$

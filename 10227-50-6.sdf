@@ -1,0 +1,65 @@
+10227-50-6
+ChemmineR-0127140935XD
+
+ 11 12  0  0  0  0            999 V2000
+    1.4553   -2.0031    0.0000 O   0  0
+    0.7500   -1.0323    0.0000 C   0  0
+    1.2135    0.3943    0.0000 N   0  0
+    0.0000    1.2760    0.0000 C   0  0
+   -1.2135    0.3943    0.0000 C   0  0
+   -0.7500   -1.0323    0.0000 N   0  0
+   -1.6321   -2.2464    0.0000 C   0  0
+   -3.1114   -2.3441    0.0000 N   0  0
+   -3.4619   -3.8026    0.0000 C   0  0
+   -2.1831   -4.5866    0.0000 C   0  0
+   -1.0423   -3.6127    0.0000 S   0  0
+  1  2  2  0
+  2  3  1  0
+  3  4  1  0
+  4  5  1  0
+  5  6  1  0
+  6  2  1  0
+  6  7  1  0
+  7  8  2  0
+  8  9  1  0
+  9 10  2  0
+ 10 11  1  0
+ 11  7  1  0
+M  END
+> <canonical_smiles>
+O=C1NCCN1c2nccs2
+
+> <CAS_NO>
+10227-50-6
+
+> <Source>
+CCRIS
+
+> <Activity>
+1
+
+> <WDI_Name>
+BA-34357
+
+> <REFERENCE>
+HOF,H, MUTAGENIC ACTIVITIES OF NITROTHIAZOLE DERIVATIVES, ZENTRALBL.BAKTERIOL., MIKROBIOL. HYG., ABT. 1, ORIG. B 181(1-2):64-70, 1985
+
+> <MC_Example>
+0
+
+> <MC_Pred>
+0
+
+> <DEREK_Example>
+0
+
+> <DEREK_Pred>
+0
+
+> <Molecular_Weight>
+169.20428
+
+> <Set>
+CV1 __  __ 
+
+$$$$

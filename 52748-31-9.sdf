@@ -1,0 +1,59 @@
+52748-31-9
+ChemmineR-0127140935XD
+
+  8  9  0  0  0  0            999 V2000
+      2.15      0.00      0.00 O   0  0
+      1.47      1.38      0.00 C   0  0
+      0.00      1.72      0.00 C   0  0
+     -1.23      0.75      0.00 C   0  0
+     -2.57      0.00      0.00 O   0  0
+     -1.23     -0.75      0.00 C   0  0
+      0.00     -1.72      0.00 C   0  0
+      1.47     -1.38      0.00 C   0  0
+  1  2  1  0
+  2  3  2  3
+  3  4  1  0
+  4  5  1  0
+  5  6  1  0
+  6  4  1  0
+  6  7  1  0
+  7  8  2  3
+  8  1  1  0
+M  END
+> <canonical_smiles>
+O1C=CC2OC2C=C1
+
+> <CAS_NO>
+52748-31-9
+
+> <Source>
+CCRIS
+
+> <Activity>
+0
+
+> <WDI_Name>
+.
+
+> <REFERENCE>
+STARK,AA AND RASTETTER,WH, STRUCTURE-ACTIVITY RELATIONSHIPS IN THEMUTAGENICITY AND CYTOTOXICITY OF PUTATIVE METABOLITES AND RELATED ANALOGS OFBENZENE DERIVED FROM THE VALENCE TAUTOMERS BENZENE OXIDE A __ ND OXEPIN, ENVIRON.MOL. MUTAGEN. 28(3):284-293, 1996
+
+> <MC_Example>
+0
+
+> <MC_Pred>
+0
+
+> <DEREK_Example>
+0
+
+> <DEREK_Pred>
+1
+
+> <Molecular_Weight>
+110.11064
+
+> <Set>
+CV3 __  __ 
+
+$$$$

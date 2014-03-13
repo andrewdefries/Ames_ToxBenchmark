@@ -1,0 +1,69 @@
+6850-22-2
+ChemmineR-0127140935XD
+
+ 13 14  0  0  0  0            999 V2000
+    3.7889    0.0269    0.0000 C   0  0
+    2.5889    0.0182    0.0000 N   0  0
+    1.7138    1.2033    0.0000 C   0  0
+    0.2917    0.7475    0.0000 C   0  0
+   -1.0028    1.5132    0.0000 C   0  0
+   -2.3155    0.7475    0.0000 C   0  0
+   -2.3155   -0.7475    0.0000 C   0  0
+   -1.0028   -1.5132    0.0000 C   0  0
+    0.2917   -0.7475    0.0000 C   0  0
+    1.7138   -1.2033    0.0000 N   0  0
+   -3.6187   -1.4919    0.0000 N   0  0
+   -3.6251   -2.6919    0.0000 O   0  0
+   -4.6549   -0.8867    0.0000 O   0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  2  0
+  4  5  1  0
+  5  6  2  0
+  6  7  1  0
+  7  8  2  0
+  8  9  1  0
+  9  4  1  0
+  9 10  2  0
+ 10  2  1  0
+  7 11  1  0
+ 11 12  2  0
+ 11 13  1  0
+M  END
+> <canonical_smiles>
+Cn1cc2ccc(cc2n1)N(=O)O
+
+> <CAS_NO>
+6850-22-2
+
+> <Source>
+CCRIS
+
+> <Activity>
+1
+
+> <WDI_Name>
+.
+
+> <REFERENCE>
+VANCE,WA, OKAMOTO,HS AND WANG,YY, STRUCTURE-ACTIVITY RELATIONSHIPS OFNITRO AND METHYL-NITRO DERIVATIVES OF INDOLINE, INDOLE, INDAZOLE ANDBENZIMIDAZOLE IN SALMONELLA TYPHIMURIUM, MUTAT. RES. 173(3):169 __ -176,1986
+
+> <MC_Example>
+0
+
+> <MC_Pred>
+1
+
+> <DEREK_Example>
+0
+
+> <DEREK_Pred>
+0
+
+> <Molecular_Weight>
+179.17596
+
+> <Set>
+CV4 __  __ 
+
+$$$$

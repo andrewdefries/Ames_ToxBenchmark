@@ -1,0 +1,80 @@
+75965-74-1
+ChemmineR-0127140935XD
+
+ 18 20  0  0  0  0            999 V2000
+   -4.5401   -3.3164    0.0000 C   0  0
+   -4.5502   -2.1164    0.0000 O   0  0
+   -3.2576   -1.3543    0.0000 C   0  0
+   -3.2576    0.1464    0.0000 C   0  0
+   -1.9399    0.8968    0.0000 C   0  0
+   -0.6588    0.1464    0.0000 C   0  0
+   -0.6588   -1.3543    0.0000 C   0  0
+    0.6405   -2.0863    0.0000 C   0  0
+    1.9399   -1.3543    0.0000 C   0  0
+    1.9399    0.1464    0.0000 C   0  0
+    3.0746    1.1530    0.0000 O   0  0
+    2.4524    2.5256    0.0000 C   0  0
+    0.9517    2.3608    0.0000 C   0  0
+    0.6405    0.8968    0.0000 C   0  0
+    3.1918    3.8285    0.0000 N   0  0
+    2.5849    4.8637    0.0000 O   0  0
+    4.3918    3.8370    0.0000 O   0  0
+   -1.9399   -2.0863    0.0000 C   0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  2  0
+  4  5  1  0
+  5  6  2  0
+  6  7  1  0
+  7  8  1  0
+  8  9  2  0
+  9 10  1  0
+ 10 11  1  0
+ 11 12  1  0
+ 12 13  2  0
+ 13 14  1  0
+ 14  6  1  0
+ 14 10  2  0
+ 12 15  1  0
+ 15 16  2  0
+ 15 17  1  0
+  7 18  2  0
+ 18  3  1  0
+M  END
+> <canonical_smiles>
+COc1ccc2c(ccc3oc(cc23)N(=O)O)c1
+
+> <CAS_NO>
+75965-74-1
+
+> <Source>
+CCRIS
+
+> <Activity>
+1
+
+> <WDI_Name>
+R-7000
+
+> <REFERENCE>
+CASTELAIN,P, HENDRICKX,B, TROMELIN,A, DEMERSEMAN,P AND MOENS,W,MUTAGENIC ACTIVITY OF DICHLOROETHYLAMINO DERIVATIVES OF NITRONAPHTHOFURAN ANDSOME NITROBENZOFURANS IN THE SALMONELLA/MICROSOME ASSAY, MUT __ AT. RES.280(1):9-15, 1992
+
+> <MC_Example>
+0
+
+> <MC_Pred>
+1
+
+> <DEREK_Example>
+0
+
+> <DEREK_Pred>
+0
+
+> <Molecular_Weight>
+245.23074
+
+> <Set>
+CV5 __  __ 
+
+$$$$

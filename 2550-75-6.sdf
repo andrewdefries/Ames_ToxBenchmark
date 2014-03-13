@@ -1,0 +1,77 @@
+2550-75-6
+ChemmineR-0127140935XD
+
+ 17 18  0  0  0  0            999 V2000
+    1.1594    0.2808    0.0000 Cl   0  0
+    0.5056   -0.7254    0.0000 C    0  0
+   -0.9697   -0.6586    0.0000 C    0  0
+   -1.6649    0.5123    0.0000 C    0  0
+   -0.3724    1.2693    0.0000 C    0  0
+    0.6711    0.6769    0.0000 Cl   0  0
+   -2.8541    1.3356    0.0000 C    0  0
+   -3.8970    1.9292    0.0000 Cl   0  0
+   -4.2811    0.4574    0.0000 C    0  0
+   -3.6957   -0.6586    0.0000 C    0  0
+   -4.5598   -1.4913    0.0000 Cl   0  0
+   -2.4150    0.0183    0.0000 C    0  0
+   -2.4150   -1.1817    0.0000 Cl   0  0
+   -2.5980    2.8358    0.0000 C    0  0
+   -1.5698    3.4546    0.0000 Cl   0  0
+   -3.6260    3.4547    0.0000 Cl   0  0
+   -5.4811    0.4574    0.0000 Cl   0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+  4  5  1  0
+  5  6  1  0
+  4  7  1  0
+  7  8  1  0
+  7  9  1  0
+  9 10  2  3
+ 10 11  1  0
+ 10 12  1  0
+ 12  3  1  0
+ 12 13  1  0
+ 12 14  1  0
+ 14  7  1  0
+ 14 15  1  0
+ 14 16  1  0
+  9 17  1  0
+M  END
+> <canonical_smiles>
+ClCC1C(CCl)C2(Cl)C(=C(Cl)C1(Cl)C2(Cl)Cl)Cl
+
+> <CAS_NO>
+2550-75-6
+
+> <Source>
+CCRIS
+
+> <Activity>
+0
+
+> <WDI_Name>
+CHLORBICY
+
+> <REFERENCE>
+MERSCH-SUNDERMANN,V, DICKGIESSER,N, HABLIZEL,U AND GRUBER,B,EXAMINATION OF MUTAGENICITY OF ORGANIC MICROCONTAMINATIONS ON THE ENVIRONMENT.PART 1. THE MUTAGENICITY OF SELECTED HERBICIDES AND INSECTICID __ ES WITH THESALMONELLA-MICROSOME TEST (AMES TEST) IN CONSIDERATION OF THE PATHOGENICITY OFCONTAMINATED GROUND- AND DRINKING-WATER, ZENTRALBL. BAKTERIOL., MIKROBIOL. HYG.,SER. B 186(3):247-260, 1988
+
+> <MC_Example>
+0
+
+> <MC_Pred>
+0
+
+> <DEREK_Example>
+0
+
+> <DEREK_Pred>
+1
+
+> <Molecular_Weight>
+397.76793
+
+> <Set>
+CV1 __  __ 
+
+$$$$

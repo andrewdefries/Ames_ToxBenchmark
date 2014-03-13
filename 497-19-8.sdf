@@ -1,0 +1,49 @@
+497-19-8
+ChemmineR-0127140935XD
+
+  4  3  0  0  0  0            999 V2000
+    0.2606    0.1503    0.0000 O   0  0
+    1.3000    0.7500    0.0000 C   0  0
+    2.3394    0.1503    0.0000 O   0  0
+    1.3000    1.9500    0.0000 O   0  0
+  1  2  1  0
+  2  3  2  0
+  2  4  1  0
+M  END
+> <canonical_smiles>
+OC(=O)O
+
+> <CAS_NO>
+497-19-8
+
+> <Source>
+EPA1
+
+> <Activity>
+0
+
+> <WDI_Name>
+ALCO3;ALHYDCARB;NH4BICARB;BACO3;DR0005597;CABICARBO;CARBALDRA;CARBICARB;H2CO3;CUCO3;FECO3;HYDROTALC;LICARBONA;MGCO3;MNCO3;KHCO3;NASESQUIC;ZNCO3
+
+> <REFERENCE>
+KAZIUS, J, MCGUIRE, R AND BURSI, R. DERIVATION AND VALIDATION OF TOXICOPHORES FOR MUTAGENICITY PREDICTION. J. MED. CHEM. 48: 312-320, 2005
+
+> <MC_Example>
+0
+
+> <MC_Pred>
+0
+
+> <DEREK_Example>
+0
+
+> <DEREK_Pred>
+0
+
+> <Molecular_Weight>
+62.02478
+
+> <Set>
+CV1 __  __ 
+
+$$$$

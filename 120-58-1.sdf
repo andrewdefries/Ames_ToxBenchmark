@@ -1,0 +1,67 @@
+120-58-1
+ChemmineR-0127140935XD
+
+ 12 13  0  0  0  0            999 V2000
+   -4.6688    3.5878    0.0000 C   0  0
+   -3.6267    2.9927    0.0000 C   0  0
+   -3.6187    1.4919    0.0000 C   0  0
+   -2.3155    0.7475    0.0000 C   0  0
+   -2.3155   -0.7475    0.0000 C   0  0
+   -1.0028   -1.5132    0.0000 C   0  0
+    0.2917   -0.7475    0.0000 C   0  0
+    1.7138   -1.2033    0.0000 O   0  0
+    2.5889    0.0182    0.0000 C   0  0
+    1.7138    1.2033    0.0000 O   0  0
+    0.2917    0.7475    0.0000 C   0  0
+   -1.0028    1.5132    0.0000 C   0  0
+  1  2  1  0
+  2  3  2  3
+  3  4  1  0
+  4  5  2  0
+  5  6  1  0
+  6  7  2  0
+  7  8  1  0
+  8  9  1  0
+  9 10  1  0
+ 10 11  1  0
+ 11  7  1  0
+ 11 12  2  0
+ 12  4  1  0
+M  END
+> <canonical_smiles>
+CC=Cc1ccc2OCOc2c1
+
+> <CAS_NO>
+120-58-1
+
+> <Source>
+EPA2
+
+> <Activity>
+0
+
+> <WDI_Name>
+ISOSAFROL
+
+> <REFERENCE>
+HELMA, C, CRAMER, T, KRAMER, S, AND DE RAEDT, L, DATA MINING AND MACHINE LEARNING TECHNIQUES FOR THE IDENTIFICATION OF MUTAGENICITY INDUCING SUBSTRUCTURES AND STRUCTURE ACTIVITY RELATIONSHIPS OF NONCO __ NGENERIC COMPOUNDS. J. CHEM. INF. COMPUT. SCI. 44: 1402-1411, 2004
+
+> <MC_Example>
+0
+
+> <MC_Pred>
+0
+
+> <DEREK_Example>
+0
+
+> <DEREK_Pred>
+0
+
+> <Molecular_Weight>
+162.18519
+
+> <Set>
+CV4 __  __ 
+
+$$$$

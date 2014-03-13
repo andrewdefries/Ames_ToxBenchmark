@@ -1,0 +1,53 @@
+110-52-1
+ChemmineR-0127140935XD
+
+  6  5  0  0  0  0            999 V2000
+    0.2606    0.1503    0.0000 Br   0  0
+    1.3000    0.7500    0.0000 C    0  0
+    2.6000    0.0000    0.0000 C    0  0
+    3.9000    0.7500    0.0000 C    0  0
+    5.2000    0.0000    0.0000 C    0  0
+    6.2394    0.5997    0.0000 Br   0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+  4  5  1  0
+  5  6  1  0
+M  END
+> <canonical_smiles>
+BrCCCCBr
+
+> <CAS_NO>
+110-52-1
+
+> <Source>
+CCRIS
+
+> <Activity>
+1
+
+> <WDI_Name>
+.
+
+> <REFERENCE>
+JAPAN CHEMICAL INDUSTRY ECOLOGY- TOXICOLOGY AND INFORMATION    CENTER,JAPAN, MUTAGENICITY TEST DATA OF EXISTING    CHEMICAL SUBSTANCES BASED ON THETOXICITY INVESTIGATION OF    THE INDUSTRIAL SAFETY AN __ D HEALTH LAW,1996
+
+> <MC_Example>
+0
+
+> <MC_Pred>
+1
+
+> <DEREK_Example>
+0
+
+> <DEREK_Pred>
+1
+
+> <Molecular_Weight>
+215.91432
+
+> <Set>
+CV1 __  __ 
+
+$$$$

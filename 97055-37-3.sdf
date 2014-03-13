@@ -1,0 +1,65 @@
+97055-37-3
+ChemmineR-0127140935XD
+
+ 12 11  0  0  0  0            999 V2000
+    1.3000    1.9500    0.0000 O    0  0
+    1.3000    0.7500    0.0000 C    0  0
+    0.2606    0.1503    0.0000 O    0  0
+    2.6000    0.0000    0.0000 C    0  0
+    3.9000    0.7500    0.0000 C    0  0
+    5.2000    0.0000    0.0000 C    0  0
+    6.2394    0.5997    0.0000 Cl   0  0
+    5.2000   -1.2000    0.0000 Cl   0  0
+    3.9031    2.2508    0.0000 C    0  0
+    4.9431    2.8494    0.0000 Cl   0  0
+    2.8649    2.8526    0.0000 Cl   0  0
+    2.6000   -1.2000    0.0000 Cl   0  0
+  1  2  1  0
+  2  3  2  0
+  2  4  1  0
+  4  5  2  3
+  5  6  1  0
+  6  7  1  0
+  6  8  1  0
+  5  9  1  0
+  9 10  1  0
+  9 11  1  0
+  4 12  1  0
+M  END
+> <canonical_smiles>
+OC(=O)C(=C(C(Cl)Cl)C(Cl)Cl)Cl
+
+> <CAS_NO>
+97055-37-3
+
+> <Source>
+EPA1
+
+> <Activity>
+1
+
+> <WDI_Name>
+.
+
+> <REFERENCE>
+KAZIUS, J, MCGUIRE, R AND BURSI, R. DERIVATION AND VALIDATION OF TOXICOPHORES FOR MUTAGENICITY PREDICTION. J. MED. CHEM. 48: 312-320, 2005
+
+> <MC_Example>
+0
+
+> <MC_Pred>
+0
+
+> <DEREK_Example>
+0
+
+> <DEREK_Pred>
+1
+
+> <Molecular_Weight>
+272.34112
+
+> <Set>
+CV4 __  __ 
+
+$$$$

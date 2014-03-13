@@ -1,0 +1,67 @@
+10373-78-1
+ChemmineR-0127140935XD
+
+ 12 13  0  0  0  0            999 V2000
+   -2.2065    0.3937    0.0000 C   0  0
+   -1.5316   -0.5985    0.0000 C   0  0
+   -2.0995   -1.6556    0.0000 C   0  0
+   -0.2641   -1.5492    0.0000 C   0  0
+    0.3873   -0.5457    0.0000 C   0  0
+    0.1232    0.5281    0.0000 C   0  0
+   -1.0563    0.8978    0.0000 C   0  0
+   -1.7462    1.8796    0.0000 C   0  0
+    0.5633    0.8978    0.0000 C   0  0
+    1.5452    1.5877    0.0000 O   0  0
+    1.0386   -0.6338    0.0000 C   0  0
+    2.2386   -0.6338    0.0000 O   0  0
+  1  2  1  0
+  2  3  1  0
+  2  4  1  0
+  4  5  1  0
+  5  6  1  0
+  6  7  1  0
+  7  2  1  0
+  7  8  1  0
+  7  9  1  0
+  9 10  2  0
+  9 11  1  0
+ 11  4  1  0
+ 11 12  2  0
+M  END
+> <canonical_smiles>
+CC1(C)C2CCC1(C)C(=O)C2=O
+
+> <CAS_NO>
+10373-78-1
+
+> <Source>
+CCRIS
+
+> <Activity>
+0
+
+> <WDI_Name>
+.
+
+> <REFERENCE>
+GOMES-CARNEIRO,MR, FELZENSZWALB,I AND PAUMGARTTEN,FJR, MUTAGENICITYTESTING OF (+/-)-CAMPHOR, 1,8-CINEOLE, CITRAL, CITRONELLAL, (-)-MENTHOL ANDTERPINEOL WITH THE SALMONELLA/MICROSOME ASSAY, MUTAT. RES. __  416(1,2):129-136,1998
+
+> <MC_Example>
+0
+
+> <MC_Pred>
+0
+
+> <DEREK_Example>
+0
+
+> <DEREK_Pred>
+0
+
+> <Molecular_Weight>
+166.21696
+
+> <Set>
+CV1 __  __ 
+
+$$$$

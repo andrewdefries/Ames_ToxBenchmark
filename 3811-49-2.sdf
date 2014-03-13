@@ -1,0 +1,69 @@
+3811-49-2
+ChemmineR-0127140935XD
+
+ 13 14  0  0  0  0            999 V2000
+   -3.8813   -1.2189    0.0000 C   0  0
+   -3.8773   -0.0189    0.0000 O   0  0
+   -2.6111    0.7486    0.0000 P   0  0
+   -2.5784    1.9482    0.0000 S   0  0
+   -2.6111   -0.7486    0.0000 O   0  0
+   -1.2964   -1.4973    0.0000 C   0  0
+    0.0000   -0.7486    0.0000 C   0  0
+    1.2964   -1.4973    0.0000 C   0  0
+    2.5929   -0.7486    0.0000 C   0  0
+    2.5929    0.7486    0.0000 C   0  0
+    1.2964    1.4973    0.0000 C   0  0
+    0.0000    0.7486    0.0000 C   0  0
+   -1.2964    1.4973    0.0000 O   0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  2  0
+  3  5  1  0
+  5  6  1  0
+  6  7  1  0
+  7  8  2  0
+  8  9  1  0
+  9 10  2  0
+ 10 11  1  0
+ 11 12  2  0
+ 12  7  1  0
+ 12 13  1  0
+ 13  3  1  0
+M  END
+> <canonical_smiles>
+COP1(=S)OCc2ccccc2O1
+
+> <CAS_NO>
+3811-49-2
+
+> <Source>
+CCRIS
+
+> <Activity>
+1
+
+> <WDI_Name>
+.
+
+> <REFERENCE>
+MORIYA,M OHTA,T WATANABE,K MIYAZAWA,T KATO,K AND SHIRASU,Y, FURTHERMUTAGENICITY STUDIES ON PESTICIDES IN BACTERIAL REVERSION ASSAY SYSTEMS, MUTAT.RES. 116(3-4):185-216,1982
+
+> <MC_Example>
+0
+
+> <MC_Pred>
+0
+
+> <DEREK_Example>
+0
+
+> <DEREK_Pred>
+1
+
+> <Molecular_Weight>
+216.19402
+
+> <Set>
+CV3 __  __ 
+
+$$$$

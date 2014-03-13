@@ -1,0 +1,70 @@
+33973-15-8
+ChemmineR-0127140935XD
+
+ 13 15  0  0  0  0            999 V2000
+   -1.5116   -2.2055    0.0000 C   0  0
+   -1.0000   -1.1200    0.0000 C   0  0
+   -2.4800   -0.7000    0.0000 O   0  0
+   -2.0600    0.7600    0.0000 O   0  0
+   -0.5600    0.3300    0.0000 C   0  0
+   -0.4127    1.5209    0.0000 C   0  0
+    0.9500    0.3800    0.0000 C   0  0
+    1.9500    1.5700    0.0000 C   0  0
+    3.4800    1.2900    0.0000 C   0  0
+    4.0100   -0.1400    0.0000 C   0  0
+    3.0000   -1.3200    0.0000 C   0  0
+    1.4800   -1.0500    0.0000 C   0  0
+    0.2600   -1.9900    0.0000 O   0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+  4  5  1  0
+  5  2  1  0
+  5  6  1  0
+  5  7  1  0
+  7  8  2  0
+  8  9  1  0
+  9 10  2  0
+ 10 11  1  0
+ 11 12  2  0
+ 12  7  1  0
+ 12 13  1  0
+ 13  2  1  0
+M  END
+> <canonical_smiles>
+CC12OOC1(C)c3ccccc3O2
+
+> <CAS_NO>
+33973-15-8
+
+> <Source>
+CCRIS
+
+> <Activity>
+1
+
+> <WDI_Name>
+.
+
+> <REFERENCE>
+ADAM,W, ALBRECHT,O, FEINEIS,E, REUTHER,I, SAHA-MOELLER,CR,SEUFERT-BAUMBACH,P AND WILD,D, BENZOFURAN DIOXETANES, A NEW CLASS OF MUTAGENICAGENTS: SYNTHESIS BY PHOTOOXYGENATION OF BENZOFURAN DERIVATIVES, __ LIEBIGS ANN.CHEM. (1):33-40, 1991
+
+> <MC_Example>
+0
+
+> <MC_Pred>
+0
+
+> <DEREK_Example>
+0
+
+> <DEREK_Pred>
+1
+
+> <Molecular_Weight>
+178.1846
+
+> <Set>
+CV3 __  __ 
+
+$$$$

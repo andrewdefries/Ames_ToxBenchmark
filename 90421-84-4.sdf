@@ -1,0 +1,72 @@
+90421-84-4
+ChemmineR-0127140935XD
+
+ 14 16  0  0  0  0            999 V2000
+    2.0907   -2.3426    0.0000 O   0  0
+    1.7138   -1.2033    0.0000 C   0  0
+    2.5889    0.0182    0.0000 N   0  0
+    4.0872    0.0382    0.0000 C   0  0
+    4.8208    1.3475    0.0000 C   0  0
+    6.0641    2.0369    0.0000 C   0  0
+    4.7540    2.7675    0.0000 O   0  0
+    1.7138    1.2033    0.0000 S   0  0
+    0.2917    0.7475    0.0000 C   0  0
+   -1.0028    1.5132    0.0000 C   0  0
+   -2.3155    0.7475    0.0000 C   0  0
+   -2.3155   -0.7475    0.0000 C   0  0
+   -1.0028   -1.5132    0.0000 C   0  0
+    0.2917   -0.7475    0.0000 C   0  0
+  1  2  2  0
+  2  3  1  0
+  3  4  1  0
+  4  5  1  0
+  5  6  1  0
+  6  7  1  0
+  7  5  1  0
+  3  8  1  0
+  8  9  1  0
+  9 10  2  0
+ 10 11  1  0
+ 11 12  2  0
+ 12 13  1  0
+ 13 14  2  0
+ 14  2  1  0
+ 14  9  1  0
+M  END
+> <canonical_smiles>
+O=C1N(CC2CO2)Sc3ccccc13
+
+> <CAS_NO>
+90421-84-4
+
+> <Source>
+CCRIS
+
+> <Activity>
+0
+
+> <WDI_Name>
+.
+
+> <REFERENCE>
+ZANI,F, MAGGIALI,CA, MINGIARDI,MR AND MAZZA,P, BIOLOGICAL STUDIES ON1,2-BENZISOTHIAZOLE DERIVATIVES. IV. RELATIONSHIPS BETWEEN CHEMICAL STRUCTUREAND GENOTOXICITY, FARMACO 46(5):639-646, 1991
+
+> <MC_Example>
+0
+
+> <MC_Pred>
+-1
+
+> <DEREK_Example>
+0
+
+> <DEREK_Pred>
+1
+
+> <Molecular_Weight>
+207.24896
+
+> <Set>
+CV5 __  __ 
+
+$$$$
