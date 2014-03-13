@@ -3,14 +3,14 @@
 #system("rm *.smi")
 #system("rm *.png")
 #system("unzip YAWYE_clean.sdf.gz")
-#system("cp /home/  /Desktop/YAWYE/YAWYE_clean.sdf .")
+#system("cp /home/andrewdefries/Desktop/ForTyroneHayes/CaliforniaPesticideUse_1991_2014/ChemSpaceThat/MergeSDF/CA_PesticidesMerge_Unique.sdf .")
 #################
 library(ChemmineR)
 #################
 ##data(sdfsample)
 ##cid(sdfsample)<-sdfid(sdfsample)
 ##sdfset<-sdfsample
-files<-list.files(pattern=".sdf", recursive=F)
+files<-list.files(pattern="tox_benchmark_N6512_name.sdf", recursive=F)
 t<-1
 sdfset<-read.SDFset(files[t])
 ###############
@@ -22,6 +22,9 @@ smiset<-sdf2smiles(sdfset) #(sdfset[1:2])
 ################
 WriteSdfOut<-function(a){
 write.SDF(sdfset[[a]], file=paste(cid(sdfset[a]), ".sdf", sep=""), sig=T, cid=T)
+TextOut<-datablocktag(sdfset[a], tag="REFERENCE")
+write.table(TextOut, file=paste(cid(sdfset[a]), ".txt", sep=""))
+###############
 }
 a<-1:length(smiset) #change to 2 for testing
 lapply(a,WriteSdfOut)
@@ -40,7 +43,7 @@ done")
 #source("hwriteMoreTable.R") #works
 source("hwriteMore.R") #fixed
 ###############
-system("firefox test.html")
+#system("firefox test.html")
 ###############
 #to do
 #add smiles field
